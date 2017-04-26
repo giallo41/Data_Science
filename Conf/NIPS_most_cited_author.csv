@@ -1,0 +1,5878 @@
+,author,cite_num,paper_num
+0,Ilya Sutskever,16768,11
+1,Geoffrey E. Hinton,14089,21
+2,Alex Krizhevsky,11057,1
+3,Andrew Y. Ng,9019,27
+4,David M. Blei,6224,17
+5,Yoshua Bengio,4963,29
+6,Jeff Dean,4826,3
+7,Kai Chen,4445,2
+8,Tomas Mikolov,4064,3
+9,Greg S. Corrado,3981,2
+10,Ruslan R. Salakhutdinov,3977,32
+11,Honglak Lee,3969,14
+12,Quoc V. Le,3884,12
+13,Prof. Bernhard Schalkopf,3531,29
+14,Francis R. Bach,3479,21
+15,Rob Fergus,3210,12
+16,Antonio Torralba,3188,18
+17,Hugo Larochelle,3169,7
+18,Pietro Perona,2908,5
+19,Alex J. Smola,2882,20
+20,Eric P. Xing,2844,28
+21,Marc'Aurelio Ranzato,2770,7
+22,Andrew Zisserman,2741,11
+23,Tong Zhang,2720,22
+24,Christof Koch,2626,3
+25,Jonathan Harel,2620,2
+26,Zoubin Ghahramani,2550,29
+27,Michael I. Jordan,2533,45
+28,Pradeep K. Ravikumar,2469,37
+29,Yann LeCun,2344,12
+30,John Blitzer,2251,5
+31,Arthur Gretton,2218,20
+32,Andriy Mnih,2217,4
+33,Martin J. Wainwright,2117,24
+34,Pascal Lamblin,2091,2
+35,Dan Popovici,2076,1
+36,Alexis Battle,2049,2
+37,Kilian Q. Weinberger,2042,10
+38,Rajat Raina,2030,1
+39,Oriol Vinyals,2005,9
+40,Yair Weiss,1911,9
+41,Lawrence K. Saul,1886,7
+42,Jon D. Mcauliffe,1725,2
+43,Benjamin Recht,1691,5
+44,Thomas L. Griffiths,1652,20
+45,Inderjit S. Dhillon,1633,33
+46,Karsten M. Borgwardt,1526,6
+47,Max Welling,1448,16
+48,John D. Lafferty,1447,11
+49,Partha Niyogi,1410,4
+50,Ryan P. Adams,1368,18
+51,Sam T. Roweis,1303,5
+52,Gary Bradski,1293,3
+53,John Langford,1279,14
+54,Kunle Olukotun,1273,4
+55,Massimiliano Pontil,1234,11
+56,Christopher D. Manning,1228,8
+57,Koby Crammer,1226,12
+58,Edo M. Airoldi,1224,4
+59,Xiaofei He,1222,4
+60,Cheng-tao Chu,1216,1
+61,Sang K. Kim,1216,1
+62,Richard Socher,1216,6
+63,Yi-an Lin,1216,1
+64,Yuanyuan Yu,1216,1
+65,Deng Cai,1196,2
+66,Kai Yu,1173,10
+67,Csaba Szepesvari,1168,22
+68,Guillermo Sapiro,1162,8
+69,Le Song,1160,24
+70,Juergen Schmidhuber,1156,9
+71,Julien Mairal,1153,6
+72,Stephen E. Fienberg,1147,1
+73,Rong Jin,1139,22
+74,Lihong Li,1121,5
+75,Amir Globerson,1116,9
+76,Fernando Pereira,1114,6
+77,Yee W. Teh,1113,19
+78,Ashutosh Saxena,1100,8
+79,Trevor Darrell,1099,14
+80,Jiayuan Huang,1088,2
+81,Martin Zinkevich,1087,7
+82,Prateek Jain,1081,24
+83,Sham M. Kakade,1081,17
+84,Samy Bengio,1075,11
+85,Mehryar Mohri,1061,20
+86,Ali Rahimi,1061,5
+87,Yoram Singer,1058,9
+88,Ross Girshick,1052,2
+89,Karen Simonyan,1043,4
+90,Chong Wang,1026,7
+91,Daniel J. Hsu,1022,17
+92,Liefeng Bo,1012,6
+93,Jian Sun,1008,3
+94,Ian Goodfellow,1006,5
+95,Kaiming He,1006,2
+96,Andreas Argyriou,999,4
+97,Daphne Koller,998,11
+98,Sujay Sanghavi,995,11
+99,John C. Duchi,981,11
+100,Kenji Fukumizu,977,14
+101,Shaoqing Ren,964,1
+102,Fei Sha,959,11
+103,Alex Graves,959,8
+104,Jordan L. Boyd-graber,957,2
+105,Dieter Fox,953,3
+106,Neil Bruce,943,2
+107,John Tsotsos,942,1
+108,Li Fei-fei,923,5
+109,Olivier Chapelle,913,9
+110,John Wright,902,4
+111,Klaus-Robert Muller,901,19
+112,Sewoong Oh,898,12
+113,Sean Gerrish,891,3
+114,Remi Munos,884,29
+115,Jasper Snoek,883,4
+116,Sahand Negahban,866,5
+117,Yi Ma,859,3
+118,Masashi Sugiyama,859,19
+119,Christopher Re,854,11
+120,Ke Yang,845,1
+121,Greg Corrado,845,1
+122,Rajat Monga,845,1
+123,Matthieu Devin,845,1
+124,Mark Mao,845,1
+125,Andrew Senior,845,1
+126,Paul Tucker,845,1
+127,Jean Ponce,843,2
+128,Ambuj Tewari,843,19
+129,Pieter Abbeel,840,15
+130,Erik B. Sudderth,838,13
+131,Nicolas L. Roux,832,7
+132,Aude Oliva,831,4
+133,Yigang Peng,828,1
+134,Shankar Rao,828,1
+135,Arvind Ganesh,828,1
+136,Theodoros Evgeniou,822,2
+137,Huan Xu,820,16
+138,Jianxiong Xiao,818,3
+139,Y-lan Boureau,807,2
+140,Matthew Hoffman,803,2
+141,Jason Weston,793,4
+142,Olivier Bousquet,791,1
+143,Leon Bottou,791,1
+144,Li-jia Li,788,2
+145,Jure Leskovec,786,4
+146,Han Liu,785,28
+147,Jonathan Chang,784,2
+148,Larry Wasserman,771,14
+149,Christopher J. Burges,756,2
+150,Jieping Ye,741,20
+151,Hao Su,740,2
+152,John C. Platt,731,3
+153,Bin Yu,729,5
+154,Andreas Krause,729,20
+155,Alex Kulesza,725,6
+156,Deva Ramanan,721,5
+157,Sanjoy Dasgupta,715,11
+158,Markus Weimer,714,2
+159,Yihong Gong,714,5
+160,Chaitanya Ekanadham,713,3
+161,Vladlen Koltun,712,4
+162,Cha Zhang,704,2
+163,Paul A. Viola,704,2
+164,Alekh Agarwal,704,13
+165,Joshua B. Tenenbaum,702,14
+166,Motoaki Kawanabe,701,5
+167,koray kavukcuoglu,700,8
+168,Bolei Zhou,697,1
+169,Agata Lapedriza,697,1
+170,Graham W. Taylor,696,4
+171,Denny Zhou,696,4
+172,David Newman,696,3
+173,Brian Kulis,691,6
+174,Sumit Chopra,689,1
+175,Christopher Poultney,689,1
+176,Andrew McCallum,686,6
+177,Simon Lacoste-Julien,686,8
+178,Jan R. Peters,668,11
+179,Feiping Nie,667,5
+180,Raquel Urtasun,666,15
+181,Nitish Srivastava,665,3
+182,Edward Snelson,663,1
+183,Robert Nowak,658,9
+184,Matthias Hein,655,17
+185,Chris H. Ding,654,5
+186,Stephen Wright,653,3
+187,Ping Li,652,18
+188,Kristen Grauman,650,10
+189,Hal Daume,642,9
+190,Padhraic Smyth,641,8
+191,Heng Huang,637,5
+192,Feng Niu,632,1
+193,Aaron Courville,632,2
+194,Mehdi Mirza,632,2
+195,Xiaogang Wang,629,4
+196,Dilip Krishnan,621,3
+197,Andrea Frome,616,2
+198,Hisashi Kashima,614,4
+199,Julian J. Mcauley,606,3
+200,Alan S. Willsky,605,10
+201,David Silver,604,7
+202,Michael Bowling,601,11
+203,Bill Triggs,599,2
+204,Shai Ben-David,598,4
+205,Andrea Montanari,592,12
+206,S.v.n. Vishwanathan,587,9
+207,Karthik Sridharan,582,12
+208,Laurent Itti,581,4
+209,Lawrence Carin,580,30
+210,Xiao Cai,579,1
+211,Pierre F. Baldi,574,5
+212,Sherjil Ozair,574,1
+213,David Warde-Farley,574,1
+214,Bing Xu,574,1
+215,Jean Pouget-Abadie,574,1
+216,Devavrat Shah,574,14
+217,Shipeng Yu,573,5
+218,Tommi S. Jaakkola,570,8
+219,Peter Welinder,567,2
+220,Constantine Caramanis,566,8
+221,Adam Coates,566,3
+222,Philipp Krahenbuhl,562,1
+223,Edwin V. Bonilla,562,6
+224,Maneesh Sahani,560,15
+225,Robert E. Schapire,559,11
+226,Javier R. Movellan,557,3
+227,Nicolas Usunier,557,8
+228,Paul L. Ruvolo,557,3
+229,Sebastian Thrun,556,3
+230,Jacob Bergsma,552,1
+231,Dale Schuurmans,552,17
+232,Ting-fan Wu,552,1
+233,Jacob Whitehill,552,1
+234,Zhi-hua Zhou,551,3
+235,Zaid Harchaoui,540,9
+236,Yan Largman,539,1
+237,Christopher Williams,539,4
+238,Peter Pham,539,1
+239,Xiaofeng Ren,539,3
+240,Serge J. Belongie,536,3
+241,Jeff Clune,534,2
+242,Jason Yosinski,534,2
+243,Selin Aviyente,531,1
+244,Ke Huang,531,1
+245,Henry Kautz,528,3
+246,Mark Johnson,527,4
+247,Suvrit Sra,526,12
+248,Svetlana Lazebnik,522,4
+249,Koray Kavukcuoglu,521,3
+250,Nathan Srebro,521,8
+251,Shinichi Nakajima,519,8
+252,Lin Liao,518,1
+253,Hod Lipson,515,1
+254,Kamalika Chaudhuri,512,13
+255,Malte Rasch,508,1
+256,Mohammad Ghavamzadeh,506,12
+257,Claire Monteleoni,496,3
+258,Maxim Raginsky,494,4
+259,Tom Minka,494,5
+260,Peter L. Bartlett,494,13
+261,Bharath K. Sriperumbudur,492,8
+262,Michael J. Black,491,11
+263,Ben Taskar,487,10
+264,Lorenzo Torresani,487,4
+265,Mark Schmidt,483,4
+266,Afshin Rostamizadeh,479,6
+267,Aaron Hertzmann,479,3
+268,Ryota Tomioka,478,9
+269,Corinna Cortes,477,8
+270,Lin Xiao,476,3
+271,Richard S. Sutton,471,10
+272,Paul V. Buenau,470,1
+273,Kian M. Chai,470,3
+274,arthur szlam,469,4
+275,Ohad Shamir,468,14
+276,Robert Ragno,467,1
+277,Benjamin Schrauwen,464,7
+278,Dit-Yan Yeung,464,9
+279,Vikas C. Raykar,463,4
+280,Nicolas Heess,462,8
+281,Saren Sonnenburg,459,5
+282,Nuno Vasconcelos,457,12
+283,Benjamin Blankertz,457,5
+284,Boaz Nadler,454,3
+285,Jiquan Ngiam,453,3
+286,Andrew W. Moore,453,5
+287,Steve Branson,452,1
+288,Vikas Sindhwani,450,8
+289,Frederic Jurie,450,1
+290,David M. Mimno,450,2
+291,Frank Moosmann,450,1
+292,Hongyuan Zha,450,8
+293,Joel Veness,444,5
+294,Jun Zhu,444,18
+295,Piyush Rai,441,6
+296,Krishna V. Shenoy,440,7
+297,James Diebel,439,1
+298,Guillaume R. Obozinski,438,5
+299,Dean P. Foster,437,8
+300,Ralf Herbrich,437,2
+301,Thore Graepel,437,2
+302,Neil D. Lawrence,436,8
+303,Jeff A. Bilmes,435,15
+304,Zhouchen Lin,435,4
+305,Alan L. Yuille,434,16
+306,Byron M. Yu,434,7
+307,Sung H. Chung,432,1
+308,Kyunghyun Cho,431,6
+309,Richard Zemel,428,7
+310,Nati Srebro,427,15
+311,John P. Cunningham,420,10
+312,Shie Mannor,419,18
+313,Xiaoou Tang,418,5
+314,Richard Baraniuk,416,5
+315,Rie Johnson,416,2
+316,Francis Bach,415,12
+317,Vittorio Ferrari,415,4
+318,Arthur U. Asuncion,413,3
+319,Antoine Bordes,409,2
+320,Xi Chen,409,12
+321,Sanja Fidler,409,5
+322,Karol Gregor,407,4
+323,David P. Wipf,407,8
+324,Andrea Vedaldi,403,7
+325,Jeffrey Pennin,401,1
+326,Ryan Kiros,401,4
+327,Eric H. Huang,401,1
+328,Hanna M. Wallach,400,2
+329,Gert R. Lanckriet,397,5
+330,Cristian Sminchisescu,396,6
+331,Ben Recht,394,5
+332,Gunnar Ratsch,393,5
+333,Abhishek Kumar,392,3
+334,Sharon Goldwater,392,2
+335,Ronald Ortner,391,4
+336,Raghunandan Keshavan,391,1
+337,Anat Levin,390,1
+338,Zhixun Su,388,1
+339,Risheng Liu,388,1
+340,Aaron C. Courville,388,5
+341,Liqing Zhang,387,2
+342,Xiaojin Zhu,386,11
+343,Nathaniel D. Daw,386,3
+344,Hang Li,383,5
+345,Eric Moulines,383,5
+346,Mark Dredze,381,3
+347,Jon Shlens,381,1
+348,Jens Kober,380,2
+349,Min-ling Zhang,378,1
+350,Joris M. Mooij,378,6
+351,Eero P. Simoncelli,378,11
+352,Aarti Singh,378,10
+353,Christoph Bregler,377,3
+354,Morgan Quigley,376,1
+355,Choon H. Teo,375,3
+356,Alexander Rakhlin,374,8
+357,Volodymyr Mnih,371,5
+358,Jitendra Malik,370,4
+359,Xiaodi Hou,370,1
+360,Vinod Nair,368,3
+361,Emily Fox,368,8
+362,Volkan Cevher,367,11
+363,Jennifer Wortman,367,4
+364,Raymond J. Mooney,365,1
+365,Razvan C. Bunescu,365,1
+366,Emily L. Denton,361,2
+367,Shakir Mohamed,361,7
+368,Peter Auer,361,3
+369,Pascal Vincent,360,5
+370,Mark Girolami,359,6
+371,Wolfgang Einhaeuser,359,1
+372,Moran Cerf,359,1
+373,James S. Bergstra,359,2
+374,John S. Shawe-taylor,359,5
+375,Wei Chu,358,5
+376,Yi Sun,358,3
+377,Abhinav Gupta,357,3
+378,Katherine A. Heller,357,8
+379,Pierre Sermanet,348,1
+380,Michael Mathieu,348,1
+381,Mikhail Belkin,347,11
+382,Pushmeet Kohli,344,11
+383,Martial Hebert,342,3
+384,Dan Ciresan,340,1
+385,Luca M. Gambardella,340,1
+386,Alessandro Giusti,340,1
+387,S. S. Keerthi,338,3
+388,Yuheng Chen,337,1
+389,Jean-philippe Vert,336,5
+390,Balazs Kegl,335,2
+391,Yi Mao,331,3
+392,Phil Blunsom,331,3
+393,Alessandro Lazaric,331,10
+394,Danqi Chen,327,1
+395,Dominik Janzing,327,4
+396,Stephen Gould,325,3
+397,Yang Wang,325,7
+398,Iain Murray,325,8
+399,Remi Bardenet,324,2
+400,Razvan Pascanu,323,4
+401,Rajesh P. Rao,322,8
+402,Victor Lempitsky,322,4
+403,Stephane Lafon,319,1
+404,Michael Johanson,319,2
+405,Ioannis Kevrekidis,319,1
+406,Ronald R. Coifman,319,1
+407,Greg Mori,318,7
+408,Jack Wang,317,1
+409,Roger P. Levy,317,2
+410,William T. Freeman,316,3
+411,Peter Dayan,316,14
+412,Thorsten Joachims,315,3
+413,Nan Du,314,7
+414,Marius Kloft,314,4
+415,Takeo Kanade,314,2
+416,Daniel M. Roy,312,6
+417,Diederik P. Kingma,311,5
+418,Jianbo Shi,311,3
+419,Mingrui Wu,309,2
+420,Wojciech Zaremba,305,4
+421,Eric Grimson,304,2
+422,Varun Ganapathi,304,2
+423,Sergey Levine,303,9
+424,Qiang Wu,303,2
+425,Kenichi Kurihara,303,3
+426,Josh Tenenbaum,303,10
+427,Omer Levy,300,1
+428,Yoav Goldberg,300,1
+429,Praveen Srinivasan,300,2
+430,Dean Pomerleau,299,1
+431,Tom M. Mitchell,299,1
+432,Dumitru Erhan,299,2
+433,Mark Palatucci,299,1
+434,David A. McAllester,298,3
+435,Shai Shalev-shwartz,298,6
+436,Matyas A. Sustik,298,3
+437,Armand Joulin,297,3
+438,Yann N. Dauphin,296,2
+439,Carlos Guestrin,294,10
+440,Timothee Cour,293,1
+441,Christian Szegedy,293,2
+442,J. Z. Kolter,291,3
+443,Nicol N. Schraudolph,291,4
+444,Rodolphe Jenatton,290,3
+445,Sundeep Rangan,289,6
+446,Noah Goodman,289,8
+447,Alyson K. Fletcher,289,6
+448,Yukun Zhu,288,2
+449,Arjun Jain,288,1
+450,Balaji Krishnapuram,288,4
+451,Jonathan J. Tompson,288,1
+452,David Grangier,287,3
+453,Yishay Mansour,287,5
+454,Alexander Toshev,287,1
+455,Daniel Golovin,285,4
+456,Chinmay Hegde,285,3
+457,Laurent Jacob,284,2
+458,Sanjiv Kumar,284,6
+459,Gopal Santhanam,283,3
+460,Stephen I. Ryu,283,3
+461,Volker Tresp,281,3
+462,Slav Petrov,280,3
+463,Mustafa Suleyman,280,2
+464,Karl Moritz Hermann,280,2
+465,Pang W. Koh,280,2
+466,Percy S. Liang,280,12
+467,Zhenghao Chen,280,2
+468,Edward Grefenstette,280,2
+469,Jun Liu,279,6
+470,Tamara L. Berg,279,1
+471,Vicente Ordonez,279,1
+472,Girish Kulkarni,279,1
+473,Zhengdong Lu,277,5
+474,Max Jaderberg,276,2
+475,Ciamac C. Moallemi,274,3
+476,Matthias Seeger,274,6
+477,Soumya Ray,274,2
+478,Fernando Torre,273,3
+479,James T. Kwok,273,5
+480,Oksana Yakhnenko,272,1
+481,Elad Hazan,272,16
+482,Alberto Garcia-Duran,272,1
+483,Surya Ganguli,272,7
+484,Ali Jalali,270,2
+485,Irwin King,270,7
+486,Matthias Bethge,270,12
+487,Kurt Miller,269,1
+488,Jian Peng,269,2
+489,Jason D. Lee,268,8
+490,Andrew Saxe,268,2
+491,Lester W. Mackey,267,2
+492,Jimmy Ba,267,4
+493,Mark Steyvers,267,5
+494,Alexandros Karatzoglou,266,1
+495,Purnamrita Sarkar,265,3
+496,Yuhong Guo,265,6
+497,Danilo Jimenez Rezende,265,5
+498,Tiberio S. Caetano,264,9
+499,David Pal,264,4
+500,Tie-yan Liu,264,6
+501,M. P. Kumar,262,3
+502,Benjamin V. Roy,260,4
+503,Edward Meeds,260,2
+504,Ling Huang,260,4
+505,Lasse Espeholt,260,2
+506,Su-in Lee,259,2
+507,Mark Herbster,258,7
+508,Praneeth Netrapalli,258,4
+509,Jonas Peters,258,3
+510,Tony Jebara,258,12
+511,Po-ling Loh,258,2
+512,Miguel a. Carreira-Perpinan,257,3
+513,Andrew G. Barto,257,4
+514,Gal Elidan,255,6
+515,Piotr Dollar,255,3
+516,Sainbayar Sukhbaatar,255,2
+517,Cho-jui Hsieh,255,2
+518,Burr Settles,254,1
+519,Mark Craven,254,1
+520,Moritz Hardt,254,5
+521,Angela J. Yu,254,8
+522,David R. Karger,254,1
+523,Lu Ren,253,3
+524,Pavel Laskov,253,2
+525,J. A. Bagnell,253,2
+526,David M. Bradley,253,2
+527,Andrej Karpathy,253,2
+528,T. F. Jaeger,252,1
+529,Carmelo Piccione,252,1
+530,Jason Farquhar,251,2
+531,David Sontag,251,6
+532,Yuchen Zhang,250,4
+533,Xinhua Zhang,250,11
+534,Ce Liu,249,3
+535,Markus Maier,249,2
+536,Sebastian Seung,249,2
+537,Thomas Jaksch,249,1
+538,Jonathan W. Pillow,247,22
+539,Hao Wang,247,4
+540,Raghu Meka,246,2
+541,Aaron Defazio,244,3
+542,James Petterson,243,7
+543,Benjamin Packer,243,2
+544,Alessandro Bergamo,243,2
+545,Rina Foygel,243,5
+546,Naftali Tishby,242,7
+547,Christian Puhrsch,241,1
+548,David Eigen,241,1
+549,Aaron van den Oord,240,3
+550,Marco F. Duarte,240,2
+551,Lei Wang,240,4
+552,Yoav Freund,239,4
+553,Ulf Brefeld,238,1
+554,Alexander Zien,238,1
+555,Douglas Eck,238,2
+556,Srikantan S. Nagarajan,238,5
+557,Abhishek Anand,238,1
+558,Hema S. Koppula,238,1
+559,Patrik O. Hoyer,237,1
+560,Zenglin Xu,237,6
+561,Stephen Green,236,2
+562,Stefanie Jegelka,236,11
+563,Ulrike V. Luxburg,234,4
+564,David B. Dunson,234,14
+565,Frank Wood,234,8
+566,Bryan Russell,232,4
+567,Sebastien Bubeck,232,5
+568,Emanuel Todorov,232,3
+569,Umar Syed,232,7
+570,Joel Tropp,231,2
+571,Shuicheng Yan,231,8
+572,Seunghak Lee,231,3
+573,Doina Precup,231,12
+574,Tianbao Yang,230,8
+575,Michalis K. Titsias,230,4
+576,Thierry Bertin-mahieux,227,1
+577,Paul Lamere,227,1
+578,Viren Jain,226,4
+579,Jonathan D. Cohen,226,4
+580,Wolfgang Maass,226,11
+581,Milind Ganjoo,225,1
+582,Benjamin Van Roy,225,8
+583,Amos J. Storkey,225,10
+584,Mingyuan Zhou,224,5
+585,Bruno A. Olshausen,224,4
+586,Xiaohai Sun,224,1
+587,Naiyan Wang,223,1
+588,Bharath Bath,223,1
+589,Brody Huval,223,1
+590,Taiji Suzuki,222,6
+591,Hamid R. Maei,221,2
+592,Matthias Krauledat,221,3
+593,Alexander T. Ihler,221,10
+594,Chuong B. Do,220,4
+595,Rene Vidal,220,3
+596,Shai Avidan,219,2
+597,Joelle Pineau,219,9
+598,Navdeep Jaitly,218,4
+599,Vadim V. Nikulin,217,2
+600,Arindam Banerjee,217,12
+601,Olivier Delalleau,216,3
+602,Baback Moghaddam,216,2
+603,Felix A. Wichmann,216,2
+604,Hamed Valizadegan,215,2
+605,R. B. Rao,214,2
+606,Qirong Ho,214,5
+607,Frank Mcsherry,214,2
+608,Soumith Chintala,214,1
+609,Tomas Kocisky,214,1
+610,Will Kay,214,1
+611,Anima Anandkumar,213,7
+612,Simon Osindero,213,3
+613,Manuel Gomez Rodriguez,211,4
+614,Ameet Talwalkar,210,2
+615,Wolf Kienzle,210,1
+616,Matthias O. Franz,210,1
+617,Alexander G. Gray,209,8
+618,Qiang Liu,209,9
+619,Yi-kai Liu,209,2
+620,Paramveer Dhillon,209,3
+621,Qiang Yang,209,2
+622,Nando de Freitas,207,5
+623,Geremy Heitz,206,3
+624,Mario Fritz,206,4
+625,Yangqing Jia,206,4
+626,XuanLong Nguyen,205,6
+627,Ehsan Elhamifar,205,3
+628,Sameer Singh,205,2
+629,Joseph Keshet,205,4
+630,Mladen Kolar,204,4
+631,Tim Salimans,204,4
+632,Jian Li,204,4
+633,Yee Whye Teh,204,9
+634,Tianshi Gao,204,2
+635,Hsuan-tien Lin,203,2
+636,Pierre Garrigues,203,3
+637,Lorenzo Rosasco,203,11
+638,Chao Ruan,202,1
+639,George Dahl,202,1
+640,Abdel-rahman Mohamed,202,1
+641,Nir Ailon,201,3
+642,Michael Kearns,201,6
+643,Michael Lyu,201,4
+644,Matthew Streeter,200,4
+645,Lukasz Kaiser,200,2
+646,Bhaskar D. Rao,200,3
+647,Amnon Shashua,199,4
+648,Sandor Szedmak,199,1
+649,Hongying Meng,199,1
+650,Karl Schultz,199,1
+651,David Hardoon,199,1
+652,Fei Fei F. Li,198,1
+653,Tejas D. Kulkarni,198,3
+654,Barnabas Poczos,198,11
+655,Rupesh K. Srivastava,198,2
+656,Brendan J. Frey,197,6
+657,Vijay Mahadevan,197,3
+658,Shalabh Bhatnagar,197,4
+659,Linli Xu,197,2
+660,Friederike Hohlefeld,197,1
+661,Terry Koo,196,1
+662,Yiming Yang,195,4
+663,Rahul Sukthankar,195,3
+664,Cedric Archambeau,195,3
+665,Nina Taft,195,2
+666,Guy Lebanon,195,3
+667,Ofer Dekel,194,8
+668,Tobias Scheffer,193,7
+669,Charles Blundell,193,5
+670,David K. Duvenaud,192,6
+671,Bo Zhang,192,7
+672,Xubo Song,192,1
+673,Gilles Blanchard,192,6
+674,Andriy Myronenko,192,1
+675,Zhi-Hua Zhou,191,5
+676,Michael C. Mozer,191,11
+677,Manik Varma,190,2
+678,Peter J. Ramadge,189,5
+679,Yuan Qi,189,6
+680,Laurent Dinh,189,2
+681,Tamir Hazan,188,6
+682,Wenyuan Dai,188,1
+683,Richard L. Lewis,188,4
+684,Yuqiang Chen,188,1
+685,Gui-rong Xue,188,1
+686,Yong Yu,188,1
+687,Bertrand Thirion,188,5
+688,Ron Zass,187,2
+689,Ross B. Girshick,187,1
+690,Pedro F. Felzenszwalb,187,1
+691,Luca Dall'asta,186,1
+692,George Konidaris,186,4
+693,Alain Barrat,186,1
+694,Radford M. Neal,186,2
+695,Alessandro Vespignani,186,1
+696,J. I. Alvarez-hamelin,186,1
+697,Ryan G. Gomes,185,2
+698,Stephen Boyd,185,3
+699,Lyle H. Ungar,183,2
+700,John W. Paisley,183,1
+701,Haojun Chen,183,1
+702,Carl E. Rasmussen,183,4
+703,Hang Cui,182,1
+704,Edward Y. Chang,182,1
+705,Zhihuan Qiu,182,1
+706,Kaihua Zhu,182,1
+707,Hongjie Bai,182,1
+708,Charless C. Fowlkes,181,2
+709,Emmanuel Candes,181,2
+710,Junyuan Xie,181,1
+711,Manfred Opper,181,12
+712,Mehrdad Mahdavi,181,6
+713,Enhong Chen,181,1
+714,Ingo Steinwart,180,6
+715,Yaser Sheikh,180,2
+716,Joao Gama,180,2
+717,Kuzman Ganchev,180,2
+718,Caglar Gulcehre,179,1
+719,Seth Myers,179,1
+720,Yao-liang Yu,179,5
+721,Kuang-chih Lee,178,2
+722,Jiayu Zhou,178,3
+723,Magnus Rattray,177,4
+724,Nebojsa Jojic,177,8
+725,David J. Fleet,177,3
+726,Alexander J. Smola,177,7
+727,Thomas Brox,176,4
+728,Alexey Dosovitskiy,176,4
+729,Sivaraman Balakrishnan,175,6
+730,Rich Caruana,175,2
+731,Yves Grandvalet,175,4
+732,Maria-Florina F. Balcan,175,8
+733,Sander Dieleman,174,1
+734,Richard S. Zemel,174,7
+735,Liam Paninski,173,14
+736,Keke Chen,173,1
+737,Zhaohui Zheng,173,1
+738,Gordon Sun,173,1
+739,Alexandre Karpenko,173,1
+740,Yasin Abbasi-yadkori,173,1
+741,Shibin Parameswaran,173,1
+742,Daniel D. Lee,173,10
+743,Margareta Ackerman,172,3
+744,Jason Palmer,172,2
+745,Leonid Sigal,172,4
+746,Sida Wang,172,4
+747,Siddharth Batra,172,1
+748,Daniel Chia,172,1
+749,Mohammad Norouzi,171,3
+750,Christin Schafer,171,2
+751,Martin Riedmiller,171,2
+752,Tao Qin,171,5
+753,Nathan Silberman,171,2
+754,Bhiksha Raj,171,4
+755,Lars Buesing,171,7
+756,Manfred K. Warmuth,170,7
+757,Anshumali Shrivastava,170,4
+758,Geoffrey J. Gordon,170,6
+759,Garth A. Gibson,169,2
+760,Jin Kyu Kim,169,2
+761,Akshay Krishnamurthy,168,7
+762,Song Han,168,1
+763,Chunhua Shen,168,5
+764,John Tran,168,1
+765,Jeff Pool,168,1
+766,William Dally,168,1
+767,Jakob H. Macke,168,10
+768,Stefan Wager,167,3
+769,Carl Doersch,167,1
+770,Misha Denil,167,3
+771,Alexei A. Efros,167,1
+772,Jean-baptiste Poline,166,2
+773,Marcus Liwicki,166,2
+774,Tapani Raiko,166,4
+775,Cho-Jui Hsieh,166,9
+776,Dennis Strelow,165,1
+777,Eunho Yang,165,7
+778,Xiaoxiao Guo,165,3
+779,Chaitanya Chemudugunta,165,1
+780,Satinder Singh,165,3
+781,Nagarajan Natarajan,164,5
+782,David Blei,164,11
+783,Purushottam Kar,163,7
+784,Marius Leordeanu,163,1
+785,Rishabh K. Iyer,163,5
+786,Chris Baker,163,2
+787,Vivek Goyal,162,2
+788,Shenghuo Zhu,162,5
+789,Fei Li,161,2
+790,Gilles Stoltz,160,2
+791,Larry S. Davis,160,3
+792,Dashan Gao,160,1
+793,Guido Sanguinetti,160,5
+794,Tamara Broderick,159,5
+795,Tomaso Poggio,159,6
+796,Shai Shalev-Shwartz,159,5
+797,Dan Klein,159,7
+798,Martin Jaggi,159,2
+799,Ryan Mcdonald,159,1
+800,Dimitris Samaras,159,6
+801,Andras Antos,159,2
+802,Junbo Zhao,159,2
+803,Dan Walker,159,1
+804,Petros Drineas,159,5
+805,Yingyu Liang,159,6
+806,Gideon S. Mann,159,1
+807,Xiang Zhang,159,1
+808,Baotian Hu,158,1
+809,Qingcai Chen,158,1
+810,Victor Gabillon,157,4
+811,Clayton Scott,157,5
+812,Marco Cuturi,157,6
+813,Klaus Greff,157,2
+814,Robert Gens,157,2
+815,Nino Shervashidze,156,1
+816,Yuval Tassa,155,3
+817,Alan A. Stocker,155,8
+818,Katrina Ligett,155,1
+819,Romer Rosales,155,2
+820,Christos Boutsidis,155,4
+821,Harald Steck,155,2
+822,David Hsu,154,4
+823,Weilong Yang,154,2
+824,Wei Xu,154,2
+825,Stanislas Lauly,153,2
+826,Minmin Chen,153,1
+827,Gael Varoquaux,152,5
+828,Pedro Domingos,152,3
+829,Jianhui Chen,152,2
+830,Long Zhu,151,4
+831,Zhao Xu,151,1
+832,Laurent E. Ghaoui,151,4
+833,Nicola L. Talbot,151,1
+834,Nando D. Freitas,151,5
+835,Gavin C. Cawley,151,1
+836,Sheng-jun Huang,151,1
+837,Victor Bittorf,149,2
+838,Kate Saenko,149,4
+839,Jakob J. Verbeek,149,1
+840,Kathryn Roeder,149,2
+841,Novi Quadrianto,149,6
+842,Sridhar Mahadevan,149,4
+843,Dino Sejdinovic,149,5
+844,Joan Bruna,147,1
+845,Alexandre Gramfort,147,3
+846,Nawanol Ampornpunt,146,1
+847,Michael W. Mahoney,146,7
+848,Jian Zhang,146,3
+849,Wray Buntine,146,2
+850,Keith Grochow,146,1
+851,Dongryeol Lee,146,5
+852,Aaron Shon,146,1
+853,Aurelie C. Lozano,146,7
+854,Zhaonan Sun,146,1
+855,Wulfram Gerstner,146,10
+856,Greg Ganger,145,1
+857,Ren Xiaofeng,145,1
+858,Sethu Vijayakumar,145,6
+859,Phillip B. Gibbons,145,1
+860,Henggang Cui,145,1
+861,James Cipar,145,1
+862,Francois Laviolette,144,6
+863,Andreas Christmann,144,4
+864,Mathieu Salzmann,144,3
+865,Ichiro Takeuchi,144,6
+866,Feng Zhou,144,1
+867,Eric Cosatto,143,2
+868,John V. Arthur,143,2
+869,Ed Vul,143,4
+870,Balaji V. Srinivasan,143,1
+871,Ronan Collobert,143,2
+872,Vlad I. Morariu,143,1
+873,Ramani Duraiswami,143,1
+874,Sumit Basu,143,1
+875,Debajyoti Ray,142,2
+876,Alyosha Efros,142,2
+877,Miguel Lazaro-Gredilla,142,5
+878,Brahim Chaib-draa,141,4
+879,Nikos Vlassis,141,2
+880,Charles Kemp,141,11
+881,Kenneth Kreutz-Delgado,141,1
+882,Vinayak Rao,141,6
+883,Wu-jun Li,140,2
+884,Jiashi Feng,140,4
+885,Tian Lan,140,2
+886,Yuanhao Chen,140,3
+887,Jean-yves Audibert,139,2
+888,Xianjie Chen,139,1
+889,Philip Torr,138,6
+890,Guillaume Alain,138,1
+891,Michael L. Littman,138,3
+892,Li Yao,138,1
+893,Satyen Kale,137,8
+894,Sebastian Nowozin,137,4
+895,Amir Navot,137,2
+896,Guido F. Montufar,137,2
+897,Carsten Rother,137,5
+898,Claudio Gentile,137,8
+899,Vibhav Gogate,136,3
+900,Wee S. Lee,136,4
+901,Venkatesh Saligrama,135,7
+902,Jie Luo,135,3
+903,Ijaz Akhter,135,1
+904,Zhen J. Xiang,135,2
+905,Gal Chechik,135,4
+906,Sohaib Khan,135,1
+907,Ji Liu,134,8
+908,Marcello Pelillo,133,2
+909,Samuel R. Bulo,133,2
+910,Jinbo Xu,133,2
+911,Lavi Shpigelman,132,2
+912,Eilon Vaadia,132,2
+913,Finale Doshi-velez,132,3
+914,Zoran Popovic,132,3
+915,Paris Smaragdis,132,3
+916,Massih Amini,132,2
+917,Francesco Orabona,132,7
+918,Stefano Soatto,131,5
+919,Shiqian Ma,131,2
+920,Bill Freeman,131,6
+921,Charles Cadieu,131,2
+922,Babak Shakibi,131,1
+923,Takafumi Kanamori,130,4
+924,Kevin Swersky,130,3
+925,Po-Ling Loh,130,3
+926,Jia Deng,130,2
+927,Ling Li,130,1
+928,Rebecca Willett,130,3
+929,Prem K. Gopalan,130,4
+930,Marc Lanctot,129,5
+931,Jeff Beck,129,4
+932,Minos Garofalakis,128,1
+933,Nicolas Vayatis,128,9
+934,Anthony Joseph,128,1
+935,Donald Goldfarb,128,1
+936,Katya Scheinberg,128,1
+937,Mathias Berglund,128,3
+938,Horst Bunke,128,1
+939,Dilan Gorur,128,3
+940,Santiago Fernandez,128,1
+941,Madhusudana Shashanka,127,2
+942,Alina Beygelzimer,127,4
+943,Josef Sivic,127,2
+944,Daniel Tarlow,127,6
+945,Kevin G. Jamieson,126,5
+946,John Duchi,126,3
+947,Christian Widmer,126,2
+948,Shaojun Wang,125,4
+949,Steven J. Phillips,125,2
+950,Miroslav Dudik,125,2
+951,Alfred O. Hero,125,5
+952,Liang Sun,125,4
+953,Mikko Honkala,125,2
+954,Andrew E. Waters,125,1
+955,Youngmin Cho,125,2
+956,Aswin C. Sankaranarayanan,125,1
+957,Xuejun Liao,125,6
+958,Yiming Ying,125,4
+959,Tom Erez,125,2
+960,Mate Lengyel,124,11
+961,Karl Rohe,124,2
+962,Harri Valpola,124,2
+963,Colin Campbell,124,2
+964,Antti Rasmus,124,2
+965,Nan Ye,124,3
+966,Matthew Blaschko,124,5
+967,Yudong Chen,123,3
+968,Alexander C. Berg,123,1
+969,Vicki Cheung,123,1
+970,Alec Radford,123,1
+971,Weihao Kong,123,1
+972,Sanjeev Satheesh,123,1
+973,Gregory F. Cooper,123,1
+974,Daniel B. Neill,123,1
+975,Jose Miguel Hernandez-Lobato,122,5
+976,Rosie Jones,122,1
+977,Ragesh Jaiswal,122,1
+978,Andre Wibisono,122,4
+979,Ben Carterette,122,1
+980,Sudheendra Vijayanarasimhan,122,2
+981,Stephane Ross,121,3
+982,Srinivas C. Turaga,121,2
+983,Vikas Singh,121,8
+984,Carl Edward Rasmussen,121,4
+985,Philipp Hennig,121,6
+986,Winfried Denk,121,2
+987,Moritz N. Helmstaedter,121,2
+988,Zhandong Liu,121,3
+989,Jost Tobias Springenberg,120,2
+990,Michael Wakin,120,1
+991,Thomas Hofmann,120,3
+992,Kaushik Sinha,119,3
+993,William F. Whitney,119,1
+994,Amir M. Farahmand,119,2
+995,Junhua Mao,119,3
+996,Odalric Maillard,118,3
+997,Kwabena Boahen,118,2
+998,Yael Niv,118,3
+999,Alan Fern,117,6
+1000,Lei Zhang,117,3
+1001,Salah Rifai,117,1
+1002,Justin Kearns,117,1
+1003,Xavier Muller,117,1
+1004,Mateusz Malinowski,117,1
+1005,Justin Driemeyer,117,1
+1006,Steffen Bickel,117,2
+1007,Feng Liang,116,4
+1008,Ning Chen,116,2
+1009,Alexandru Balan,116,1
+1010,D. McAllester,116,1
+1011,M. Belkin,116,1
+1012,Y. Altun,116,1
+1013,Jeff G. Schneider,115,4
+1014,Matthieu Courbariaux,115,2
+1015,Rui M. Castro,115,2
+1016,Zheng Zhao,115,1
+1017,Animashree Anandkumar,115,3
+1018,Konrad Grzeska,114,1
+1019,Ashia C. Wilson,114,1
+1020,Max Sagebaum,114,1
+1021,Nicholas Boyd,114,1
+1022,Carmen Vidaurre,114,1
+1023,Stephen J. Roberts,114,3
+1024,Michael Schroder,114,1
+1025,Masayuki Karasuyama,114,3
+1026,Beat Flepp,113,1
+1027,Dmitriy Serdyuk,113,1
+1028,Jan Ben,113,1
+1029,Francesco Dinuzzo,113,2
+1030,Urs Muller,113,1
+1031,Dzmitry Bahdanau,113,1
+1032,Mauricio Alvarez,113,2
+1033,Jan K. Chorowski,113,1
+1034,Andrew Goldberg,112,1
+1035,Peter Hoff,112,1
+1036,David C. Parkes,112,6
+1037,Jun Wang,112,3
+1038,John Winn,112,5
+1039,Alexandros Kalousis,112,3
+1040,Junming Xu,112,1
+1041,Dmitry Malioutov,112,2
+1042,Hariharan Narayanan,112,3
+1043,Cyril Goutte,111,1
+1044,Siwei Lyu,111,7
+1045,Yi Zhang,111,3
+1046,Carl Vondrick,111,5
+1047,Adam Woznica,111,2
+1048,Jonathan Masci,111,3
+1049,Vittorio Murino,111,4
+1050,Gerhard Neumann,111,4
+1051,Jin Yu,110,4
+1052,Kristina Toutanova,110,1
+1053,Joseph K. Bradley,110,3
+1054,Mathias Drton,110,2
+1055,Gergely Neu,110,6
+1056,Cordelia Schmid,110,2
+1057,Marcello Restelli,110,4
+1058,Yaakov Engel,110,2
+1059,Stephen Tyree,110,1
+1060,Dor Kedem,110,1
+1061,Woonhyun Nam,109,1
+1062,Peter V. Gehler,109,2
+1063,Kevin Waugh,109,2
+1064,Thomas P. Hayes,109,1
+1065,Gabriele Schweikert,109,1
+1066,Joon Hee Han,109,1
+1067,Martin Takac,109,2
+1068,Varsha Dani,109,1
+1069,Noam Shazeer,109,1
+1070,Jue Wang,108,2
+1071,Jonathan Terhorst,108,1
+1072,Lirong Xia,108,3
+1073,Virginia Smith,108,1
+1074,Nathan D. Ratliff,108,1
+1075,Joel Chestnutt,108,1
+1076,Sonia A. Bhaskar,108,1
+1077,Huahua Wang,108,4
+1078,Sanjay Krishnan,108,1
+1079,Joseph J. Lim,108,2
+1080,Fabian H. Sinz,108,3
+1081,Mikhail Traskin,107,1
+1082,Kevin P. Murphy,107,4
+1083,Nan Ding,107,6
+1084,Duy Nguyen-tuong,107,1
+1085,Mengye Ren,107,1
+1086,Murat Dundar,106,2
+1087,Ravi Kumar,106,3
+1088,Wei Fan,106,2
+1089,Jianchang Mao,106,1
+1090,Ruofei Zhang,106,1
+1091,Congcong Li,105,2
+1092,Tomoharu Iwata,105,5
+1093,Jie Zhou,105,1
+1094,Leonidas J. Guibas,105,4
+1095,Bart Selman,105,6
+1096,Tsuhan Chen,105,2
+1097,Yuxin Chen,105,1
+1098,Haoyuan Gao,105,1
+1099,Mohammad J. Saberian,105,2
+1100,Zhiheng Huang,105,1
+1101,Hamed Pirsiavash,104,3
+1102,Jalal Fadili,104,4
+1103,Matthew W. Hoffman,104,2
+1104,Ronny Luss,103,2
+1105,Yisong Yue,103,3
+1106,Qihui Zhu,103,1
+1107,Gary Huang,103,1
+1108,Marwan Mattar,103,1
+1109,Garvesh Raskutti,103,3
+1110,Nicolo Cesa-bianchi,103,6
+1111,Erik G. Learned-miller,103,1
+1112,Bernhard Nessler,102,3
+1113,Xavier Bresson,102,4
+1114,Jean-Pierre David,102,1
+1115,Daphna Weinshall,102,4
+1116,Polina Golland,102,3
+1117,Devi Parikh,102,2
+1118,Daniel Zoran,102,4
+1119,Jimmy SJ Ren,102,2
+1120,Li Xu,102,2
+1121,Byron Boots,102,3
+1122,Changyou Chen,102,5
+1123,Jiawei Han,101,3
+1124,Eyke Hullermeier,101,4
+1125,Wei Chen,101,6
+1126,Faustino Gomez,101,2
+1127,Wangmeng Zuo,101,2
+1128,Xu-dong Zhang,101,1
+1129,De-sheng Wang,101,1
+1130,Douglas Aberdeen,101,3
+1131,David A. Knowles,101,3
+1132,Ashish Sabharwal,101,6
+1133,Dhruv Batra,100,5
+1134,Weike Pan,100,1
+1135,Jost Springenberg,100,2
+1136,Christopher Meek,100,5
+1137,Yu-feng Li,100,1
+1138,Avishek Saha,100,1
+1139,Yizao Wang,100,1
+1140,Chonghai Hu,100,1
+1141,Thomas Buhler,100,1
+1142,Yarin Gal,99,2
+1143,Mario Marchand,99,5
+1144,Shijun Wang,99,1
+1145,Yang Zhou,99,1
+1146,Rebecca Saxe,99,1
+1147,John Schulman,99,3
+1148,Carla P. Gomes,98,5
+1149,Marc Toussaint,98,3
+1150,Wei Zhang,98,2
+1151,Nicolas Boumal,98,2
+1152,Boqing Gong,98,3
+1153,Michiel Hermans,98,1
+1154,Pedro O. Pinheiro,97,1
+1155,Kohei Hayashi,97,4
+1156,Florian Steinke,97,3
+1157,Jianke Zhu,97,3
+1158,Chang-shui Zhang,97,3
+1159,Ozgur Simsek,97,2
+1160,Cun-hui Zhang,97,4
+1161,Uri Shalit,97,2
+1162,Jonathan Huang,96,4
+1163,Hao Xu,96,1
+1164,Deepak Agarwal,96,2
+1165,Emile Richard,96,6
+1166,Roland Memisevic,96,3
+1167,Alexandre D'aspremont,96,2
+1168,Sven Dickinson,96,1
+1169,Trevor J. Hastie,96,3
+1170,Glenn M. Fung,96,1
+1171,Piotr Koniusz,96,1
+1172,Seyoung Kim,96,4
+1173,Mehrdad Farajtabar,95,3
+1174,Delbert Dueck,95,1
+1175,Andrew Cotter,95,3
+1176,Niao He,95,3
+1177,Ming-Hsuan Yang,95,2
+1178,Michael I. Mandel,95,1
+1179,Linda G. Shapiro,95,1
+1180,Ben Calderhead,95,3
+1181,Dahua Lin,95,3
+1182,Shulin Yang,95,2
+1183,Aurelien Garivier,95,2
+1184,Daniel P. Ellis,95,1
+1185,Oliver Stegle,95,3
+1186,Marijn F. Stollenga,95,2
+1187,Rong Ge,95,2
+1188,Edouard Grave,95,1
+1189,David Barber,95,5
+1190,Nakul Verma,94,2
+1191,Tom Heskes,94,4
+1192,Adler J. Perotte,94,2
+1193,Hal Daume III,94,4
+1194,Sam Patterson,94,1
+1195,Peder A. Olsen,94,3
+1196,Zhaoran Wang,94,11
+1197,Jingrui He,94,2
+1198,Olivier Cappe,94,2
+1199,S. Zahnd,93,1
+1200,Jing Lei,93,2
+1201,P. Lichtsteiner,93,1
+1202,Srikanth Jagabathula,93,4
+1203,S. C. Liu,93,1
+1204,Wee Sun Lee,93,4
+1205,T. Delbruck,93,1
+1206,H. Kolle Riis,93,1
+1207,F. Gomez-Rodriguez,93,1
+1208,Will Zou,93,1
+1209,Meire Fortunato,93,1
+1210,R. Paz-Vicente,93,1
+1211,Meirav Galun,93,1
+1212,Sung Ju Hwang,93,3
+1213,A. Linares-Barranco,93,1
+1214,R. Serrano-Gotarredona,93,1
+1215,Mayank Kabra,93,1
+1216,M. Oster,93,1
+1217,Feng Yan,93,2
+1218,Zhaosong Lu,92,2
+1219,Shih-Fu Chang,92,2
+1220,Alain Rakotomamonjy,92,2
+1221,Naonori Ueda,92,3
+1222,Mauro Maggioni,92,1
+1223,Lanier Benkard,92,1
+1224,Gabriel Y. Weintraub,92,1
+1225,Tomasz Malisiewicz,92,1
+1226,Mark Lee,92,1
+1227,Mitesh Khapra,91,1
+1228,Jason V. Davis,91,1
+1229,Karsten Borgwardt,91,5
+1230,Krikamol Muandet,91,2
+1231,Vikash K. Mansinghka,91,3
+1232,Parikshit Ram,91,3
+1233,Fredrik Lindsten,91,3
+1234,Amrita Saha,91,1
+1235,Sarath Chandar A P,91,1
+1236,Balaraman Ravindran,91,1
+1237,Pietro Berkes,91,4
+1238,Longin J. Latecki,91,5
+1239,Simon Gunter,91,1
+1240,Silvia Chiappa,91,3
+1241,Sarah Filippi,91,1
+1242,Jurgen V. Gael,91,1
+1243,Ronald Parr,91,2
+1244,Daan Wierstra,91,3
+1245,Joao P. Costeira,90,1
+1246,Alexandre Bernardino,90,1
+1247,Ricardo S. Cabral,90,1
+1248,Yichao Lu,90,3
+1249,Chenxi Lin,90,2
+1250,Hannes Nickisch,90,2
+1251,Wei Liu,90,2
+1252,Ningyi Xu,90,1
+1253,Jiaya Jia,90,2
+1254,Yizhou Sun,89,1
+1255,Joe Zachariah,89,1
+1256,Noah A. Smith,89,3
+1257,Jing Gao,89,1
+1258,Scott Roy,89,1
+1259,Weiwei Cheng,89,2
+1260,Raghu Ramakrishnan,89,1
+1261,Seung-taek Park,89,1
+1262,Willem Waegeman,89,2
+1263,Nitin Motgi,89,1
+1264,Pradheep Elango,89,1
+1265,Bee-chung Chen,89,1
+1266,Heiko Strathmann,88,2
+1267,Martha White,88,4
+1268,Sergio Guadarrama,88,1
+1269,Cun Mu,88,1
+1270,Kihyuk Sohn,88,3
+1271,Judy Hoffman,88,1
+1272,Anna E. Choromanska,88,2
+1273,Gunhee Kim,88,2
+1274,Eric S. Tzeng,88,1
+1275,Jeff Donahue,88,1
+1276,Ronghang Hu,88,1
+1277,Simon Setzer,88,2
+1278,Nicholas Bartlett,87,2
+1279,Deepayan Chakrabarti,87,2
+1280,Yirong Shen,87,1
+1281,Jose M. Hernandez-lobato,87,4
+1282,Kenneth W. Church,87,2
+1283,Pierre-antoine Manzagol,87,1
+1284,Sasha Rakhlin,86,3
+1285,Filip Radlinski,86,1
+1286,Qihang Lin,86,3
+1287,Steven Rennie,86,2
+1288,Andrew W. Fitzgibbon,86,1
+1289,Eli Upfal,86,1
+1290,Deqing Sun,86,1
+1291,Antonio Sutera,85,1
+1292,Peter Orbanz,85,2
+1293,Mohsen Hejrati,85,1
+1294,Pierre Geurts,85,1
+1295,Gilles Louppe,85,1
+1296,Louis Wehenkel,85,1
+1297,Laurent Zwald,85,1
+1298,Danial Lashkari,85,2
+1299,Joshua W. Robinson,85,1
+1300,Ian Osband,85,4
+1301,Ashish Kapoor,85,4
+1302,Michael Pfeiffer,85,3
+1303,Joshua L. Moore,85,1
+1304,Arnd C. Kanig,85,1
+1305,Alexander J. Hartemink,85,1
+1306,Tuo Zhao,85,6
+1307,Richard E. Turner,85,5
+1308,Il Memming Park,84,7
+1309,Thomas Griffiths,84,3
+1310,Fabian L. Wauthier,84,3
+1311,Anton Hengel,84,1
+1312,Deanna Needell,84,1
+1313,Pascal Germain,84,4
+1314,Junae Kim,84,1
+1315,Kaizhu Huang,84,1
+1316,Rachel Ward,84,1
+1317,Adarsh Kowdle,83,1
+1318,Amin Karbasi,83,5
+1319,Ozan Irsoy,83,1
+1320,Alexandre Lacasse,83,3
+1321,Chiranjib Bhattacharyya,83,7
+1322,Chang D. Yoo,83,2
+1323,Zhirong Yang,83,3
+1324,Qiuhua Liu,83,1
+1325,Claire Cardie,83,1
+1326,William D. Smart,83,1
+1327,Anton Chechetka,82,2
+1328,Rocco Servedio,82,6
+1329,Stephen Becker,82,3
+1330,Stephane Canu,82,1
+1331,Pierre-antoine Absil,82,1
+1332,Xiaoshi Wang,82,1
+1333,Andrea Caponnetto,82,1
+1334,Yann Dauphin,82,2
+1335,Fabian J. Theis,82,1
+1336,Stephan J. Clemenccon,81,5
+1337,Indraneel Mukherjee,81,2
+1338,Shay B. Cohen,81,3
+1339,Joseph L. Austerweil,81,6
+1340,Junhyuk Oh,81,1
+1341,Aditya Khosla,81,2
+1342,Lei Yuan,81,1
+1343,Fang Han,80,5
+1344,Nicolo Cesa-Bianchi,80,4
+1345,David Uminsky,80,2
+1346,Florent Krzakala,80,5
+1347,Russell Poldrack,80,2
+1348,Thomas Laurent,80,3
+1349,Yu Zhang,80,3
+1350,Genevera Allen,79,1
+1351,Dirk Husmeier,79,2
+1352,Bo Xie,79,2
+1353,Lars K. Hansen,79,4
+1354,Andrew Wilson,78,2
+1355,Charles Isbell,78,2
+1356,Oren Boiman,78,1
+1357,Deepti Pachauri,78,3
+1358,Ran El-Yaniv,78,5
+1359,Umut Simsekli,78,2
+1360,Amir-massoud Farahmand,78,2
+1361,Yi Zhen,78,1
+1362,Michal Irani,78,1
+1363,Karen A. Glocer,78,1
+1364,Brendan McMahan,78,3
+1365,Shengbo Guo,78,2
+1366,Scott E. Reed,78,3
+1367,Alexander L. Strehl,78,2
+1368,Yuekai Sun,78,4
+1369,Prasad Tadepalli,78,5
+1370,Vincent Delaitre,77,1
+1371,Greg Hamerly,77,1
+1372,Peter Grunwald,77,6
+1373,Seung-jean Kim,77,1
+1374,Alessandro Magnani,77,1
+1375,Bing Bai,77,2
+1376,Yu Feng,77,1
+1377,Richard Turner,77,4
+1378,Patrick Gallinari,77,3
+1379,Yevgeny Seldin,77,4
+1380,Deepak Verma,77,2
+1381,Baharan Mirzasoleiman,77,3
+1382,David Woodruff,77,6
+1383,Ivan Laptev,77,1
+1384,Bruno Scherrer,76,4
+1385,Alexandre Bouchard-cete,76,7
+1386,Botond Cseke,76,3
+1387,Xin Chen,76,1
+1388,Freeman Rawson,76,1
+1389,Bing Yu,76,1
+1390,Rajarshi Das,76,1
+1391,Gerald Tesauro,76,1
+1392,Gregory Zelinsky,76,1
+1393,Mauricio Araya,76,2
+1394,Weijie Su,76,1
+1395,Sandeep Pandey,76,1
+1396,Charles Lefurgy,76,1
+1397,David Levine,76,1
+1398,Hoi Chan,76,1
+1399,Bernt Schiele,76,4
+1400,Christopher Olston,76,1
+1401,Stefan Harmeling,76,1
+1402,Jeffrey Kephart,76,1
+1403,Yichuan Tang,76,2
+1404,Hirsch Michael,76,1
+1405,Ming Yuan,76,1
+1406,Jorge Silva,75,3
+1407,Pierre Dangauthier,75,1
+1408,Anastasios Zouzias,75,1
+1409,Ali T. Cemgil,75,1
+1410,Manqi Zhao,75,1
+1411,Dror Baron,75,1
+1412,David P. Capel,75,1
+1413,Shriram Sarvotham,75,1
+1414,Michael B. Wakin,75,1
+1415,Krzysztof J. Dembczynski,75,1
+1416,Kenan Y. Yilmaz,75,1
+1417,John W. Fisher,75,2
+1418,Lyndsey C. Pickup,75,1
+1419,Avrim Blum,75,5
+1420,Jiajun Wu,75,3
+1421,Jorge Nocedal,75,2
+1422,Richard G. Baraniuk,75,1
+1423,Pascal Fua,74,3
+1424,Jonathan L. Long,74,1
+1425,Maryam Mahdaviani,74,2
+1426,Sergey Karayev,74,2
+1427,Jennifer Tam,74,1
+1428,Figen Oztoprak,74,1
+1429,David Forsyth,74,4
+1430,Ning Zhang,74,1
+1431,Noemie Elhadad,74,1
+1432,Jiri Simsa,74,1
+1433,Tim Lillicrap,74,3
+1434,Sean Hyde,74,1
+1435,Luis V. Ahn,74,1
+1436,Yoshinobu Kawahara,74,6
+1437,Jie Wang,74,4
+1438,Martin Kiefel,74,1
+1439,Lumin Zhang,74,1
+1440,Stuart J. Russell,74,6
+1441,Kevin Briggman,74,1
+1442,Tai Qin,74,1
+1443,Zhenyue Zhang,73,2
+1444,Celine Levy-leduc,73,1
+1445,Chenlei Leng,73,5
+1446,Bo Dai,73,2
+1447,Michael D. Lee,73,2
+1448,Gabriel Curio,73,2
+1449,Sungwoong Kim,73,1
+1450,Robert A. Legenstein,73,5
+1451,Tommi Jaakkola,73,6
+1452,Hagai T. Attias,73,3
+1453,Joachim M. Buhmann,73,5
+1454,Yao-nan Chen,73,1
+1455,John V. Guttag,73,3
+1456,Robert V. Lindsey,73,4
+1457,Kensuke Sekihara,73,3
+1458,Phil Long,72,5
+1459,Tengyu Ma,72,4
+1460,Adhiraj Somani,72,1
+1461,Andreas Geiger,72,1
+1462,Christian Wojek,72,1
+1463,Oliver Williams,72,2
+1464,Anil K. Jain,72,2
+1465,Jaime G. Carbonell,72,1
+1466,Shuhang Gu,72,1
+1467,Zhi-Quan Luo,72,3
+1468,Xiangchu Feng,72,1
+1469,Peter Stobbe,72,1
+1470,George Alvarez,71,1
+1471,Yan Duan,71,2
+1472,Thomas G. Dietterich,71,3
+1473,Josip Djolonga,71,4
+1474,Xiaoli Z. Fern,71,3
+1475,Rein Houthooft,71,2
+1476,Akshay Balsubramani,71,3
+1477,Agnes Radl,71,1
+1478,Varun Sharma,71,1
+1479,Sean Holden,71,2
+1480,Alessandro Perina,71,3
+1481,Antoni B. Chan,71,2
+1482,Andrew Naish-guzman,71,2
+1483,Lyle Ungar,71,2
+1484,Raman Arora,70,4
+1485,Pierre Baldi,70,2
+1486,Peter J. Sadowski,70,2
+1487,Fernando Perez-Cruz,70,5
+1488,Sylvain Arlot,70,2
+1489,Robert E. Tillman,70,2
+1490,Adam Kalai,70,3
+1491,Harold Pashler,70,4
+1492,David Pfau,70,3
+1493,Natasha Mohanty,70,1
+1494,Isabel Valera,70,5
+1495,Nikos Paragios,70,2
+1496,Russell Greiner,70,4
+1497,Dan Ventura,70,2
+1498,Rama Chellappa,70,3
+1499,Alexandros Paraschos,70,1
+1500,Christian Daniel,70,1
+1501,Xuerui Wang,70,1
+1502,Balaji Lakshminarayanan,70,2
+1503,Siamac Fazli,70,2
+1504,Ivor W. Tsang,69,1
+1505,Harm de Vries,69,1
+1506,Erkki Oja,69,2
+1507,Robert C. Williamson,69,4
+1508,Rik Sarkar,69,1
+1509,Yu-Xiang Wang,69,3
+1510,Mark D. Reid,69,5
+1511,Wouter M. Koolen,69,9
+1512,Daniil Ryabko,69,4
+1513,Luc V. Gool,69,4
+1514,Andrea Bonarini,69,1
+1515,Anant Raj,68,1
+1516,Peggy Hackney,68,1
+1517,Andras Gyargy,68,5
+1518,Laurent Charlin,68,2
+1519,Christopher C. Johnson,68,1
+1520,Rie Kubota Ando,68,1
+1521,Amarnag Subramanya,68,1
+1522,David Wingate,68,3
+1523,Kevin Tang,68,1
+1524,Robert D. Skeel,68,1
+1525,Vignesh Ramanathan,68,1
+1526,Andrew M. Dai,68,1
+1527,Youhan Fang,68,1
+1528,Ryan Babbush,68,1
+1529,Matthew Botvinick,68,3
+1530,Hartmut Neven,68,1
+1531,Kevin Bleakley,67,1
+1532,Dirk Walther,67,2
+1533,Fabian Triefenbach,67,1
+1534,Brendan Frey,67,1
+1535,Jean-pierre Martens,67,1
+1536,Yichen Wang,67,3
+1537,Jacob D. Abernethy,67,5
+1538,Michael Saunders,67,2
+1539,Hossein Azari Soufiani,67,3
+1540,Diane Beck,67,2
+1541,Varun Kanade,67,4
+1542,Tim V. Erven,67,3
+1543,Mu Li,67,1
+1544,David G. Andersen,67,1
+1545,Sajid M. Siddiqi,67,1
+1546,Azarakhsh Jalalvand,67,1
+1547,Donghui Yan,67,1
+1548,Duan Tran,66,1
+1549,Shiguang Shan,66,2
+1550,Mingjun Zhong,66,3
+1551,Dmitry P. Vetrov,66,3
+1552,Merlise Clyde,66,1
+1553,Harikrishna Narasimhan,66,4
+1554,Dinesh Jayaraman,66,1
+1555,David MacKay,66,2
+1556,Kevin Lang,66,1
+1557,Abhay Jha,66,1
+1558,Risi Kondor,66,5
+1559,Alexandra Meliou,66,1
+1560,Dan Suciu,66,1
+1561,David A. Forsyth,66,1
+1562,Cheng S. Ong,66,1
+1563,Hongzhou Lin,66,1
+1564,Joel Z. Leibo,66,3
+1565,Judea Pearl,66,5
+1566,Artin Armagan,66,1
+1567,Ariel D. Procaccia,65,3
+1568,Alex Strehl,65,1
+1569,Abhijeet Ghosh,65,1
+1570,Ke Chen,65,2
+1571,Xingjian SHI,65,3
+1572,Scott Kuindersma,65,1
+1573,Yan Karklin,65,3
+1574,Florencia Reali,65,1
+1575,Lenka Zdeborova,65,4
+1576,Brochu Eric,65,1
+1577,Roderic Grupen,65,1
+1578,Hamed Masnadi-shirazi,65,2
+1579,Phillip Isola,65,1
+1580,Zhihua Zhang,65,6
+1581,Jenna Wiens,65,2
+1582,Ashesh Jain,64,1
+1583,Francois Fleuret,64,6
+1584,Soumya Ghosh,64,2
+1585,Jing Wang,64,1
+1586,Behnam Neyshabur,64,4
+1587,Florian Losch,64,1
+1588,Xiubo Geng,64,1
+1589,Xinghao Pan,64,4
+1590,Brian Wojcik,64,1
+1591,Guido Dornhege,64,1
+1592,Antonio Criminisi,64,3
+1593,Peter Wonka,64,3
+1594,Owen Macindoe,64,1
+1595,Tomer Ullman,64,1
+1596,Peter Frazier,64,2
+1597,Shivani Agarwal,64,6
+1598,Kazuyuki Aihara,64,1
+1599,Owain Evans,64,1
+1600,Yanyan Lan,63,2
+1601,Andrew Mchutchon,63,1
+1602,Mark van der Wilk,63,2
+1603,Jason K. Johnson,63,2
+1604,James Lloyd,63,1
+1605,Xiao-ming Wu,63,3
+1606,Stephen Bach,62,2
+1607,Kaushik Subramanian,62,1
+1608,Michael Freedman,62,1
+1609,Li Cheng,62,1
+1610,Hado V. Hasselt,62,1
+1611,Andrea L. Thomaz,62,1
+1612,Samory Kpotufe,62,6
+1613,Terry Caelli,62,1
+1614,Afsheen Afshar,62,1
+1615,Hongjiang Zhang,62,1
+1616,Jonathan Scholz,62,1
+1617,Marc Bellemare,62,3
+1618,Toni Pitassi,62,2
+1619,Shane Griffith,62,1
+1620,Sushant Sachdeva,62,2
+1621,Leon Gatys,61,1
+1622,Vishal Verma,61,1
+1623,Guy Broeck,61,1
+1624,Yunchao Gong,61,1
+1625,Anand Sarwate,61,1
+1626,Tanya Schmah,61,1
+1627,Ardavan Saeedi,61,2
+1628,Steven L. Small,61,1
+1629,Grzegorz Swirszcz,61,1
+1630,Alexander S. Ecker,61,1
+1631,Zhourong Chen,61,1
+1632,Naoki Abe,61,1
+1633,Stephen Strother,61,1
+1634,Zhi Yang,61,3
+1635,Wai-kin Wong,61,1
+1636,Tom Schaul,61,2
+1637,Qi Zhao,61,2
+1638,Wang-chun WOO,61,1
+1639,Minjie Xu,61,2
+1640,Chen Chen,61,1
+1641,Wentai Liu,61,2
+1642,Eric Price,61,2
+1643,Sheng Chen,61,4
+1644,Xun Zheng,61,2
+1645,Ke Jiang,61,2
+1646,Junzhou Huang,61,1
+1647,Nikhil Rao,61,5
+1648,Bohyung Han,60,2
+1649,Zhenguo Li,60,3
+1650,Shuai Huang,60,2
+1651,Eric Reiman,60,2
+1652,Hirotaka Hachiya,60,2
+1653,Teresa Wu,60,2
+1654,Adam Fleisher,60,2
+1655,Falk Lieder,60,2
+1656,Hongjing Lu,60,6
+1657,Mukund Narasimhan,60,1
+1658,Kewei Chen,60,2
+1659,Oluwasanmi O. Koyejo,60,7
+1660,Dan Feldman,60,3
+1661,Jing Li,60,2
+1662,Marco Grzegorczyk,60,1
+1663,Malik Magdon-Ismail,59,6
+1664,Barbara Caputo,59,1
+1665,Christian K. Machens,59,6
+1666,Niranjan U N,59,1
+1667,Yusuke Watanabe,59,2
+1668,David E. Carlson,59,8
+1669,Jinfeng Yi,59,2
+1670,Arnaud Doucet,59,4
+1671,Matt Jones,59,3
+1672,Ce Zhang,59,5
+1673,Sinisa Todorovic,59,2
+1674,Sixin Zhang,59,1
+1675,Michalis Raptis,59,2
+1676,Vitaly Feldman,59,4
+1677,John W. Fisher III,59,5
+1678,Roi Livni,59,2
+1679,Yousef Saad,58,1
+1680,Thanh Ngo,58,1
+1681,Menachem Fromer,58,1
+1682,Tsuyoshi Kato,58,1
+1683,Alessandro Bissacco,58,1
+1684,Shoou-I Yu,58,1
+1685,Theophane Weber,58,2
+1686,Junyoung Chung,58,2
+1687,Ron Meir,58,6
+1688,Alexander Hauptmann,58,1
+1689,Dan Cornford,58,1
+1690,Yuan Shen,58,1
+1691,Zhenzhong Lan,58,1
+1692,Deyu Meng,58,1
+1693,Lise Getoor,58,2
+1694,Lu Jiang,58,1
+1695,Samuel Gerber,58,1
+1696,Arvind Agarwal,58,1
+1697,Peter Mccracken,58,1
+1698,Guangzhi Cao,58,1
+1699,Charles Bouman,58,1
+1700,Dan Roy,58,1
+1701,Kiyoshi Asai,58,1
+1702,Vladimir Kolmogorov,58,2
+1703,Matthias Broecheler,58,2
+1704,Roger Frigola,58,2
+1705,Kyle Kastner,58,1
+1706,Kratarth Goel,58,1
+1707,Kwang I. Kim,58,1
+1708,Shravan M. Narayanamurthy,57,2
+1709,Zheng Qu,57,1
+1710,Lucas Theis,57,2
+1711,Arthur Guez,57,3
+1712,Dmitry Volkinshtein,57,2
+1713,Scott Sanner,57,2
+1714,David Parks,57,1
+1715,Marc Pollefeys,57,2
+1716,Rita Goldstein,57,2
+1717,Mark S. Gilzenrat,57,1
+1718,Samuel M. McClure,57,1
+1719,Branislav Kveton,57,3
+1720,Barry Chai,57,1
+1721,Michael Bryant,57,1
+1722,Rajesh Ranganath,57,3
+1723,Michael S. Lewicki,57,3
+1724,Peter Richtarik,57,1
+1725,Yichuan Zhang,57,3
+1726,Amiran Ambroladze,57,1
+1727,Anton Osokin,57,2
+1728,Hossein Azari,57,1
+1729,Xiangru Lian,57,3
+1730,Pascal Poupart,57,6
+1731,Johanna M. Zumer,57,1
+1732,Emilio Parrado-hernandez,57,1
+1733,Thiago B. Costa,56,1
+1734,Stanley H. Chan,56,1
+1735,Lijun Zhang,56,2
+1736,Andreas Ziehe,56,3
+1737,Michael R. Anderson,56,1
+1738,Forest Agostinelli,56,1
+1739,John Lafferty,56,5
+1740,Yijun Huang,56,2
+1741,Tomasz Trzcinski,56,1
+1742,Peggy Series,56,2
+1743,Paul R. Schrater,56,4
+1744,David P. Reichert,56,2
+1745,Ran Gilad-bachrach,56,1
+1746,Mario Christoudias,56,1
+1747,Silvia Richter,56,1
+1748,Joschka Boedecker,56,1
+1749,Manuel Watter,56,1
+1750,Vincent Lepetit,56,1
+1751,Hilbert J. Kappen,56,3
+1752,Sashank J. Reddi,56,5
+1753,Jeff Schneider,56,6
+1754,Yan Liu,56,4
+1755,Samuel Gershman,56,3
+1756,Anthony M. So,56,2
+1757,Patrick Flaherty,55,1
+1758,Vincent Q. Vu,55,2
+1759,Javad Azimi,55,2
+1760,Alborz Geramifard,55,1
+1761,Fred A. Hamprecht,55,3
+1762,Zhi-ming Ma,55,2
+1763,Dmitry Kamenetsky,55,1
+1764,Silvia Villa,55,2
+1765,Atsushi Nitanda,55,1
+1766,Steven D. Rooij,55,2
+1767,S. Vishwanathan,55,2
+1768,Dohyung Park,55,2
+1769,Adam Arkin,55,1
+1770,Xiaozhi Chen,55,1
+1771,Uri Hasson,55,2
+1772,Stefano Ermon,55,7
+1773,Arnold Smeulders,55,3
+1774,Huimin Ma,55,1
+1775,Andrew G. Berneshawi,55,1
+1776,Daniel R. Sheldon,55,4
+1777,Shohei Hido,55,1
+1778,Anton van den Hengel,55,2
+1779,Kaustav Kundu,55,1
+1780,Konrad Koerding,54,4
+1781,Stefan Klanke,54,1
+1782,Yanjun Qi,54,2
+1783,S. M. Ali Eslami,54,3
+1784,Yusu Wang,54,3
+1785,Jorge Marques,54,1
+1786,Marc-olivier Schwartz,54,1
+1787,Johannes Schemmel,54,1
+1788,Karlheinz Meier,54,1
+1789,Ioannis Mitliagkas,54,2
+1790,Andreas Grubl,54,1
+1791,Sebastian Millner,54,1
+1792,Joao Lemos,54,1
+1793,Kenji Kawaguchi,54,2
+1794,Jinzhu Jia,54,1
+1795,Jean-pascal Pfister,54,3
+1796,Petros Maniatis,54,1
+1797,Byung-gon Chun,54,1
+1798,Satinder P. Singh,54,3
+1799,Paolo Viappiani,54,1
+1800,Craig Boutilier,54,1
+1801,Roman Garnett,54,5
+1802,Sandra Ebert,54,1
+1803,Xiaolin Yang,54,1
+1804,Marcus Rohrbach,54,1
+1805,Yutian Chen,54,2
+1806,Mayur Naik,54,1
+1807,Rafael M. Frongillo,53,2
+1808,Ping Luo,53,1
+1809,Zhenyao Zhu,53,1
+1810,Charles A. Sutton,53,2
+1811,Patrick J. Wolfe,53,2
+1812,Bogdan Alexe,53,2
+1813,Kevin Gimpel,53,2
+1814,Sanjeev Arora,53,1
+1815,Faisal Khan,53,1
+1816,Kush Bhatia,53,2
+1817,Dmitry Pechyony,53,1
+1818,Giovanni Zappella,53,3
+1819,Vladimir Vapnik,53,1
+1820,Chiyuan Zhang,53,3
+1821,Ankur Moitra,53,1
+1822,Bilge Mutlu,53,1
+1823,Anna Koop,53,3
+1824,Thomas B. Schan,53,2
+1825,Qian Xu,53,1
+1826,Ole Winther,52,5
+1827,Nikos Komodakis,52,2
+1828,Andreas Damianou,52,1
+1829,Dan Russo,52,3
+1830,Felix Biessmann,52,1
+1831,Shuheng Zhou,52,2
+1832,Aharon Ben-tal,52,2
+1833,Jeremy Hill,52,1
+1834,Yuncheng Li,52,1
+1835,Nan Rong,52,1
+1836,Jennifer Gillenwater,52,1
+1837,Guillaume Bouchard,52,2
+1838,Brendan Mcmahan,52,2
+1839,Adnan Darwiche,52,7
+1840,Ricardo Henao,52,7
+1841,Jake Bouvrie,52,2
+1842,Philipp Berens,52,3
+1843,Suzanna Martens,52,1
+1844,Trevor Cohn,51,1
+1845,Iasonas Kokkinos,51,1
+1846,Min Xu,51,2
+1847,Stella X. Yu,51,1
+1848,Gabriel Peyre,51,5
+1849,Miles Osborne,51,1
+1850,David Hunter,51,1
+1851,Ahmed Hefny,51,2
+1852,Ludwig Schmidt,51,3
+1853,Onur Dikmen,51,2
+1854,Hagai Lalazar,51,1
+1855,Yining Wang,51,5
+1856,Duy Q. Vu,51,1
+1857,Rosalind W. Picard,51,1
+1858,Miao Xu,51,1
+1859,Huyen T. Do,51,1
+1860,Steven C. Hoi,51,2
+1861,Moritz Grosse-wentrup,51,2
+1862,Michael Unser,51,1
+1863,Ulugbek Kamilov,51,1
+1864,Anitha Kannan,51,1
+1865,Jan Gasthaus,51,2
+1866,Benjamin M. Marlin,51,3
+1867,Mohammad E. Khan,51,3
+1868,Bo Liu,51,2
+1869,Adi Botea,51,1
+1870,Radu Marinescu,51,1
+1871,Akihiro Kishimoto,51,1
+1872,Hyungil Ahn,51,1
+1873,Miles Lopes,51,2
+1874,J. D. Tygar,51,2
+1875,Deepak Venugopal,51,3
+1876,Ladan Shams,50,2
+1877,Kee-eung Kim,50,3
+1878,Gang Niu,50,3
+1879,Michael T. Todd,50,1
+1880,Chicheng Zhang,50,4
+1881,Jacob Goldberger,50,2
+1882,Sebastian Gerwinn,50,4
+1883,George H. Chen,50,2
+1884,Kiyohito Nagano,50,2
+1885,Michael Collins,50,2
+1886,Adam Sanborn,50,2
+1887,Sathiya Keerthi,50,1
+1888,Christoph Lippert,50,2
+1889,Daniel L. Yamins,50,1
+1890,Joshua T. Abbott,50,3
+1891,Michael C. Hughes,50,3
+1892,Deep Ganguli,50,1
+1893,Ha Hong,50,1
+1894,James J. DiCarlo,50,1
+1895,Juhee Cho,50,1
+1896,Roberto Cipolla,49,1
+1897,Tae-kyun Kim,49,1
+1898,James Hensman,49,2
+1899,Matthew Johnson,49,3
+1900,Erik Sudderth,49,3
+1901,Franccois Charpillet,49,1
+1902,Jeffrey W. Miller,49,2
+1903,Austin I. Eliazar,49,1
+1904,Aaron Klein,49,2
+1905,Michael Bruckner,49,2
+1906,Qian Sun,49,1
+1907,Rita Chattopadhyay,49,1
+1908,Sethuraman Panchanathan,49,1
+1909,Vincent Thomas,49,1
+1910,Blake Shaw,49,1
+1911,Olivier Buffet,49,1
+1912,Frank Hutter,49,2
+1913,Xiaoyin Ge,49,1
+1914,Issam I. Safa,49,1
+1915,Evan W. Archer,49,5
+1916,Puyang Xu,49,1
+1917,Asela Gunawardana,49,1
+1918,Lev Reyzin,49,1
+1919,Vivek Farias,49,4
+1920,Allen Yang,49,1
+1921,Henrik Ohlsson,49,1
+1922,William March,49,1
+1923,Ramakrishnan K.r.,49,1
+1924,Raman S,49,1
+1925,Dinesh G,49,1
+1926,Saketha N. Jagarlapudi,49,1
+1927,Hua Wang,49,2
+1928,Lan Du,49,1
+1929,Bert Huang,49,1
+1930,Qinqing Zheng,49,2
+1931,Roy Dong,49,1
+1932,Martin Slawski,49,5
+1933,Shankar Sastry,49,1
+1934,Yi-An Ma,49,1
+1935,Tianqi Chen,49,1
+1936,Kun Zhang,49,2
+1937,Vincent Rabaud,49,1
+1938,Chad Scherrer,48,1
+1939,Patrice Marcotte,48,1
+1940,Sebastian Tschiatschek,48,3
+1941,Yi Li,48,2
+1942,Pedro M. Domingos,48,1
+1943,Mahantesh Halappanavar,48,1
+1944,Takeshi Yamada,48,2
+1945,Alessandro Verri,48,1
+1946,Hyeonwoo Noh,48,1
+1947,Tomer Koren,48,7
+1948,Yibiao Zhao,48,1
+1949,Jonathan E. Taylor,48,3
+1950,Sofia Mosci,48,1
+1951,Song-chun Zhu,48,1
+1952,David Haglin,48,1
+1953,Ian En-Hsu Yen,48,6
+1954,Seunghoon Hong,48,1
+1955,Matthew Wilder,48,2
+1956,Roger B. Grosse,48,3
+1957,Matthew T. Harrison,47,1
+1958,Alexander Novikov,47,1
+1959,Andrew D. Bagdanov,47,1
+1960,Joost Weijer,47,1
+1961,Dmitrii Podoprikhin,47,1
+1962,Fahad S. Khan,47,1
+1963,Jason Eisner,47,2
+1964,Bing Zhao,47,1
+1965,Lei Shi,47,3
+1966,Maria Vanrell,47,1
+1967,Andrei B. Ungureanu,47,1
+1968,Angela Yao,47,1
+1969,Haochen Wei,47,1
+1970,Wenling Shang,47,1
+1971,Tele Hao,47,2
+1972,Amit Daniely,47,3
+1973,K Briggman,47,1
+1974,H. S. Seung,47,2
+1975,Alan Aspuru-Guzik,47,1
+1976,Timothy Hirzel,47,1
+1977,Rafael Bombarell,47,1
+1978,Jorge Iparraguirre,47,1
+1979,Dougal Maclaurin,47,1
+1980,Christopher G. Lucas,47,2
+1981,Bala Rajaratnam,47,2
+1982,Chris Lucas,47,2
+1983,Zheng Wen,47,3
+1984,Deb Roy,47,1
+1985,Dong Zhang,47,1
+1986,Bernardino Romera-Paredes,47,1
+1987,Benjamin Sapp,47,1
+1988,Kai Zhang,47,2
+1989,David Weiss,47,1
+1990,Gloria Haro,47,1
+1991,Jayadev Acharya,47,3
+1992,Juergen Gall,47,1
+1993,Daniel Soudry,47,3
+1994,Gregory Randall,47,1
+1995,Shlomo Zilberstein,47,4
+1996,Daniel J. Navarro,47,2
+1997,Michael P. Holmes,47,3
+1998,David Danks,47,3
+1999,Yuanqing Lin,47,2
+2000,Daniel Gatica-perez,47,1
+2001,Sanmay Das,46,2
+2002,Benigno Uria,46,1
+2003,Sergey Kirshner,46,1
+2004,Amy Greenwald,46,2
+2005,Benjamin Stephens,46,1
+2006,Gregory Wayne,46,2
+2007,David Lopez-Paz,46,1
+2008,Peter Szabo,46,1
+2009,Xiang Bai,46,3
+2010,Kunihiko Sadamasa,46,1
+2011,Hanbo Chen,46,1
+2012,Murat A. Erdogdu,46,4
+2013,Dianne O'leary,46,1
+2014,Degang Zhang,46,1
+2015,Xi Jiang,46,1
+2016,Tuo Zhang,46,1
+2017,Fan Deng,46,1
+2018,Dajiang Zhu,46,1
+2019,Carlos Faraco,46,1
+2020,Lei Guo,46,1
+2021,Kaiming Li,46,1
+2022,Nal Kalchbrenner,46,1
+2023,Chris Atkeson,46,1
+2024,Neil Houlsby,46,2
+2025,John Quinn,46,1
+2026,Li Deng,46,2
+2027,Alessandro Rinaldo,46,3
+2028,Neil Mcintosh,46,1
+2029,Jeronimo Arenas-garcia,45,1
+2030,Justin Domke,45,6
+2031,Brent Miller,45,1
+2032,Bao-gang Hu,45,1
+2033,Shuang-hong Yang,45,1
+2034,Pernille Hemmer,45,1
+2035,Georgios Tziritas,45,1
+2036,Kaare B. Petersen,45,1
+2037,Renaud Jolivet,45,2
+2038,Partha P. Talukdar,45,1
+2039,Yung-kyun Noh,45,2
+2040,Ted Sandler,45,1
+2041,David B. Grimes,45,1
+2042,Daniel R. Rashid,45,1
+2043,Eakta Jain,45,1
+2044,Nadya Bliss,45,1
+2045,Karthika Mohan,45,2
+2046,Benjamin Miller,45,1
+2047,Hyun S. Park,45,1
+2048,Daichi Mochihashi,45,2
+2049,Guy Van den Broeck,45,3
+2050,Youwei Zhang,45,1
+2051,Jose A. Pereira,45,1
+2052,Jaedeug Choi,45,2
+2053,Alaa Saade,45,2
+2054,James Y. Zou,45,2
+2055,Ofer Meshi,45,4
+2056,Bilal Piot,44,2
+2057,Maneesh Bhand,44,1
+2058,Alexandr Andoni,44,1
+2059,Pieter-jan Kindermans,44,1
+2060,Subhransu Maji,44,2
+2061,Hannes Verschore,44,1
+2062,Saizheng Zhang,44,3
+2063,Thijs Laarhoven,44,1
+2064,Ritvik Mudur,44,1
+2065,Alexandra Carpentier,44,6
+2066,David Verstraeten,44,1
+2067,Bipin Suresh,44,1
+2068,Ilya Razenshteyn,44,1
+2069,Morteza Alamgir,44,2
+2070,Brian McWilliams,44,4
+2071,Wei-Lun Chao,44,1
+2072,Shouyuan Chen,44,2
+2073,Ryohei Fujimaki,44,4
+2074,Joon Hee Choi,44,1
+2075,Matthieu Geist,44,2
+2076,Xuming He,44,2
+2077,Manuel Blum,44,1
+2078,Fan Li,44,1
+2079,Himanshu Jain,44,1
+2080,Michael R. Lyu,44,2
+2081,Piotr Indyk,44,2
+2082,Katharina Eggensperger,44,1
+2083,Xinyang Yi,44,4
+2084,Olivier Pietquin,44,2
+2085,Chi-hoon Lee,44,1
+2086,Emma Brunskill,44,2
+2087,Ferenc Huszar,44,1
+2088,Matthias Feurer,44,1
+2089,Feng Jiao,44,1
+2090,Steven Ehrlich,44,1
+2091,Sohrob Kazerounian,44,1
+2092,Shaili Jain,44,1
+2093,Andrew Gelman,43,1
+2094,Junming Yin,43,2
+2095,Shuiwang Ji,43,1
+2096,Jean-jeacques Slotine,43,3
+2097,Alp Kucukelbir,43,1
+2098,Katsuhiko Ishiguro,43,1
+2099,William Chen,43,1
+2100,Mijung Park,43,6
+2101,Sterling Johnson,43,2
+2102,Itay Hubara,43,2
+2103,Matthew Faulkner,43,1
+2104,Tian Lin,43,2
+2105,Kacper P. Chwialkowski,43,3
+2106,Andreas Ruttor,43,4
+2107,Hugh A. Chipman,43,1
+2108,Tuomas Sandholm,43,3
+2109,Michael Schrader,43,1
+2110,Edward I. George,43,1
+2111,Robert E. Mcculloch,43,1
+2112,Shihai Wang,43,1
+2113,Liang Lin,43,2
+2114,Xiaolong Wang,43,2
+2115,Byoung-tak Zhang,43,1
+2116,Aasa Feragen,43,1
+2117,Niklas Kasenburg,43,1
+2118,Rie K. Ando,43,1
+2119,Jens Petersen,43,1
+2120,Marleen de Bruijne,43,1
+2121,Fuxin Li,43,2
+2122,Andrzej S. Cichocki,43,2
+2123,Yingzhen Li,42,2
+2124,Jeffrey Johns,42,1
+2125,Lev Faivishevsky,42,1
+2126,James Haxby,42,2
+2127,Wolf Singer,42,1
+2128,Jimei Yang,42,2
+2129,Christopher Painter-wakefield,42,1
+2130,Emilie Kaufmann,42,2
+2131,Sophie Deneve,42,4
+2132,Hai L. Chieu,42,2
+2133,Alexander Rauch,42,1
+2134,Yura N. Perov,42,1
+2135,Aaron Roth,42,4
+2136,Eftychios A. Pnevmatikakis,42,2
+2137,Danko Nikolic,42,1
+2138,Nicholas Ruozzi,42,3
+2139,Prof. Bernhard Scholkopf,42,2
+2140,Hans-rudolf Luscher,42,1
+2141,jifeng dai,42,1
+2142,James An,42,1
+2143,Stefan Haeusler,42,1
+2144,Genevera I. Allen,42,2
+2145,Zohar S. Karnin,42,5
+2146,Jonathan P. How,42,4
+2147,Xueyuan Zhou,42,1
+2148,Junsong Yuan,41,1
+2149,Tommer Leyvand,41,1
+2150,Aharon B. Hillel,41,1
+2151,Du Tran,41,1
+2152,Daniel Cohen-or,41,1
+2153,William Uther,41,1
+2154,Christoph H. Lampert,41,4
+2155,Aram Galstyan,41,3
+2156,Xinchen Yan,41,2
+2157,Pannagadatta K. Shivaswamy,41,2
+2158,Timothy T. Rogers,41,3
+2159,Sergio R. Galeano,41,1
+2160,Joerg Bornschein,41,3
+2161,Hyun Oh Song,41,2
+2162,Joerg Luecke,41,3
+2163,Eytan Ruppin,41,1
+2164,Gideon Dror,41,1
+2165,Haipeng Luo,41,5
+2166,Amit Kagian,41,1
+2167,Oncel Tuzel,41,2
+2168,Danilo J. Rezende,41,1
+2169,Michalis Titsias RC AUEB,41,6
+2170,Ming-Yu Liu,41,2
+2171,Dustin Lang,41,2
+2172,Hui Lin,41,1
+2173,Jianqiu Ji,41,1
+2174,Jianmin Li,41,1
+2175,Christopher Zach,41,1
+2176,Amir Sani,41,2
+2177,Christoph Sawade,41,3
+2178,Alan Blair,41,1
+2179,Qi Tian,41,1
+2180,Nicholas Cepeda,41,1
+2181,Jingwei Liang,41,2
+2182,Nisarg Shah,40,2
+2183,Nenghai Yu,40,2
+2184,Olga Russakovsky,40,1
+2185,Kwabena A. Boahen,40,4
+2186,Charles A. Micchelli,40,2
+2187,Vivek Rathod,40,1
+2188,Samuel S. Gross,40,1
+2189,George Papandreou,40,1
+2190,Alexander Pritzel,40,1
+2191,Guillaume Desjardins,40,2
+2192,Lawrence Murray,40,2
+2193,Brenden M. Lake,40,2
+2194,Chiru Bhattacharya,40,2
+2195,Joseph Turian,40,1
+2196,Anoop Korattikara Balan,40,1
+2197,Joseph Wang,40,3
+2198,Giacomo Indiveri,40,5
+2199,Shigeru Shinomoto,40,3
+2200,Aaron Wilson,40,1
+2201,Arian Maleki,40,2
+2202,Shuang Li,40,3
+2203,Arnak Dalalyan,40,2
+2204,Gregoire Montavon,40,3
+2205,Sebastian A. Kurtek,40,1
+2206,Maksims Volkovs,40,2
+2207,Serafim Batzoglou,40,2
+2208,Jamie H. Morgenstern,40,2
+2209,James V. Brecht,40,1
+2210,James von Brecht,40,2
+2211,Alvaro Cardenas,40,1
+2212,Dima Kuzmin,40,1
+2213,Anuj Srivastava,40,1
+2214,Marco Barreno,40,1
+2215,Joseph E. Gonzalez,40,2
+2216,Joshua Vogelstein,40,2
+2217,Andrew Guillory,40,2
+2218,Benjamin Wellington,40,1
+2219,Wei Wu,40,1
+2220,I. D. Melamed,40,1
+2221,Marthinus D. Plessis,39,1
+2222,Minh H. Nguyen,39,1
+2223,Liwei Wang,39,4
+2224,Song Liu,39,1
+2225,Sameer Sheorey,39,1
+2226,Kaushik Mitra,39,1
+2227,Ali Nouri,39,1
+2228,Zoltan Szabo,39,4
+2229,Vidhya Navalpakkam,39,2
+2230,Kishore Konda,39,1
+2231,Vincent Michalski,39,1
+2232,Michael Kapralov,39,2
+2233,Joao Carreira,39,1
+2234,Yongxin Xi,39,1
+2235,Julie A. Shah,39,3
+2236,Borja Balle,39,1
+2237,Florin Popescu,39,1
+2238,Ilker Yildirim,39,1
+2239,Jean Morales,39,1
+2240,Martin Raphan,39,1
+2241,Firas Hamze,39,2
+2242,Fajwel Fogel,39,2
+2243,Maryam Fazel,39,3
+2244,William M. Campbell,39,2
+2245,Pierre-yves Oudeyer,39,1
+2246,Tobias Lang,39,1
+2247,Manuel Lopes,39,1
+2248,Haim Sompolinsky,39,3
+2249,Hairong Liu,39,1
+2250,Cristian Grozea,39,1
+2251,Anupam Gupta,39,1
+2252,Marton Danoczy,39,1
+2253,Michal Valko,39,5
+2254,Adrian Ion,39,1
+2255,Sivan Sabato,39,5
+2256,Jascha Sohl-Dickstein,38,2
+2257,Yanping Huang,38,2
+2258,Trac D. Tran,38,1
+2259,Nasser M. Nasrabadi,38,1
+2260,Nam Nguyen,38,1
+2261,Thomas Schan,38,1
+2262,Bin Zhao,38,1
+2263,Dinh Phung,38,2
+2264,Tat-jun Chin,38,2
+2265,David Suter,38,2
+2266,William Brendel,38,1
+2267,Alper Ayvaci,38,1
+2268,Philip Bachman,38,3
+2269,Arye Nehorai,38,1
+2270,Andy Cotter,38,1
+2271,Seungyeop Han,38,1
+2272,Alexandre Proutiere,38,5
+2273,Arash Vahdat,38,2
+2274,Christopher M. De Sa,38,4
+2275,Pasi Jylanki,38,1
+2276,Ian Wong,38,1
+2277,Nathaniel Korda,38,1
+2278,Jordan L. Boyd-Graber,38,3
+2279,Jarno Vanhatalo,38,1
+2280,Robert Oostenveld,38,1
+2281,Benjamin Rolfs,38,1
+2282,Evgeniy Bart,38,1
+2283,Ian Porteous,38,1
+2284,Elad Gilboa,38,1
+2285,Daniela Witten,38,1
+2286,Wonmin Byeon,38,1
+2287,Ulrik Beierholm,38,1
+2288,Alex Schwing,38,7
+2289,Eric Horvitz,38,2
+2290,Drew Bagnell,38,2
+2291,Pramod Viswanath,38,3
+2292,Aki Vehtari,38,1
+2293,Karthik Mohan,38,1
+2294,Wei J. Ma,38,1
+2295,Dominique Guillot,38,1
+2296,Mike Chung,38,1
+2297,Clark Glymour,38,1
+2298,Yoshihiro Yamanishi,38,1
+2299,Marcel V. Gerven,38,1
+2300,Ji Zhu,37,1
+2301,Leandro Soriano Marcolino,37,1
+2302,Feng Kang,37,1
+2303,Marie-laure Paillere-martinot,37,1
+2304,Milind Tambe,37,1
+2305,Jean-luc Martinot,37,1
+2306,Catherine Martelli,37,1
+2307,Albert Jiang,37,1
+2308,Alon Orlitsky,37,4
+2309,Gregory Shakhnarovich,37,2
+2310,Guillermo A. Cecchi,37,1
+2311,Lacey Gunter,37,1
+2312,Jiarong Jiang,37,2
+2313,Jiaming Xu,37,2
+2314,Tran T. Truyen,37,1
+2315,Hung Bui,37,1
+2316,Svetha Venkatesh,37,1
+2317,Zi Wang,37,1
+2318,Art Owen,37,1
+2319,Sanjoy Mitter,37,2
+2320,Eiichiro Sumita,37,1
+2321,Daniel Hernandez-lobato,37,2
+2322,Marion Plaze,37,1
+2323,Irina Rish,37,1
+2324,Benjamin Thyreau,37,1
+2325,Jianwei Yang,37,1
+2326,Xiangyu Wang,37,5
+2327,Francois Caron,37,4
+2328,Guy Bresler,37,3
+2329,S. Eslami,37,1
+2330,Glenn Fung,37,1
+2331,Peter Kairouz,37,2
+2332,Edward Keefer,37,1
+2333,Dharmendra S. Modha,37,1
+2334,Paul Merolla,37,1
+2335,Rathinakumar Appuswamy,37,1
+2336,Steve K. Esser,37,1
+2337,Jiasen Lu,37,1
+2338,Jianying Hu,37,1
+2339,Eizaburo Doi,37,2
+2340,Jianfei Chen,37,1
+2341,Lei Wu,37,1
+2342,Been Kim,37,3
+2343,Cary Dehing-oberije,37,1
+2344,Aleksandra Mojsilovic,37,1
+2345,Lawrence Cayton,37,2
+2346,Karthik Narasimhan,37,1
+2347,Jin Tian,37,1
+2348,Serge Belongie,37,1
+2349,Michael J. Wilber,37,1
+2350,Andreas Veit,37,1
+2351,Philippe Lambin,37,1
+2352,Jason Chang,37,2
+2353,Kun Gai,36,1
+2354,Guangyun Chen,36,1
+2355,Brooks King-casas,36,1
+2356,Babak Hassibi,36,4
+2357,Pablo Sprechmann,36,3
+2358,Johnny Mariethoz,36,1
+2359,Elodie Vernet,36,1
+2360,David Loker,36,1
+2361,Alan Jern,36,4
+2362,Vidyashankar Sivakumar,36,2
+2363,Dan Wu,36,1
+2364,Ricardo Silva,36,6
+2365,Eddie Rafols,36,1
+2366,Tianfan Xue,36,2
+2367,Michael Aupetit,36,1
+2368,Vladimir Pavlovic,36,2
+2369,Richard Nock,36,4
+2370,Abner Guzman-rivera,36,1
+2371,Morteza Ibrahimi,36,2
+2372,Tim Roughgarden,36,2
+2373,Kareem Amin,36,3
+2374,Michael Shettel,36,2
+2375,Guy Lever,36,1
+2376,P. R. Montague,36,1
+2377,Pinghua Gong,36,2
+2378,Wei Wang,36,2
+2379,Adam M. Packer,36,2
+2380,Arthur D. Szlam,36,1
+2381,Michael Hausser,36,2
+2382,Noah Pettit,36,2
+2383,Trevor Campbell,36,4
+2384,Henry Dalgleish,36,2
+2385,Thomas Gartner,35,3
+2386,Shaun Vecera,35,1
+2387,Guillermo Canas,35,2
+2388,Chuan-sheng Foo,35,1
+2389,Soren Hauberg,35,2
+2390,Charlie Frogner,35,2
+2391,Gregory Valiant,35,3
+2392,Sanjeev R. Kulkarni,35,1
+2393,Venkat Chandrasekaran,35,2
+2394,Robert Butera,35,2
+2395,David Kriegman,35,1
+2396,Dmitri B. Chklovskii,35,5
+2397,Aaron Dennis,35,1
+2398,Andrew Ziegler,35,1
+2399,Eric Christiansen,35,1
+2400,Yuhuai Wu,35,3
+2401,Aviv Tamar,35,3
+2402,Shimon Whiteson,35,2
+2403,Jeremy Lewi,35,2
+2404,Yong Jae Lee,35,1
+2405,Jose Pereira,35,2
+2406,Michael Gashler,35,1
+2407,Edouard Klein,35,1
+2408,Tony Martinez,35,1
+2409,Yong Zhang,35,1
+2410,Charles L. Isbell,35,2
+2411,Shih-fu Chang,35,1
+2412,Yao-Liang Yu,35,3
+2413,Makoto Yamada,35,2
+2414,Ari Pakman,35,2
+2415,He He,34,3
+2416,Andre S. Barreto,34,2
+2417,Jiming Peng,34,2
+2418,Adrian Haith,34,1
+2419,Carl P. Jackson,34,1
+2420,R. C. Miall,34,1
+2421,Tanzeem Choudhury,34,1
+2422,Oren Freifeld,34,1
+2423,Mohammad Taha Bahadori,34,2
+2424,Viet-An Nguyen,34,2
+2425,Samet Oymak,34,2
+2426,Edward H. Adelson,34,1
+2427,Yinlam Chow,34,4
+2428,Sander M. Bohte,34,3
+2429,Philip Resnik,34,2
+2430,Holly Jimison,33,1
+2431,Alon Zweig,33,1
+2432,Hynek Hermansky,33,1
+2433,Chao Wang,33,1
+2434,Mahito Sugiyama,33,2
+2435,Lingqiao Liu,33,1
+2436,Christian Walder,33,3
+2437,Frank Ohl,33,1
+2438,Subbarao Kambhampati,33,2
+2439,Konrad P. Karding,33,2
+2440,Misha Pavel,33,1
+2441,Jimeng Sun,33,2
+2442,Prem Melville,33,1
+2443,Syama Sundar Rangapuram,33,2
+2444,Shiva P. Kasiviswanathan,33,1
+2445,Brooks Paige,33,2
+2446,Aryeh Kontorovich,33,5
+2447,Lars Omlor,33,1
+2448,Martin Giese,33,1
+2449,Brian Ziebart,33,4
+2450,Takayuki Osogami,33,3
+2451,Jamie Shotton,33,1
+2452,Ben Williams,33,1
+2453,Dimitris Papailiopoulos,33,4
+2454,Taehwan Kim,33,1
+2455,Toby Sharp,33,1
+2456,M. M. Mahmud,33,1
+2457,Jingdong Chen,33,1
+2458,Peter E. Latham,33,2
+2459,Sylvian Ray,33,1
+2460,Raif Rustamov,33,1
+2461,Jim Mutch,33,1
+2462,Youngmoo Kim,33,1
+2463,Chris Dyer,32,1
+2464,Waleed Ammar,32,1
+2465,Yair Wiener,32,2
+2466,Satoru Iwata,32,1
+2467,Gyemin Lee,32,1
+2468,Vandana Kanchanapally,32,1
+2469,Nelly Alia-klein,32,1
+2470,Nora Volkow,32,1
+2471,Sabri Boutemedjet,32,1
+2472,Djemel Ziou,32,1
+2473,William Webb,32,1
+2474,Farideh Fazayeli,32,1
+2475,Peter Spirtes,32,1
+2476,Jozsef Fiser,32,2
+2477,Peter Carbonetto,32,3
+2478,Si Si,32,2
+2479,Lloyd Elliott,32,2
+2480,Nan Li,32,2
+2481,Daniel Acuna,32,1
+2482,Alexandre D'Aspremont,32,1
+2483,Fei Xu,32,3
+2484,Ana Radovanovic,32,1
+2485,Nizar Bouguila,32,1
+2486,Bryan D. He,32,2
+2487,Xinghua Lou,32,2
+2488,Marius Pachitariu,32,4
+2489,Tara Sainath,32,1
+2490,Yash Deshpande,32,2
+2491,Mehran Sahami,31,1
+2492,Chao Yuan,31,1
+2493,Alexandre Pouget,31,3
+2494,Claus Neubauer,31,1
+2495,Siddharth Gopal,31,1
+2496,Chris Piech,31,1
+2497,Jonathan Bassen,31,1
+2498,Moo. K. Chung,31,1
+2499,Kfir Levy,31,4
+2500,Charles Hatt,31,1
+2501,Won H. Kim,31,1
+2502,Anatole V. Lilienfeld,31,1
+2503,Alexandre Tkatchenko,31,1
+2504,Franziska Biegler,31,1
+2505,Matthias Rupp,31,1
+2506,Alexandru Niculescu-mizil,31,1
+2507,Emtiyaz Khan,31,2
+2508,Wenyu Liu,31,2
+2509,Marco Cristani,31,1
+2510,Hanzi Wang,31,1
+2511,Rob Nowak,31,3
+2512,Bryan R. Gibson,31,2
+2513,Sennay Ghebreab,31,2
+2514,Jaakko Luttinen,31,1
+2515,Alexander Ilin,31,1
+2516,Umberto Castellani,31,1
+2517,Youssef Mroueh,31,2
+2518,Zhe Gan,31,3
+2519,Sergio Gomez,31,1
+2520,Huy Nguyen,31,2
+2521,Alessandro Rudi,31,3
+2522,Joseph Williams,31,1
+2523,Michael L. Kalish,31,1
+2524,Katja Hansen,31,1
+2525,Marcin Andrychowicz,31,1
+2526,Jun Suzuki,31,1
+2527,Hideki Isozaki,31,1
+2528,Omer Reingold,31,1
+2529,Brad Schumitsch,31,1
+2530,Alan Willsky,31,2
+2531,Cynthia Dwork,31,1
+2532,Leonidas Lefakis,31,2
+2533,Pranjal Awasthi,31,3
+2534,Arkadev Chattopadhya,31,1
+2535,James Martens,31,1
+2536,Rey Ramirez,31,1
+2537,Scott Makeig,31,1
+2538,Sriram Srinivasan,30,1
+2539,Joni K. Pajarinen,30,1
+2540,Chris Ding,30,1
+2541,Jaakko Peltonen,30,1
+2542,Luis E. Ortiz,30,5
+2543,Mert Pilanci,30,1
+2544,David Saxton,30,1
+2545,Georg Ostrovski,30,1
+2546,Deguang Kong,30,1
+2547,Zirui Zhou,30,1
+2548,Onno Zoeter,30,1
+2549,Christine Fawcett,30,1
+2550,Ke Hou,30,1
+2551,Jacquelyn A. Shelton,30,3
+2552,Lucas C. Parra,30,2
+2553,Hans P. Graf,30,1
+2554,Srihari Cadambi,30,1
+2555,Venkata Jakkula,30,1
+2556,Charles Lee,30,1
+2557,Jr. Isbell,30,1
+2558,Murugan Sankaradass,30,1
+2559,Srimat Chakradhar,30,1
+2560,Ye Chen,30,1
+2561,Christoph Dann,30,2
+2562,Rohit Vaish,30,1
+2563,Anthony Man-Cho So,30,1
+2564,Tomaso A. Poggio,30,2
+2565,John Canny,30,1
+2566,Dmitry Y. Pavlov,30,1
+2567,Meihong Wang,30,1
+2568,Hsiang-Fu Yu,30,3
+2569,Dimitris Metaxas,30,2
+2570,David Szepesvari,30,1
+2571,Sanjay Chawla,30,2
+2572,Liping Liu,30,1
+2573,Kumar Sricharan,30,2
+2574,Pawan Mudigonda,30,1
+2575,Vibhav G. Gogate,30,6
+2576,Igor Dourdanovic,30,1
+2577,Mohammad Gheshlaghi azar,30,1
+2578,Ivo Danihelka,30,3
+2579,Fabio Vitale,30,4
+2580,Greg Ver Steeg,30,2
+2581,Ajay Jasra,30,1
+2582,Joseph Salmon,30,4
+2583,Shameem Puthiya Parambath,29,1
+2584,Srinadh Bhojanapalli,29,2
+2585,Alireza Makhzani,29,1
+2586,Mingyi Hong,29,3
+2587,Laurens Maaten,29,2
+2588,Vitaly Kuznetsov,29,3
+2589,Zhujin Liang,29,1
+2590,David Balduzzi,29,3
+2591,Morten Morup,29,2
+2592,Qiang Ji,29,4
+2593,Liliang Zhang,29,1
+2594,Nicholas Foti,29,2
+2595,Alessandro Chiuso,29,2
+2596,Stanislav Nikolov,29,1
+2597,Torbjorn Eltoft,29,1
+2598,Masato Okada,29,6
+2599,Ralph Bourdoukan,29,2
+2600,Bharath Sriperumbudur,29,2
+2601,Jo-anne Ting,29,2
+2602,Frank Nielsen,29,1
+2603,Raajay Viswanathan,29,1
+2604,Robert Jenssen,29,1
+2605,Deniz Erdogmus,29,1
+2606,Pai-hsi Huang,29,1
+2607,Jihun Hamm,29,1
+2608,Rishabh Iyer,29,1
+2609,Pavel P. Kuksa,29,1
+2610,Ahmed Alaoui,29,1
+2611,Michael Osborne,29,1
+2612,Jacob Taylor,28,1
+2613,Javier Pena,28,1
+2614,Jennifer A. Gillenwater,28,2
+2615,Reza Harikandeh,28,1
+2616,Robert Wilson,28,2
+2617,Tobias Baumgartner,28,1
+2618,Ying Zhang,28,2
+2619,S. D. Babacan,28,3
+2620,Boris S. Gutkin,28,2
+2621,Andreas Stuhlmuller,28,1
+2622,Vicky Froyen,28,1
+2623,Manish Singh,28,1
+2624,Michael G. Rabbat,28,2
+2625,Jacob Feldman,28,1
+2626,Shixiang Gu,28,2
+2627,Ankur P. Parikh,28,1
+2628,Argyris Kalogeratos,28,1
+2629,Aristidis Likas,28,1
+2630,Lav R. Varshney,28,2
+2631,Mohamed Osama Ahmed,28,1
+2632,Alim Virani,28,1
+2633,Jakub Konecny,28,1
+2634,Che-Yu Liu,28,1
+2635,Scott Sallinen,28,1
+2636,Walter Senn,28,1
+2637,Johanni Brea,28,1
+2638,Qianli Liao,28,1
+2639,Serhat Bucak,28,1
+2640,Paul Rigor,28,1
+2641,Peter Foldiak,28,2
+2642,Pierre Morizet-mahoudeaux,28,1
+2643,Romy Shioda,28,1
+2644,Mordechai Nisenson,28,1
+2645,Steven Scholte,28,1
+2646,Victor Lamme,28,1
+2647,Stefan Klampfl,28,2
+2648,Cassio P. de Campos,28,4
+2649,Marc Howard,28,1
+2650,Michael Schober,28,1
+2651,Dominik Endres,28,2
+2652,Leo Zhu,28,1
+2653,Yuan Lin,28,1
+2654,Dan Garber,28,4
+2655,Erik Linstead,28,1
+2656,Marie Szafranski,28,1
+2657,Ian G. Fuss,28,1
+2658,Sushil Bajracharya,28,1
+2659,Cristina Lopes,28,1
+2660,David Wipf,28,3
+2661,Colin Sandon,28,2
+2662,Quentin J. Huys,28,2
+2663,Eduardo D. Sontag,28,1
+2664,Emmanuel Abbe,28,2
+2665,Prashant Joshi,28,1
+2666,Richard D. Lawrence,27,1
+2667,Denis D. Maua,27,2
+2668,Hsiao-Yu Tung,27,2
+2669,Chi Jin,27,3
+2670,Brett Vintch,27,1
+2671,Andrew Zaharia,27,1
+2672,Luo Si,27,1
+2673,J Movshon,27,1
+2674,Sungeun Kim,27,1
+2675,Lee Sun,27,1
+2676,Zhan Lim,27,1
+2677,Mario Figueiredo,27,2
+2678,Zeyuan Allen-Zhu,27,3
+2679,Dan Zhang,27,1
+2680,Honghao Shan,27,1
+2681,Jingwen Yan,27,1
+2682,Quanquan Gu,27,5
+2683,Shannon Risacher,27,1
+2684,Lingyun Zhang,27,1
+2685,Dan Navarro,27,2
+2686,Garrison W. Cottrell,27,1
+2687,Jussi Rintanen,27,1
+2688,Tomi Janhunen,27,1
+2689,Jukka Corander,27,1
+2690,Vladimir Jojic,27,1
+2691,David Heckerman,27,1
+2692,Olivier Colliot,27,2
+2693,Li Shen,27,1
+2694,Christopher R. Genovese,27,2
+2695,Manas Pathak,27,1
+2696,Shantanu Rane,27,1
+2697,Massih-reza Amini,27,1
+2698,Chelsea Finn,27,1
+2699,Yun-gang Zhang,27,1
+2700,Johan Pensar,27,1
+2701,Henrik Nyman,27,1
+2702,Noga Alon,27,1
+2703,Leonardo Jost,27,1
+2704,James L. Sharpnack,27,1
+2705,Andrew Gelfand,27,1
+2706,Yossi Arjevani,27,2
+2707,Andrew Saykin,27,1
+2708,Yao Li,27,1
+2709,Paul Valiant,27,1
+2710,Pradeep Shenoy,27,2
+2711,Amir massoud Farahmand,27,2
+2712,Hossein Mobahi,27,1
+2713,Felix V. Agakov,27,2
+2714,Byungkon Kang,27,1
+2715,Christian Mayr,26,1
+2716,Or Sheffet,26,1
+2717,Francois Vialatte,26,1
+2718,Aravindan Vijayaraghavan,26,1
+2719,Justin Dauwels,26,1
+2720,Tomasz Rutkowski,26,1
+2721,Johannes Schindelin,26,1
+2722,Cynthia Rudin,26,1
+2723,Peter Kontschieder,26,1
+2724,Uri Maoz,26,2
+2725,Yuting Zhang,26,1
+2726,Qi (Rose) Yu,26,1
+2727,Stefan Schaal,26,2
+2728,Tilman Lange,26,1
+2729,Malte Kuss,26,1
+2730,Chris J. Maddison,26,2
+2731,Myunghwan Kim,26,1
+2732,Christopher J. Miller,26,1
+2733,Robert C. Nichol,26,1
+2734,Brent Bryan,26,1
+2735,Hideaki Shimazaki,26,1
+2736,Raffaello Camoriano,26,1
+2737,Martin Buss,26,1
+2738,Binbin Lin,26,2
+2739,Klaus Gramann,26,1
+2740,Johannes Partzsch,26,1
+2741,Horst Bischof,26,1
+2742,Deli Zhao,26,2
+2743,Paul Starke,26,1
+2744,Mike Oram,26,1
+2745,Love Cederstroem,26,1
+2746,Florentin Wargatter,26,3
+2747,Johannes Rauh,26,1
+2748,Nihat Ay,26,1
+2749,Ananda Theertha Suresh,26,3
+2750,Ziming Zhang,26,1
+2751,Lubor Ladicky,26,1
+2752,Amir Saffari,26,1
+2753,Fen Xia,26,1
+2754,Natasha Singh-miller,26,1
+2755,Ranulfo Romo,26,2
+2756,Rene Schuffny,26,1
+2757,Jacob Bien,26,1
+2758,Ya Xu,26,1
+2759,Kannan Ramchandran,26,3
+2760,Alexandros G. Dimakis,26,7
+2761,Minh Ha Quang,26,1
+2762,Marco San Biagio,26,1
+2763,Ben Singer,26,1
+2764,Konrad Rawlik,26,1
+2765,Bryan Conroy,26,1
+2766,Bernd Porr,26,3
+2767,Ouais Alsharif,26,1
+2768,Bruce Hajek,26,1
+2769,Jaldert Rombouts,26,2
+2770,Heidemarie Schmidt,26,1
+2771,Yao Shuai,26,1
+2772,Anibal Figueiras-Vidal,25,1
+2773,Jean Honorio,25,1
+2774,Thierry Artieres,25,1
+2775,Stefan Mathe,25,1
+2776,Himanshu Arora,25,1
+2777,Hartwig Siebner,25,1
+2778,Alexander Sorokin,25,1
+2779,Jeff Calder,25,1
+2780,Martin Allen,25,1
+2781,Ilias Diakonikolas,25,2
+2782,Miao Liu,25,1
+2783,Yaron Singer,25,4
+2784,Adel Javanmard,25,3
+2785,Moustapha M. Cisse,25,1
+2786,Massih-Reza Amini,25,1
+2787,Nathaniel J. Smith,25,1
+2788,Eric Gaussier,25,1
+2789,Ioannis Partalas,25,1
+2790,Rohit Babbar,25,1
+2791,Byoung-Tak Zhang,25,1
+2792,Jung-Woo Ha,25,1
+2793,Jeonghee Kim,25,1
+2794,Nicolas Loeff,25,1
+2795,Michael A. Osborne,25,3
+2796,Min-Oh Heo,25,1
+2797,Donghyun Kwak,25,1
+2798,Sang-Woo Lee,25,1
+2799,Jin-Hwa Kim,25,1
+2800,Katherine Demuth,25,1
+2801,Nika Haghtalab,25,1
+2802,Rolf Pohmann,25,1
+2803,Michael Frank,25,1
+2804,Anne-marie Dogonowski,25,1
+2805,Kevin Xu,25,1
+2806,Ko-jen Hsiao,25,1
+2807,Kristian Kersting,25,2
+2808,Alfred Hero,25,1
+2809,Kevin Moon,25,1
+2810,Odelia Schwartz,25,2
+2811,Robert Peters,25,1
+2812,Tingting Zhao,25,1
+2813,Ioannis A. Gkioulekas,25,1
+2814,Todd Zickler,25,1
+2815,Kristoffer Madsen,25,1
+2816,Mathieu Sinn,25,2
+2817,Guido Nolte,25,2
+2818,Nicolas Baskiotis,25,1
+2819,Renaud Keriven,25,1
+2820,Andreas Stuhlmueller,25,1
+2821,Jeffrey M. Siskind,25,1
+2822,Huan Li,25,1
+2823,Aleksandrs Slivkins,25,2
+2824,Marcelo Fiori,25,2
+2825,Haim Avron,25,2
+2826,Pablo Muse,25,2
+2827,Scott Brown,25,1
+2828,Clement Calauzenes,25,1
+2829,Chunyuan Li,25,3
+2830,Brian R. Potetz,25,2
+2831,Michael James,25,2
+2832,Bevan Jones,25,1
+2833,Prashanth L.A.,24,1
+2834,Jose Puertas,24,1
+2835,Bo Chen,24,3
+2836,Wieland Brendel,24,2
+2837,Dillon Laird,24,1
+2838,Jason Xu,24,1
+2839,Mahdi M. Fard,24,2
+2840,Yu Zhou,24,1
+2841,Elie Bienenstock,24,1
+2842,Yannig Goude,24,1
+2843,Adarsh Prasad,24,2
+2844,Shai S. Shwartz,24,2
+2845,Yen-yu Lin,24,1
+2846,Parag Singla,24,5
+2847,Tyng-luh Liu,24,1
+2848,Michael Paul,24,1
+2849,Andrea Passerini,24,1
+2850,Paolo Frasconi,24,1
+2851,Chiou-shann Fuh,24,1
+2852,Pascal Pompey,24,1
+2853,Amadou Ba,24,1
+2854,Yariv Maron,24,1
+2855,Gertjan Burghouts,24,1
+2856,Jan-mark Geusebroek,24,1
+2857,Nihar Bhadresh Shah,24,1
+2858,Meisam Razaviyayn,24,2
+2859,James Scott,24,1
+2860,Jacob Abernethy,24,3
+2861,Yukiyasu Kamitani,24,1
+2862,Cosma Shalizi,24,2
+2863,Yusuke Fujiwara,24,1
+2864,Subhaneil Lahiri,24,2
+2865,Yoichi Miyawaki,24,1
+2866,Shaul Markovitch,24,4
+2867,Liva Ralaivola,24,3
+2868,Haichao Zhang,24,2
+2869,Fritz Sommer,24,2
+2870,Abhishek Sharma,24,1
+2871,Jinhui Xu,23,2
+2872,Dae I. Kim,23,1
+2873,Christopher Cox,23,1
+2874,Zahi Karam,23,1
+2875,Yevgeniy Slutskiy,23,2
+2876,Daniel Bartz,23,2
+2877,Elly Gysels,23,1
+2878,Evian Gordon,23,1
+2879,Hiroshi Mamitsuka,23,1
+2880,Odalric-ambrym Maillard,23,4
+2881,Hiroshi Nakagawa,23,3
+2882,Raja Hafiz Affandi,23,1
+2883,Xue-xin Wei,23,1
+2884,Yunpeng Pan,23,2
+2885,Jonathan Sorg,23,1
+2886,Evangelos Theodorou,23,2
+2887,Liming Wang,23,2
+2888,Amy Perfors,23,1
+2889,Philip S. Thomas,23,4
+2890,David J. Weiss,23,1
+2891,Tai-sing Lee,23,1
+2892,Xueyan Jiang,23,1
+2893,Luke Maurits,23,1
+2894,Maximilian Nickel,23,1
+2895,Tao Geng,23,1
+2896,Nicholas Roy,23,1
+2897,H. Sebastian Seung,23,2
+2898,Sargur Srihari,23,1
+2899,Chang Su,23,1
+2900,Aurel A. Lazar,23,2
+2901,Douglas Sturim,23,1
+2902,Ferran Diego Andilla,23,2
+2903,Francois Duport,23,1
+2904,Andrea Lecchini-visintini,23,1
+2905,Tim Cootes,23,1
+2906,Gwenn Englebienne,23,1
+2907,Jan Maciejowski,23,1
+2908,Jean-Philippe Vert,23,1
+2909,Serge Massar,23,1
+2910,Marc Haelterman,23,1
+2911,Yvon Paquot,23,1
+2912,Anteo Smerieri,23,1
+2913,Hua Ouyang,23,1
+2914,William S. Noble,23,1
+2915,Robert Thurman,23,1
+2916,Bartek Rajwa,23,2
+2917,John Lygeros,23,1
+2918,Miaomiao Zhang,22,1
+2919,Duncan Blythe,22,1
+2920,P.T. Fletcher,22,1
+2921,Ulrich Paquet,22,2
+2922,Ken Nagata,22,1
+2923,Guosheng Lin,22,1
+2924,Wicher Bergsma,22,1
+2925,Ian Reid,22,1
+2926,Farhad Kamangar,22,1
+2927,Wojciech Samek,22,1
+2928,Marthinus C. du Plessis,22,1
+2929,Ashwin Lall,22,1
+2930,Mohsen Bayati,22,3
+2931,Sean Lawlor,22,1
+2932,Konstantinos Tsianos,22,1
+2933,Jim C. Huang,22,2
+2934,Liang Wang,22,2
+2935,Lester Mackey,22,1
+2936,Jackson Gorham,22,1
+2937,Pietro D. Lena,22,1
+2938,Prakash Panagaden,22,1
+2939,Jonathan Taylor,22,1
+2940,Vijay Desai,22,1
+2941,Kirthevasan Kandasamy,22,4
+2942,Ehud Kalai,22,1
+2943,Dylan A. Simon,22,1
+2944,Eli Ben-sasson,22,1
+2945,James Saunderson,22,1
+2946,Ahmad Salman,22,1
+2947,Huishuai Zhang,22,2
+2948,Yingbin Liang,22,2
+2949,Nick Chater,22,1
+2950,Christian Andersson Naesseth,22,1
+2951,Ales Leonardis,22,1
+2952,Charles Sutton,22,3
+2953,Marko Boben,22,1
+2954,Lopamudra Mukherjee,22,1
+2955,Shashank Singh,22,3
+2956,marc lelarge,22,3
+2957,Dexter Kozen,22,1
+2958,M.a. S. Elmohamed,22,1
+2959,Ben White,22,1
+2960,Chi W. Wong,22,1
+2961,Jose C. Pereira,22,1
+2962,Tom Liu,22,1
+2963,Boleslaw Szymanski,22,1
+2964,Qiaozhu Mei,22,1
+2965,Hanghang Tong,22,1
+2966,Liang Xiong,22,1
+2967,Adam Smith,22,2
+2968,Benjamin V. Durme,22,1
+2969,Jarg Lucke,22,4
+2970,Weixin Li,22,1
+2971,Hyejin Yang,22,1
+2972,Tomas Lozano-Perez,22,1
+2973,Nati Linial,22,1
+2974,Pierre Vandergheynst,22,1
+2975,Daniel J. Lizotte,22,2
+2976,Zhiguo Li,22,1
+2977,Gregory J. Zelinsky,22,1
+2978,Leslie Pack Kaelbling,22,1
+2979,Mohammad G. Azar,22,1
+2980,Atul Kanujia,22,1
+2981,Vivek Srikumar,22,1
+2982,Aniruddha Bhargava,22,1
+2983,Michael Defferrard,22,1
+2984,Frederic Besse,22,1
+2985,Dehong Liu,21,1
+2986,Ramesh Hariharan,21,1
+2987,Alain D. Cheveigne,21,1
+2988,Eric Wang,21,1
+2989,Aaditya Ramdas,21,1
+2990,Jonathan L. Roux,21,1
+2991,Guillaume Hennequin,21,3
+2992,Yingjian Wang,21,1
+2993,Harish G. Ramaswamy,21,2
+2994,Krishnan Kumar,21,1
+2995,Eyal Even-dar,21,1
+2996,Dong S. Cheng,21,1
+2997,Anqi Liu,21,2
+2998,Hado P. van Hasselt,21,2
+2999,Hung H. Bui,21,1
+3000,Remi Cuingnet,21,1
+3001,Marie Chupin,21,1
+3002,Sourangshu Bhattacharya,21,2
+3003,Elias Bareinboim,21,3
+3004,Hankz H. Zhuo,21,1
+3005,Mikio L. Braun,21,2
+3006,Nadia Payet,21,1
+3007,Maya Gupta,21,6
+3008,Shuo-yen R. Li,21,1
+3009,Tao Hu,21,2
+3010,George Williams,21,1
+3011,Ian Spiro,21,1
+3012,Long Tran-Thanh,21,1
+3013,John Hopcroft,21,2
+3014,Jaya Kawale,21,1
+3015,Derek Hoiem,21,1
+3016,Habib Benali,21,1
+3017,Kevyn Collins-thompson,21,1
+3018,Saurabh Singh,21,1
+3019,Doru C. Balcan,21,1
+3020,James R. Lloyd,21,2
+3021,Jong-Shi Pang,21,1
+3022,Pierre Dupont,21,1
+3023,Pierre Gaillard,21,1
+3024,Gabor Lugosi,21,1
+3025,Reshad Hosseini,21,2
+3026,CHRISTOS THRAMPOULIDIS,21,1
+3027,Sara Shanian,21,1
+3028,Ehsan Abbasi,21,1
+3029,Martin Azizyan,21,1
+3030,Ziv Bar-joseph,21,2
+3031,Marc Deisenroth,21,1
+3032,Yasin Abbasi,21,2
+3033,Chris Murray,21,1
+3034,Hai-son P. Le,21,2
+3035,Brian Eriksson,21,1
+3036,S. Muthukrishnan,21,1
+3037,Venu Govindaraju,21,2
+3038,Nicholas Priebe,21,1
+3039,Zhuo Wang,21,3
+3040,Samuel J. Gershman,21,2
+3041,Nataliya Shapovalova,21,1
+3042,Chengkai Zhang,20,1
+3043,Sandeep R. Datta,20,1
+3044,Ju Sun,20,1
+3045,Stefan Haufe,20,1
+3046,Qixia Jiang,20,1
+3047,Marcus Hutter,20,2
+3048,Minh Do,20,2
+3049,Allison Berke,20,1
+3050,Michel Besserve,20,2
+3051,Kishan Wimalawarne,20,1
+3052,Kenneth Norman,20,1
+3053,Per Sederberg,20,1
+3054,Yuxuan Wang,20,1
+3055,Deliang Wang,20,1
+3056,Anne Hsu,20,1
+3057,Patrick Shafto,20,1
+3058,Ruedi Stoop,20,1
+3059,Abram L. Friesen,20,2
+3060,Alex Wiltschko,20,1
+3061,Shou-De Lin,20,2
+3062,Thomas Ott,20,1
+3063,Majid Janzamin,20,1
+3064,Shahin Shahrampour,20,1
+3065,Constantinos Daskalakis,20,1
+3066,Maosong Sun,20,1
+3067,Gautam C. Kamath,20,1
+3068,Jacob Andreas,20,2
+3069,Issei Sato,20,3
+3070,Ali Jadbabaie,20,1
+3071,james m. robins,20,1
+3072,Pierre-arnaud Coquelin,20,2
+3073,Romain Deguest,20,2
+3074,Stefan Habenschuss,20,2
+3075,Feng Cao,20,1
+3076,Satinder S. Baveja,20,1
+3077,Sandro Ridella,20,1
+3078,Alessandro Ghio,20,1
+3079,Davide Anguita,20,1
+3080,Romain Paulus,20,1
+3081,David Barrett,20,1
+3082,Luca Oneto,20,1
+3083,Dustin Tran,20,2
+3084,Boris Lesner,20,1
+3085,Matthew D. Zeiler,20,1
+3086,Michael F. Mathieu,20,2
+3087,Ross Goroshin,20,1
+3088,O. P. Kreidl,20,1
+3089,Iain Matthews,20,1
+3090,Elon Portugaly,20,1
+3091,Robert Calderbank,20,2
+3092,Erik Talvitie,20,2
+3093,Qing Qu,20,1
+3094,Yuxi Li,20,1
+3095,Chris Hinrichs,20,3
+3096,Tamar Flash,20,1
+3097,Shih-Chii Liu,20,3
+3098,ozlem Aslan,20,2
+3099,Furong Huang,20,1
+3100,Kai-Yang Chiang,20,1
+3101,Tai S. Lee,20,2
+3102,Marek Petrik,20,4
+3103,Dillon Plunkett,19,1
+3104,Brian Milch,19,1
+3105,Leslie P. Kaelbling,19,1
+3106,Sophie Lebre,19,1
+3107,Staal A. Vinterbo,19,1
+3108,Soumyadeep Chatterjee,19,1
+3109,Frank Dondelinger,19,1
+3110,Mo Yu,19,1
+3111,Nicole Kramer,19,1
+3112,Kisuk Lee,19,1
+3113,Heung-yeung Shum,19,1
+3114,Andres Munoz,19,2
+3115,Mark A. Paskin,19,1
+3116,Biljana Petreska,19,2
+3117,Guy Isely,19,1
+3118,Nicholas Hay,19,1
+3119,Noam Slonim,19,1
+3120,Anh Nguyen,19,1
+3121,Zhenghao Wang,19,1
+3122,Balazs Szarenyi,19,3
+3123,Liam M. Dermed,19,1
+3124,Kannan Achan,19,1
+3125,Jessica B. Hamrick,19,1
+3126,Stanislav Funiak,19,1
+3127,Chenghui Cai,19,1
+3128,Alexander Gray,19,1
+3129,Marina Meila,19,5
+3130,Don Hush,19,1
+3131,Clint Scovel,19,1
+3132,Jinsong Tan,19,1
+3133,Christopher Hillar,19,1
+3134,Jingren Zhou,19,1
+3135,Weizhu Chen,19,1
+3136,Yangyu Tao,19,1
+3137,John MacCormick,19,1
+3138,Matthias Oster,19,1
+3139,Aleksandar Zlateski,19,1
+3140,Luke Zettlemoyer,19,1
+3141,Scott Niekum,19,3
+3142,Abhimanyu Das,19,1
+3143,Roee Litman,19,1
+3144,Tal Ben Yakar,19,1
+3145,Thang D. Bui,19,2
+3146,Alexander M. Bronstein,19,1
+3147,Peter Battaglia,19,2
+3148,Xin Wang,19,2
+3149,Ryan J. Giordano,19,1
+3150,K. Ramakrishnan,19,1
+3151,Anirban Dasgupta,19,1
+3152,Mehul Parsana,19,1
+3153,John Skilling,19,1
+3154,Olivier Fercoq,19,3
+3155,Ulrike Von Luxburg,19,1
+3156,Kyomin Jung,19,2
+3157,Ali Borji,19,1
+3158,Vishwanathan Ashwin,19,1
+3159,Liu Yang,19,3
+3160,Tang Jie,19,1
+3161,Yiming Wang,19,1
+3162,Michael Isard,19,1
+3163,Rachel Puckrin,19,1
+3164,Roy Frostig,19,2
+3165,Jennifer Listgarten,19,1
+3166,Sean Cutler,19,1
+3167,Tom Claassen,19,2
+3168,Toshinori Yoshioka,18,1
+3169,Koji Tsuda,18,1
+3170,Siu On Chan,18,1
+3171,Mike Shadlen,18,1
+3172,Donna Hoffman,18,1
+3173,William Fithian,18,1
+3174,Xiaorui Sun,18,1
+3175,Timothy Hanks,18,1
+3176,Rocco A. Servedio,18,1
+3177,Koji Eguchi,18,1
+3178,Xin Liu,18,2
+3179,Michael Herrmann,18,1
+3180,Andrew Connolly,18,1
+3181,Kenji Yamamoto,18,1
+3182,Robert Jedicke,18,1
+3183,Anirban Roychowdhury,18,1
+3184,Kosuke Fukumasu,18,1
+3185,Anna Levina,18,1
+3186,Joseph Masiero,18,1
+3187,Alan Welsh,18,1
+3188,Kimberly L. Stachenfeld,18,1
+3189,Huasen Wu,18,2
+3190,Jeremy Kubica,18,1
+3191,Aaron D'souza,18,1
+3192,Marton G. Danoczy,18,1
+3193,Matthew Smith,18,1
+3194,Si Wu,18,7
+3195,Vishy Vishwanathan,18,1
+3196,Maarten de Rijke,18,1
+3197,A. Rupam Mahmood,18,1
+3198,Tom Stepleton,18,1
+3199,Randall Davis,18,1
+3200,Paul Kidwell,18,1
+3201,Ryan Kelly,18,1
+3202,Anna Harutyunyan,18,1
+3203,Nimar Arora,18,1
+3204,Zhuolin Jiang,18,1
+3205,Mitsuo Kawato,18,1
+3206,Moshe Butman,18,1
+3207,Simon Burton,18,1
+3208,Bo Li,18,2
+3209,Robert Kass,18,1
+3210,Leif Finkel,18,1
+3211,Jonathon P. Phillips,18,1
+3212,Nolan Bard,18,1
+3213,Nigel Goddard,18,2
+3214,Yevgeniy Vorobeychik,18,2
+3215,Jingjing Zheng,18,1
+3216,Johan Ugander,18,2
+3217,Eugene Ndiaye,18,2
+3218,William W. Cohen,18,2
+3219,Xueqi Cheng,18,1
+3220,Masrour Zoghi,18,1
+3221,Jiafeng Guo,18,1
+3222,Vasilis Syrgkanis,18,3
+3223,Shinji Kakei,18,1
+3224,Michael L. Wick,18,1
+3225,Lauren Sergio,18,1
+3226,Richard H. R. Hahnloser,18,1
+3227,Dae Il Kim,18,1
+3228,Tom Ouyang,18,1
+3229,John Kalaska,18,1
+3230,David Baldwin,18,1
+3231,Shunan Zhang,17,1
+3232,Kai Zhong,17,5
+3233,Andrew G. Wilson,17,2
+3234,Pierre Ferrez,17,1
+3235,Hong Cheng,17,1
+3236,Andre Kahles,17,1
+3237,Ting-Wei Lin,17,1
+3238,Elad Mezuman,17,1
+3239,Georg Zeller,17,1
+3240,Johannes Bill,17,1
+3241,Igor Mordatch,17,1
+3242,Srinjoy Mitra,17,1
+3243,Assaf Zeevi,17,1
+3244,Stefano Fusi,17,1
+3245,Michael Lindenbaum,17,3
+3246,Ziteng Wang,17,2
+3247,Arthur Choi,17,6
+3248,YI WU,17,1
+3249,Tomas Kocak,17,1
+3250,Kendall Lowrey,17,1
+3251,Galen Andrew,17,1
+3252,Qiang Cheng,17,2
+3253,Emanuel V. Todorov,17,1
+3254,Austin R. Benson,17,2
+3255,Yonatan Gur,17,1
+3256,Arkadas Ozakin,17,1
+3257,Mehdi Keramati,17,1
+3258,William J. Huggins,17,1
+3259,David F. Gleich,17,3
+3260,Yannis M. Assael,17,1
+3261,Garrett Thomas,17,1
+3262,Omar Besbes,17,1
+3263,Sourish Chaudhuri,17,1
+3264,Fanhua Shang,17,1
+3265,Pavlo Lutsik,17,1
+3266,Jakob Foerster,17,1
+3267,Yuanyuan Liu,17,1
+3268,Nico Goernitz,17,1
+3269,Soren Kaae Sonderby,17,2
+3270,James Cheng,17,1
+3271,Jose Millan,17,1
+3272,Pieter Roelfsema,17,1
+3273,Tao Wang,17,1
+3274,Dmitry Adamskiy,17,1
+3275,Olana Missura,17,1
+3276,Laura Dietz,17,1
+3277,Mona Eberts,17,1
+3278,Daniel Hernandez-Lobato,17,2
+3279,Mohammad Sadegh Talebi Mazraeh Shahi,17,1
+3280,Marine Depecker,17,1
+3281,Terrence J. Sejnowski,17,1
+3282,Kai Fan,17,3
+3283,Wenye Li,17,2
+3284,Elliot A. Ludvig,17,1
+3285,Andrew M. McDonald,17,1
+3286,Kostas Daniilidis,17,1
+3287,Cosmin Bejan,17,1
+3288,Andreas Schulze-bonhage,17,1
+3289,Mikhail Volkov,17,2
+3290,Adam Teichert,17,1
+3291,Daniela Rus,17,2
+3292,Matthew Titsworth,17,1
+3293,Tonio Ball,17,1
+3294,Duane Szafron,17,2
+3295,Qibin Zhao,17,1
+3296,Danilo P. Mandic,17,1
+3297,Richard G. Gibson,17,2
+3298,Sham Kakade,17,1
+3299,Andrew Hickl,17,1
+3300,Abdeslam Boularias,17,3
+3301,Richard Combes,17,1
+3302,Gianluigi Pillonetto,17,1
+3303,Sanda Harabagiu,17,1
+3304,M. Pawan Kumar,17,2
+3305,Jon M. Kleinberg,17,1
+3306,Alexandra Golby,17,1
+3307,E. J. Kehoe,17,1
+3308,Eric Verbeek,17,1
+3309,David Liben-nowell,17,1
+3310,Matthew Loper,17,1
+3311,Laura Rigolo,17,1
+3312,Flavio Chierichetti,17,1
+3313,Martin O. Larsson,17,1
+3314,Andreas Zeller,17,1
+3315,Valentin Dallmeier,17,1
+3316,Dacheng Tao,17,2
+3317,Yanmei Tie,17,1
+3318,Tetsuro Morimura,17,2
+3319,Roy Anati,17,1
+3320,Adam Tauman Kalai,17,1
+3321,Francesca Petralia,17,2
+3322,Assaf Glazer,17,3
+3323,Tyagi Hemant,17,1
+3324,Georg Langs,17,1
+3325,Dimitris Stamos,17,1
+3326,Cesar F. Caiafa,17,1
+3327,Zakria Hussain,16,1
+3328,Nguyen Viet Cuong,16,1
+3329,Gabor Bartok,16,2
+3330,Kian Ming A. Chai,16,1
+3331,Hai Leong Chieu,16,1
+3332,Nicholas Della Penna,16,1
+3333,Kevin Leyton-brown,16,1
+3334,Aapo Hyvarinen,16,3
+3335,Albert X. Jiang,16,1
+3336,Thomas Furmston,16,1
+3337,Walker Orr,16,1
+3338,Maxim Rabinovich,16,2
+3339,Paul Vernaza,16,1
+3340,Suchi Saria,16,1
+3341,Cameron Musco,16,1
+3342,Daniel Tranchina,16,1
+3343,Liam C. MacDermed,16,1
+3344,Allen Selverston,16,1
+3345,Zhenyu Lai,16,1
+3346,Artur Dubrawski,16,2
+3347,None,16,2
+3348,Hansheng Diao,16,1
+3349,Cosmin Paduraru,16,1
+3350,Henry Abarbanel,16,1
+3351,Ashkan Jafarpour,16,1
+3352,Yanshuai Cao,16,1
+3353,Marcus A. Brubaker,16,1
+3354,Miguel Rodrigues,16,1
+3355,Christopher Musco,16,1
+3356,Peter Schulam,16,2
+3357,Jean-philippe Pellet,16,1
+3358,Tong Che,16,1
+3359,David Wilcox,16,1
+3360,Viktoriia Sharmanska,16,1
+3361,Rodney J. Douglas,16,3
+3362,Zhouhan Lin,16,1
+3363,Doron Blatt,16,1
+3364,Xu Sun,16,1
+3365,Mark Maloof,16,1
+3366,Karthikeyan Shanmugam,16,3
+3367,Min Xiao,16,1
+3368,Katherine Bouman,16,1
+3369,Stephan Mandt,16,2
+3370,Janardhan R. Doppa,16,1
+3371,Giovanni Cavallanti,16,1
+3372,Adria Recasens,16,1
+3373,Nikolai Rulkov,16,1
+3374,Thomas Nowotny,16,1
+3375,Payman Yadollahpour,16,1
+3376,Yury Makarychev,16,1
+3377,Mehmet K. Muezzinoglu,16,1
+3378,Matthew King,16,1
+3379,Afonso Bandeira,16,1
+3380,Vlad Voroninski,16,1
+3381,Xu Jia,16,1
+3382,Bert De Brabandere,16,1
+3383,Tinne Tuytelaars,16,1
+3384,Gregory D. Hager,16,1
+3385,Marc Henniges,16,1
+3386,Le Lu,16,1
+3387,Sharad Goel,16,1
+3388,Andre Elisseeff,16,1
+3389,David Gamarnik,16,2
+3390,Philip M. Long,16,2
+3391,Kwong-sak Leung,16,1
+3392,Kin-hong Lee,16,1
+3393,Joao V. Messias,16,1
+3394,Gennady Samorodnitsk,16,1
+3395,Andre Longtin,16,1
+3396,Jonathan Ho,16,1
+3397,Claudia Clopath,16,1
+3398,Matthijs Spaan,16,1
+3399,Pedro U. Lima,16,1
+3400,Anthony Leonardo,16,1
+3401,Beomjoon Kim,16,1
+3402,Matthias W. Seeger,16,2
+3403,Mikhail Rabinovich,16,1
+3404,Yaara Yeshurun,16,1
+3405,Mohammad S. Sorower,16,1
+3406,Min Yang,16,1
+3407,R. Srikant,16,1
+3408,Marta Soare,16,1
+3409,Fred Richardson,16,1
+3410,Po-Hsuan (Cameron) Chen,16,1
+3411,Janice Chen,16,1
+3412,Alexander Vergara,16,1
+3413,Thomas S. Huang,16,2
+3414,Kamiar R. Rad,16,1
+3415,Pulkit Agrawal,16,1
+3416,Chong Jiang,16,1
+3417,John W. Roberts,16,1
+3418,Ramon Huerta,16,1
+3419,Ashvin V. Nair,16,1
+3420,Russ Tedrake,16,1
+3421,Marc Joliveau,15,1
+3422,Michael Young,15,1
+3423,Jean-Francois Crespo,15,1
+3424,Dan Dennison,15,1
+3425,Michael Kaufmann,15,1
+3426,Daniel J. Cameron,15,1
+3427,Miguel Figueroa,15,1
+3428,Gonzalo Carvajal,15,1
+3429,Guenther Zeck,15,1
+3430,Mario Lucic,15,2
+3431,Paul Sajda,15,2
+3432,David E. Kim,15,1
+3433,Eugene Davydov,15,1
+3434,Sebastian Stober,15,1
+3435,Vinay Chaudhary,15,1
+3436,Ankit Garg,15,1
+3437,Samuel Tenka,15,1
+3438,Franziska Meier,15,1
+3439,D. Sculley,15,1
+3440,Bogdan Savchynskyy,15,3
+3441,Felix X. Yu,15,2
+3442,Viviana Petrescu,15,1
+3443,Todd Phillips,15,1
+3444,Jessica A. Grahn,15,1
+3445,Ming Liang,15,1
+3446,Waldo Valenzuela,15,1
+3447,Santosh Mohan,15,1
+3448,Gary Holt,15,1
+3449,Marta Salas,15,1
+3450,Pablo Arbelaez,15,1
+3451,Dietmar Ebner,15,1
+3452,Taylor Berg-Kirkpatrick,15,1
+3453,Katerina Fragkiadaki,15,1
+3454,Richard M. Salter,15,1
+3455,Wolf Vanpaemel,15,1
+3456,David Baker,15,1
+3457,Konrad Rieck,15,1
+3458,Marc Sobel,15,1
+3459,Wei Bian,15,1
+3460,Guangcan Liu,15,2
+3461,Mohammad Amin Sadeghi,15,1
+3462,Ben Blum,15,1
+3463,Volker Blanz,15,1
+3464,Philip Bradley,15,1
+3465,Dimitris Achlioptas,15,1
+3466,Bertram E. Shi,15,3
+3467,Klaus Obermayer,15,3
+3468,Zeynep Akata,15,1
+3469,Haim Schweitzer,15,1
+3470,Crystal Maung,15,1
+3471,Danny Bickson,15,1
+3472,Marylou Gabrie,15,1
+3473,Chengen Lu,15,1
+3474,Jeffrey Pennington,15,1
+3475,Xiaolin Hu,15,2
+3476,Ravi Sastry Ganti,15,1
+3477,Peter J. Thomas,15,1
+3478,Utkarsh Porwal,15,1
+3479,Hung Q. Ngo,15,1
+3480,Yu Xin,15,1
+3481,Chris Barber,15,1
+3482,Yingbo Zhou,15,1
+3483,Joseph Bockhorst,15,1
+3484,Paul Roebber,15,1
+3485,Xuezhi Wang,15,1
+3486,Jose Bento,15,2
+3487,Jason E. Weston,15,1
+3488,Yin Chen,15,1
+3489,Sohail Bahmani,15,1
+3490,Justin Romberg,15,1
+3491,Laura Balzano,15,1
+3492,Edo Liberty,15,1
+3493,David Page,15,2
+3494,Katherine Chen,15,1
+3495,Bart D. Moor,15,1
+3496,Rafael Frongillo,15,5
+3497,Azin Ashkan,15,1
+3498,Behtash Babadi,15,2
+3499,Chris Eliasmith,15,1
+3500,Elisabetta Chicca,15,2
+3501,Paul Nuyujukian,15,1
+3502,Ramya Korlakai Vinayak,15,2
+3503,Hiroshi Sawada,15,2
+3504,Yuya Yoshikawa,15,2
+3505,Julie Dethier,15,1
+3506,Skander Mensi,15,1
+3507,Richard Naud,15,1
+3508,Jennifer Chayes,15,1
+3509,Christian Borgs,15,1
+3510,Rhiju Das,15,1
+3511,Xin Yuan,15,2
+3512,Matus J. Telgarsky,15,3
+3513,Johan Suykens,15,1
+3514,Kristiaan Pelckmans,15,1
+3515,Shauki A. Elasaad,15,1
+3516,Alessandro Farinelli,15,1
+3517,Jes'us Cerquides,15,1
+3518,Joseph M. Kimmel,15,1
+3519,Meritxell Vinyals,15,1
+3520,Juan A. Rodriguez-aguilar,15,1
+3521,Faustino J. Gomez,15,1
+3522,Joao F. Henriques,15,2
+3523,Cristina Savin,15,5
+3524,Eric W. Tramel,15,1
+3525,Remi Lajugie,15,1
+3526,Terrence C. Stewart,15,1
+3527,Damien Garreau,15,1
+3528,Lin Wu,15,1
+3529,Ofer Zeitouni,14,1
+3530,Fangjian Guo,14,1
+3531,Daniel Reichman,14,1
+3532,Zuoguan Wang,14,2
+3533,Volkmar Welker,14,1
+3534,Yan Huang,14,1
+3535,Shaul Druckmann,14,2
+3536,Quoc Tran-Dinh,14,1
+3537,Gerwin Schalk,14,2
+3538,Gabriel Krummenacher,14,2
+3539,Pravesh Kothari,14,1
+3540,Deeparnab Chakrabarty,14,1
+3541,Sayan Mukherjee,14,1
+3542,Volker Roth,14,3
+3543,Mikaela Keller,14,2
+3544,Jung Hoon Lee,14,1
+3545,David Decaprio,14,1
+3546,Eran Treister,14,1
+3547,Stephen Lawrie,14,1
+3548,Trapit Bansal,14,1
+3549,Ravindran Kannan,14,1
+3550,Srini Turaga,14,1
+3551,Zhilin Yang,14,1
+3552,David Mcgonigle,14,1
+3553,Ye Yuan,14,1
+3554,Yuexin Wu,14,1
+3555,Dilin Wang,14,1
+3556,Jade P. Vinson,14,1
+3557,Jakob Macke,14,1
+3558,Ryota Kobayashi,14,2
+3559,Xiaolong Ma,14,1
+3560,Siqi Nie,14,1
+3561,Avi Wigderson,14,1
+3562,TIAN TIAN,14,1
+3563,Matthew Der,14,1
+3564,Gregory Rogez,14,1
+3565,Matthew D. Pearson,14,1
+3566,Chao Qian,14,1
+3567,Yang Yu,14,1
+3568,Srikrishna Sridhar,14,1
+3569,Francisco Ruiz,14,3
+3570,Stacey Luoma,14,1
+3571,James E. Galagan,14,1
+3572,Javier S. Turek,14,1
+3573,Barbara Rakitsch,14,1
+3574,Graham Mcneill,14,1
+3575,Michael G. Madden,14,1
+3576,Gowtham Bellala,14,1
+3577,Geoffrey T. Manley,14,1
+3578,Suresh Bhavnani,14,1
+3579,Mitchell Cohen,14,1
+3580,Eric Saund,14,1
+3581,Kristan Staudenmayer,14,1
+3582,Konstantin K. Likharev,14,1
+3583,Diane Morabito,14,1
+3584,Lars Maaloe,14,1
+3585,Qichao Que,14,2
+3586,Patrice Bertail,14,1
+3587,Tim Rogers,14,2
+3588,Norm Aleks,14,1
+3589,Casper Kaae Sonderby,14,1
+3590,Chuck Kalish,14,1
+3591,Joseph Harrison,14,1
+3592,Peilin Zhao,14,1
+3593,Enrico Simonotto,14,1
+3594,Tor Lattimore,14,7
+3595,Heather Whalley,14,1
+3596,Bo Wen,14,1
+3597,Tanja Schultz,13,1
+3598,Andreas Bartels,13,1
+3599,Romain Brasselet,13,1
+3600,Benedict Leimkuhler,13,1
+3601,Xiaocheng Shang,13,1
+3602,Zhanxing Zhu,13,1
+3603,Julia Owen,13,1
+3604,Lukasz Kopec,13,1
+3605,Ilya O. Tolstikhin,13,3
+3606,Luca Bascetta,13,1
+3607,Matteo Pirotta,13,1
+3608,Adith Swaminathan,13,1
+3609,Maren Mahsereci,13,1
+3610,Peichao Peng,13,1
+3611,Hamed Hassani,13,2
+3612,Greg Horwitz,13,1
+3613,Peter Sollich,13,3
+3614,Yanjun Han,13,1
+3615,Qing Tao,13,1
+3616,Nisheeth Srivastava,13,2
+3617,Nate Derbinsky,13,1
+3618,Javier Alonso-Mora,13,1
+3619,Jonathan S. Yedidia,13,1
+3620,Lie Wang,13,1
+3621,Eyal Krupka,13,1
+3622,Angelo Arleo,13,1
+3623,Jaety Edwards,13,1
+3624,Oren Rippel,13,1
+3625,Aditya Bhaskara,13,2
+3626,Thomas Peel,13,1
+3627,Sandrine Anthoine,13,1
+3628,Yik-cheung Tam,13,1
+3629,Roland Johansson,13,1
+3630,Kazuo Machida,13,1
+3631,Wei Wen,13,1
+3632,Chao Zhang,13,1
+3633,Devdatt Dubhashi,13,2
+3634,Grace Wahba,13,2
+3635,Mikhail Figurnov,13,1
+3636,Ozlem Aslan,13,1
+3637,Stephane Gaiffas,13,1
+3638,Hao Cheng,13,1
+3639,Judy Goldsmith,13,1
+3640,Aizhan Ibraimova,13,1
+3641,Martin Mundhenk,13,1
+3642,Wenxiu Sun,13,1
+3643,Andrew Howard,13,1
+3644,Alexandre de Brebisson,13,1
+3645,Xavier Bouthillier,13,1
+3646,Keith Bush,13,1
+3647,Daniel Kuhn,13,2
+3648,Hiroki Terashima,13,1
+3649,Anatoli Juditsky,13,3
+3650,Jie Shen,13,1
+3651,Hai Li,13,1
+3652,Misha Ahrens,13,2
+3653,Nitesh Shroff,13,1
+3654,Robert Nishihara,13,1
+3655,Edward Challis,13,1
+3656,Vahab Mirrokni,13,3
+3657,Cedric Fevotte,13,3
+3658,Chunpeng Wu,13,1
+3659,Cassio Campos,13,1
+3660,Kaustubh R. Patil,13,1
+3661,Qiong Yan,13,1
+3662,Pavan Turaga,13,1
+3663,Takehisa Yairi,13,1
+3664,Yandan Wang,13,1
+3665,Bradley C. Love,13,1
+3666,Yiran Chen,13,1
+3667,Yasuhiro Tsubo,13,1
+3668,Srivatsan Narayanan,13,1
+3669,Petr Lansky,13,1
+3670,Lei Li,13,1
+3671,Ronen Eldan,13,2
+3672,Mark Rogers,13,1
+3673,Peter Krafft,12,1
+3674,Lakshminarayanan Subramanian,12,1
+3675,Juston Moore,12,1
+3676,Krzysztof M. Choromanski,12,2
+3677,Lucas Maystre,12,1
+3678,Amar Shah,12,1
+3679,Silvio Lattanzi,12,2
+3680,John Agapiou,12,1
+3681,Vincent Tan,12,1
+3682,Silvio Savarese,12,2
+3683,Ashwin Venkataraman,12,1
+3684,Alexander Vezhnevets,12,1
+3685,Bruce Desmarais,12,1
+3686,Akshat Kumar,12,1
+3687,Yuichi Yoshida,12,3
+3688,Evan Archer,12,1
+3689,Benjamin Culpepper,12,1
+3690,Alexander Ecker,12,1
+3691,Dawn Song,12,2
+3692,Rama Natarajan,12,1
+3693,Alp Yurtsever,12,2
+3694,Shilin Ding,12,1
+3695,Jeany Son,12,1
+3696,Mahdi Milani Fard,12,3
+3697,Suha Kwak,12,1
+3698,Wu-Jun Li,12,1
+3699,James Sharpnack,12,1
+3700,Ling Yan,12,1
+3701,Theodore J. Perkins,12,1
+3702,Vasiliy Karasev,12,1
+3703,Joseph Schlecht,12,1
+3704,Xu Chen,12,1
+3705,Kobus Barnard,12,1
+3706,Cong Xie,12,1
+3707,Xiuyuan Cheng,12,1
+3708,Aurelien Lucchi,12,2
+3709,Ariel Kleiner,12,1
+3710,Zhen Li,12,1
+3711,Huazhong Ning,12,1
+3712,Liangliang Cao,12,1
+3713,Jan Feyereisl,12,1
+3714,Stephane Mallat,12,1
+3715,Oliver B. Kroemer,12,2
+3716,Abdul S. Sheikh,12,1
+3717,John R. Hershey,12,1
+3718,Shane Legg,12,1
+3719,Kui Tang,12,1
+3720,Patrick Jaillet,12,2
+3721,Yuanzhi Li,12,4
+3722,Abdullah Celik,12,1
+3723,Roy Fox,12,1
+3724,Josh S. Merel,12,1
+3725,Shenlong Wang,12,2
+3726,Vinay Jethava,12,1
+3727,Anders Martinsson,12,1
+3728,Trausti Kristjansson,12,1
+3729,Brian Taba,12,1
+3730,Guang-Tong Zhou,12,1
+3731,Alexandre Bayen,12,3
+3732,Navid Zolghadr,12,1
+3733,Walid Krichene,12,3
+3734,Robert Busa-Fekete,12,2
+3735,Ben Shababo,12,1
+3736,Shaobo Han,12,2
+3737,Kewei Tu,12,1
+3738,Maria Pavlovskaia,12,1
+3739,Milutin Stanacevic,12,1
+3740,Tomi Silander,12,2
+3741,Filip De Turck,12,1
+3742,Gert Cauwenberghs,12,1
+3743,Bojun Tu,12,1
+3744,Kristina Klinkner,12,1
+3745,Yonatan Wexler,12,2
+3746,Sriraam Natarajan,12,1
+3747,Moulines Eric,12,1
+3748,Jeremy Weiss,12,1
+3749,Zhize Li,12,1
+3750,Yufei Tao,12,1
+3751,Wei Cao,12,1
+3752,Konstantinos Bousmalis,12,1
+3753,George Trigeorgis,12,1
+3754,Pawan K. Mudigonda,12,2
+3755,Marco Pavone,12,1
+3756,Aharon Birnbaum,12,1
+3757,Wei Bi,12,1
+3758,Eric K. Tsang,12,1
+3759,Xiang Ji,12,1
+3760,Ya Zhang,12,1
+3761,Yixin Chen,12,1
+3762,Song-Chun Zhu,12,1
+3763,Marcelo Camperi,12,1
+3764,Yannick Schwartz,12,1
+3765,Luca Pasa,12,1
+3766,Yonatan Halpern,12,1
+3767,Zhengyuan Zhou,12,1
+3768,Christian Albers,12,2
+3769,Alessandro Sperduti,12,1
+3770,Alexander Lorbert,12,1
+3771,Klaus Pawelzik,12,2
+3772,David I. Inouye,12,2
+3773,Matthias Grossglauser,12,1
+3774,Mohak Shah,12,2
+3775,Alexander Zimin,12,1
+3776,Yacine Jernite,12,1
+3777,Xiaoqin Zhang,12,1
+3778,Ydo Wexler,12,1
+3779,Tom Goldstein,12,1
+3780,Min Li,12,1
+3781,Xiaoming Yuan,12,1
+3782,Tuan A. Nguyen,12,1
+3783,Di Wang,12,1
+3784,Murat Kocaoglu,12,2
+3785,James Kwok,11,1
+3786,Matthieu Cord,11,1
+3787,Happy Mittal,11,2
+3788,Mikkel Schmidt,11,1
+3789,Joo-Hwee Lim,11,1
+3790,Sorathan Chaturapruek,11,1
+3791,Saharon Rosset,11,1
+3792,Daniel Lowd,11,1
+3793,Moni Shahar,11,1
+3794,Tsuyoshi Ide,11,1
+3795,Yu-Bin Yang,11,1
+3796,Arno Onken,11,3
+3797,Konstantina Palla,11,1
+3798,Nicolas Thome,11,1
+3799,Hanlin Goh,11,1
+3800,Niko Beerenwinkel,11,1
+3801,Elaine Angelino,11,1
+3802,Anna Choromanska,11,1
+3803,Laurence Aitchison,11,1
+3804,Xiaojiao Mao,11,1
+3805,Siew Y. Wong,11,1
+3806,Tobias Sing,11,1
+3807,Trung V. Nguyen,11,1
+3808,Tolga Bolukbasi,11,1
+3809,Yuri Grinberg,11,2
+3810,Rashmi Sundareswara,11,1
+3811,Andreas Kolling,11,1
+3812,Mingjie Zhao,11,1
+3813,Gholamreza Haffari,11,1
+3814,Armen Allahverdyan,11,1
+3815,Jesse Davis,11,2
+3816,Herbert Jaeger,11,1
+3817,Philipp Batz,11,1
+3818,Steffen Grunewalder,11,2
+3819,Hirakendu Das,11,1
+3820,Qian Wang,11,1
+3821,Nicolas Macris,11,1
+3822,Kiran K. Thekumparampil,11,1
+3823,Mehmet Ganen,11,1
+3824,Yunwen Lei,11,1
+3825,Thibault Lesieur,11,1
+3826,Remi Lemonnier,11,2
+3827,Kevin Scaman,11,2
+3828,Matthew Urry,11,2
+3829,Gustavo Malkomes,11,3
+3830,Alkis Gotovos,11,1
+3831,Amin Sayedi,11,1
+3832,Yoonho Hwang,11,1
+3833,Hee-kap Ahn,11,1
+3834,Carlton Downey,11,1
+3835,Shuang Song,11,1
+3836,Andrew Frank,11,1
+3837,Agnieszka Grabska-Barwinska,11,2
+3838,Ali Farhadi,11,1
+3839,Se-Young Yun,11,3
+3840,Ali Tofigh,11,1
+3841,J.t. Lindgren,11,1
+3842,Feng Chen,11,1
+3843,Dimitris Margaritis,11,1
+3844,Zheng Zhang,11,1
+3845,Sen Song,11,1
+3846,Jiaxing Zhang,11,1
+3847,Jean Barbier,11,1
+3848,Erik Sjlund,11,1
+3849,Adam A. Margolin,11,1
+3850,Mattias Hglund,11,1
+3851,Jens Lagergren,11,1
+3852,Alexander Binder,11,1
+3853,Urun Dogan,11,1
+3854,Mohamad Dia,11,1
+3855,Fereshteh Sadeghi,11,1
+3856,C. Lawrence Zitnick,11,1
+3857,Michael C. Tschantz,11,1
+3858,Adam T. Kalai,11,1
+3859,Sen Wu,11,1
+3860,Brendan van Rooyen,11,1
+3861,David Ress,11,1
+3862,Hyokun Yun,11,1
+3863,Dotan D. Castro,11,1
+3864,Alban Desmaison,11,1
+3865,Rory Sayres,11,1
+3866,James R. Voss,11,2
+3867,Alexander J. Ratner,11,1
+3868,Mohammadhossein Bateni,11,1
+3869,Joel A. Tropp,11,1
+3870,Florian Stimberg,11,2
+3871,Rudy R. Bunel,11,1
+3872,Timothy A. Machado,11,1
+3873,Parameswaran Raman,11,1
+3874,Urs Koster,11,1
+3875,Kai-Wei Chang,11,2
+3876,Mark Humphries,11,1
+3877,Romain Caze,11,1
+3878,Nicolas Chapados,11,1
+3879,Jesus Cid-sueiro,11,1
+3880,Quoc Tran Dinh,11,1
+3881,Tim van Erven,11,3
+3882,Kalanit Grill-spector,11,1
+3883,Samuel Livingstone,11,1
+3884,David Lopez-paz,11,1
+3885,John J. Bruer,11,1
+3886,Anthony D. Joseph,11,1
+3887,Aditya Menon,11,2
+3888,Neil Burch,11,1
+3889,Alessandro Toigo,11,1
+3890,Alex Kantchelian,11,1
+3891,Chun-Nam Yu,11,1
+3892,Hsiu-Chin Lin,11,1
+3893,Vickie Baracos,11,1
+3894,Ernesto D. Vito,11,1
+3895,Scott Linderman,11,3
+3896,Daniel Selsam,11,1
+3897,Yuanjun Gao,11,2
+3898,Tjeerd Dijkstra,11,1
+3899,Dan Rosenbaum,11,2
+3900,Morteza Zadimoghaddam,11,2
+3901,Sachiko Kinoshita,11,1
+3902,Mrinal Kalakrishnan,11,1
+3903,Takashi Washio,11,2
+3904,Luis Rademacher,11,2
+3905,Sascha Swiercy,10,1
+3906,Abbas Abdolmaleki,10,1
+3907,Jens Mueller,10,1
+3908,Soeren Laue,10,1
+3909,Joachim Giesen,10,1
+3910,Francois-Xavier Briol,10,1
+3911,Benjamin Yackley,10,1
+3912,Eduardo Corona,10,1
+3913,Terran Lane,10,1
+3914,Michael Eickenberg,10,1
+3915,Olivier Grisel,10,1
+3916,Matthias Zahrer,10,1
+3917,Franz Pernkopf,10,1
+3918,Kazuho Watanabe,10,2
+3919,Nikos K. Logothetis,10,1
+3920,Timothy A. Mann,10,2
+3921,America Chambers,10,1
+3922,Bela Frigyik,10,2
+3923,Rudolf Lioutikov,10,1
+3924,zhifeng Chen,10,1
+3925,Guy Rosman,10,1
+3926,Finale Doshi-Velez,10,1
+3927,Simon Wiesler,10,1
+3928,Hermann Ney,10,1
+3929,Yonghui Wu,10,1
+3930,Sridevi Parise,10,1
+3931,Jacob Steinhardt,10,3
+3932,Hachem Kadri,10,2
+3933,Stefan Roth,10,1
+3934,Jan Vondrak,10,1
+3935,Huanran Lu,10,1
+3936,Benjamin I. Rubinstein,10,1
+3937,J. H. Rubinstein,10,1
+3938,Niels Landwehr,10,2
+3939,Luis Pualo Reis,10,1
+3940,Matthias Munk,10,1
+3941,Nuno Lau,10,1
+3942,Viliam Lisy,10,1
+3943,Mike Schuster,10,1
+3944,Vojta Kovarik,10,1
+3945,Jongmin Kim,10,1
+3946,Soravit Changpinyo,10,1
+3947,Danilo Bzdok,10,1
+3948,Kuan Liu,10,1
+3949,Xianxing Zhang,10,2
+3950,Andrew Schwartz,10,1
+3951,Ya-Ping Hsieh,10,2
+3952,Paul Wagner,10,2
+3953,Branislav Bosansky,10,1
+3954,Sanghyuk Park,10,1
+3955,Sungrack Yun,10,1
+3956,Hyunsin Park,10,1
+3957,Nils E. Napp,10,1
+3958,Shuang Wu,10,2
+3959,Thomas Bonald,10,1
+3960,Steven Chase,10,1
+3961,Subhabrata Sen,10,1
+3962,Emre Kiciman,10,1
+3963,Yuichi Nagata,10,1
+3964,Atsushi Miyamae,10,1
+3965,Yoshio Mita,10,1
+3966,Doug Downey,10,1
+3967,William E. Bishop,10,1
+3968,Andrew Delong,10,1
+3969,Yusuke Nakashita,10,1
+3970,Maureen Clerc,10,1
+3971,Sebastian Caro,10,1
+3972,Teodor M. Moldovan,10,1
+3973,Davide Boscaini,10,1
+3974,Dylan J. Foster,10,2
+3975,Joan Fruitet,10,1
+3976,Juan J. Murillo-fuentes,10,1
+3977,David Maltz,10,1
+3978,Halid Z. Yerebakan,10,1
+3979,Emanuele Rodola,10,1
+3980,Azadeh Khaleghi,10,1
+3981,Michael Bronstein,10,1
+3982,Oliver Spatscheck,10,1
+3983,Nikhil Bhat,10,1
+3984,Ryan J. Tibshirani,10,2
+3985,Yifan Wu,10,1
+3986,Levi Boyles,10,2
+3987,Ambedkar Dukkipati,10,1
+3988,Debarghya Ghoshdastidar,10,1
+3989,Tom Gunter,10,1
+3990,Shobha Venkataraman,10,1
+3991,Tadashi Shibata,10,1
+3992,Oren Etzioni,10,1
+3993,Adrian Weller,10,1
+3994,Edo Collins,10,1
+3995,Yifei Ma,10,1
+3996,Christina E. Lee,10,2
+3997,Tianlin Shi,10,1
+3998,Chris Oates,10,1
+3999,Jean Lafond,10,1
+4000,Alan Malek,10,2
+4001,Christos M. Christoudias,10,1
+4002,Shin'ichi Satoh,10,1
+4003,Nobuyuki Morioka,10,1
+4004,Philippe Preux,10,1
+4005,Olga Klopp,10,1
+4006,Chongxuan Li,10,1
+4007,Prasoon Goyal,10,1
+4008,Bangpeng Yao,10,1
+4009,Carlos J. Becker,10,1
+4010,Isao Ono,10,1
+4011,Olga Veksler,10,1
+4012,Richard N. Aslin,10,1
+4013,Tasuku Soma,10,1
+4014,Gergo Orban,10,1
+4015,Yuri Boykov,10,1
+4016,Shusen Wang,10,1
+4017,Shigenobu Kobayashi,10,1
+4018,Nishant A. Mehta,10,1
+4019,Raphael Bailly,9,1
+4020,hengshuai yao,9,1
+4021,Ariadna Quattoni,9,1
+4022,Somdeb Sarkhel,9,2
+4023,Rasmus Kyng,9,1
+4024,Xavier Carreras,9,1
+4025,Anup Rao,9,1
+4026,Xiaoping Chen,9,1
+4027,Feng Wu,9,1
+4028,Tzu-Kuo Huang,9,3
+4029,Francesco Caltagirone,9,1
+4030,Christophe Schulke,9,1
+4031,Dominique C. Perrault-joncas,9,1
+4032,Payam Delgosha,9,1
+4033,Ankan Saha,9,1
+4034,Yossiri Adulyasak,9,1
+4035,Vladimir Spokoiny,9,1
+4036,Soheil Mohajer,9,1
+4037,Joseph Modayil,9,1
+4038,Eric Perreault,9,1
+4039,Elaine Corbett,9,1
+4040,Jianmin Wang,9,1
+4041,Han Zhu,9,1
+4042,Mingsheng Long,9,1
+4043,Blake E. Woodworth,9,1
+4044,Asuman Ozdaglar,9,1
+4045,James Lu,9,1
+4046,Hong Wang,9,1
+4047,Jaime Carbonell,9,3
+4048,Suhas Diggavi,9,1
+4049,Pradeep Varakantham,9,1
+4050,Dylan Hadfield-Menell,9,1
+4051,Anca Dragan,9,1
+4052,Asrar Ahmed,9,1
+4053,Lionel Ott,9,2
+4054,Fabio T. Ramos,9,2
+4055,Wei Xing,9,1
+4056,Aijun Bai,9,1
+4057,Dominique Tschopp,9,1
+4058,Eric Garcia,9,1
+4059,Sang Oh,9,1
+4060,Mikko Koivisto,9,1
+4061,Kshitij Khare,9,1
+4062,Christoforos Christoforou,9,1
+4063,Trevor Hastie,9,1
+4064,Tingni Sun,9,1
+4065,Chi Fung,9,3
+4066,Dejan Pecevski,9,1
+4067,John C. Mitchell,9,1
+4068,Robert West,9,1
+4069,Hristo S. Paskov,9,1
+4070,K. Wong,9,3
+4071,Milan Vojnovic,9,2
+4072,Nicolas Chopin,9,1
+4073,Eric Sodomka,9,1
+4074,Jiacui Li,9,1
+4075,Sergey Feldman,9,1
+4076,Tze Y. Leong,9,1
+4077,Teppo Niinimaki,9,1
+4078,Matthew A. Johnson,9,1
+4079,Maxwell Collins,9,1
+4080,Mauro Scanagatta,9,2
+4081,Alexander G. Matthews,9,1
+4082,Emanuele Coviello,9,1
+4083,Henning Sprekeler,9,1
+4084,Giorgio Corani,9,2
+4085,Linsey Pang,9,1
+4086,Devarajan Sridharan,9,1
+4087,Brian Percival,9,1
+4088,John Arthur,9,1
+4089,Greg Stephens,9,1
+4090,James Ridgway,9,1
+4091,Trung Nguyen,9,1
+4092,Marco Zaffalon,9,2
+4093,Maurizio Filippone,9,1
+4094,John Lim,9,1
+4095,Don Towsley,9,1
+4096,James Atwood,9,1
+4097,Onkar Dalal,9,1
+4098,Jim Kurose,9,1
+4099,Francois Meyer,9,1
+4100,Anirudh Goyal ALIAS PARTH GOYAL,9,1
+4101,Zahra Zamani,9,1
+4102,Megasthenis Asteris,9,2
+4103,Steven Lemm,9,1
+4104,Cesc C. Park,9,1
+4105,Kyung-ah Sohn,9,1
+4106,Wei Sun,9,1
+4107,Guang Cheng,9,1
+4108,Kustaa Kangas,9,1
+4109,Steven W. Zucker,9,2
+4110,Miguel A. Carreira-Perpinan,9,3
+4111,Peter Latham,9,1
+4112,Christoph Schnarr,9,1
+4113,Paul Swoboda,9,1
+4114,Jarg Hendrik Kappes,9,1
+4115,Matthew Lawlor,9,2
+4116,Yi Wu,9,1
+4117,Kaiser Asif,9,2
+4118,Ying Liu,9,1
+4119,Tianyi Zhou,9,1
+4120,Rina Panigrahy,9,1
+4121,Jeremie Mary,9,1
+4122,Pierre Alquier,9,1
+4123,Jing Xiang,9,1
+4124,Xianghang Liu,9,3
+4125,Alex M. Lamb,9,1
+4126,Jean-Baptiste Tristan,9,1
+4127,Daniel Huang,9,1
+4128,Karol Kurach,9,1
+4129,Joseph Tassarotti,9,1
+4130,Adam C. Pocock,9,1
+4131,Dijun Luo,9,1
+4132,Victoria Manfredi,9,1
+4133,Guy L. Steele,9,1
+4134,David Adametz,9,2
+4135,Jing Qian,8,1
+4136,Wenjie Luo,8,2
+4137,Joshua Kulas,8,1
+4138,Seong-hwan Jun,8,1
+4139,Jinwoo Shin,8,3
+4140,Avi Pfeffer,8,1
+4141,Pierre Baque,8,1
+4142,Edward Choi,8,1
+4143,Joydeep Ghosh,8,3
+4144,Andy Schuetz,8,1
+4145,Walter Stewart,8,1
+4146,Liangliang Wang,8,1
+4147,Veeranjaneyulu Sadhanala,8,1
+4148,Makoto Otsuka,8,1
+4149,Jessa Bekker,8,1
+4150,Tobias Glasmachers,8,1
+4151,Yali Wang,8,1
+4152,Vivien Seguy,8,1
+4153,Julian Straub,8,1
+4154,Sumio Watanabe,8,1
+4155,Gunnar Kedenburg,8,2
+4156,Michael Horrell,8,1
+4157,Patrick O. Perry,8,1
+4158,Yulai Cong,8,1
+4159,Vikas Garg,8,2
+4160,Ehsan Adeli-Mosabbeb,8,1
+4161,Francisco Pereira,8,1
+4162,Kim-Han Thung,8,1
+4163,Le An,8,1
+4164,Feng Shi,8,1
+4165,Yuji Matsumoto,8,1
+4166,Dinggang Shen,8,1
+4167,Omer Bobrowski,8,1
+4168,Shy Shoham,8,1
+4169,Wittawat Jitkrittum,8,2
+4170,Yunlong He,8,1
+4171,Haesun Park,8,1
+4172,Chao Qu,8,1
+4173,Anastasios Kyrillidis,8,1
+4174,Ashwinkumar Badanidiyuru,8,1
+4175,Yonina Eldar,8,1
+4176,Bjorn Ommer,8,2
+4177,David S. Choi,8,1
+4178,Michael R. Andersen,8,1
+4179,Alexander Nazin,8,1
+4180,Jonathan Z. Simon,8,1
+4181,Ali Shojaie,8,1
+4182,Kamil A. Wnuk,8,1
+4183,Xiang Yan,8,1
+4184,Fang Zhao,8,1
+4185,Yongzhen Huang,8,1
+4186,Han Zhao,8,1
+4187,Tieniu Tan,8,1
+4188,Huan Zhang,8,2
+4189,Chao Chen,8,1
+4190,Tianqi Zhao,8,1
+4191,Daniel Whiteson,8,1
+4192,Shihab A. Shamma,8,1
+4193,Felipe Tobar,8,1
+4194,Stuart Dreyfus,8,1
+4195,Eiji Mizutani,8,1
+4196,Bertrand Mesot,8,1
+4197,Yi-hao Kao,8,1
+4198,George Michailidis,8,1
+4199,Sahar Akram,8,1
+4200,Zeeshan Syed,8,1
+4201,Gang Wang,8,1
+4202,Georgios Giannakis,8,1
+4203,Ruben Coen-cagli,8,1
+4204,Daniel S. Levine,8,1
+4205,Ted Meeds,8,1
+4206,Adam White,8,1
+4207,Lalit Jain,8,2
+4208,Jack Valmadre,8,1
+4209,Rakshit Trivedi,8,1
+4210,Thomas Voegtlin,8,1
+4211,Luca Bertinetto,8,1
+4212,Amir Leshem,8,1
+4213,Weiran Wang,8,2
+4214,Reza Shadmehr,8,1
+4215,Francisco R. Ruiz,8,1
+4216,Sinead A. Williamson,8,3
+4217,Carlos Blanco,8,1
+4218,Tzu-kuo Huang,8,1
+4219,Matthew Joseph,8,1
+4220,Shaodan Zhai,8,1
+4221,Ronny Lempel,8,1
+4222,Tian Xia,8,1
+4223,Ramesh Sridharan,8,1
+4224,Eshcar Hillel,8,1
+4225,Beresford N. Parlett,8,1
+4226,Ming Tan,8,1
+4227,Arnd Konig,8,1
+4228,Alexandre Tsybakov,8,1
+4229,xiaojian wu,8,1
+4230,Wenhao Gui,8,1
+4231,Donghyuk Shin,8,1
+4232,Camille Coti,8,1
+4233,Ryosuke Matsushita,8,1
+4234,Toshiyuki Tanaka,8,1
+4235,Zhen Cui,8,1
+4236,Hong Chang,8,1
+4237,Mohammad Khajah,8,1
+4238,Xilin Chen,8,1
+4239,E. J. Chichilnisky,8,2
+4240,Oren Somekh,8,1
+4241,Alexandre d'Aspremont,7,2
+4242,Huixia J. Wang,7,1
+4243,Changbo Zhu,7,1
+4244,Weifeng Chen,7,1
+4245,Zhao Fu,7,1
+4246,Mihaela Van Der Schaar,7,2
+4247,Dongcui Diao,7,1
+4248,Chris Meek,7,1
+4249,Andrew Smith,7,1
+4250,Steven Bottone,7,2
+4251,Yizhe Zhang,7,3
+4252,Ryan D. Turner,7,2
+4253,Hengshuai Yao,7,1
+4254,Ben Poole,7,1
+4255,Jeremy Reynolds,7,1
+4256,Toshihiko Hosoya,7,1
+4257,Kazuya Ishibashi,7,1
+4258,Toshiyuki Ishii,7,1
+4259,Cem Tekin,7,1
+4260,Masafumi Oizumi,7,1
+4261,Yongmei M. Wang,7,1
+4262,Jaan Altosaar,7,1
+4263,Andrey Bernstein,7,1
+4264,Soeren Pirk,7,1
+4265,Sebastien Leprince,7,1
+4266,Michael N. Jones,7,2
+4267,Daniele Calandriello,7,1
+4268,David Cohn,7,1
+4269,Jean Philippe Avouac,7,1
+4270,Khaled S. Refaat,7,2
+4271,Karl Pfleger,7,1
+4272,Matthias Bauer,7,1
+4273,Cong Han Lim,7,1
+4274,Maithreyi Raghu,7,1
+4275,Aman Dhesi,7,1
+4276,Karin C. Knudson,7,2
+4277,Michael Chertkov,7,3
+4278,Shun-ichi Amari,7,2
+4279,Saher Esmeir,7,1
+4280,Bruno Conejo,7,1
+4281,Dawei Yang,7,1
+4282,Lukas Kroc,7,1
+4283,Liang Zhang,7,1
+4284,Yangyan Li,7,1
+4285,Nahum Shimkin,7,1
+4286,Charles R. Qi,7,1
+4287,Manuele Bicego,7,1
+4288,Anastasia Podosinnikova,7,1
+4289,Sejong Yoon,7,1
+4290,Patrick Purdon,7,1
+4291,Peyman Mohajerin Esfahani,7,1
+4292,Emery Brown,7,1
+4293,Kyle R. Ulrich,7,2
+4294,Kafui Dzirasa,7,3
+4295,Andrzej Truski,7,1
+4296,Soroosh Shafieezadeh-Abadeh,7,1
+4297,Adrien Todeschini,7,1
+4298,Rahul G. Krishnan,7,1
+4299,Lars Busing,7,1
+4300,Krzysztof Dembczynski,7,1
+4301,Marie Chavent,7,1
+4302,Daniel Berend,7,1
+4303,Lin Du,7,1
+4304,Esther Salazar,7,1
+4305,Chunxiao Zhou,7,2
+4306,Anoop Korattikara,7,1
+4307,Sen Yang,7,1
+4308,Aude Billard,7,1
+4309,Ashwini Shukla,7,1
+4310,Joonseok Lee,7,1
+4311,Mingxuan Sun,7,1
+4312,Xingwei Yang,7,1
+4313,Seungyeon Kim,7,1
+4314,Demba Ba,7,1
+4315,Abhradeep Guha Thakurta,7,1
+4316,Maksim Lapin,7,2
+4317,C.V. Jawahar,7,1
+4318,Simon Laughlin,7,1
+4319,Biswa Sengupta,7,1
+4320,Carl Ek,7,1
+4321,Danica Kragic,7,1
+4322,Martin B. Stemmler,7,1
+4323,Hedvig Kjellstram,7,1
+4324,Maayan Harel,7,1
+4325,Florian T. Pokorny,7,1
+4326,Terence Sanger,7,1
+4327,William H. Montgomery,7,1
+4328,Charless Fowlkes,7,1
+4329,Vasant Honavar,7,1
+4330,Julian E. Yarkony,7,1
+4331,Won J. Sohn,7,1
+4332,Sirish Nandyala,7,1
+4333,C. M. Niu,7,1
+4334,Sanghack Lee,7,1
+4335,Jonas W. Mueller,7,1
+4336,Charles Dubout,7,1
+4337,Thibaut Lienart,7,1
+4338,Nicholas J. Glattard,7,1
+4339,Chris Fernandez,7,1
+4340,Pritish Mohapatra,7,1
+4341,Xinggang Wang,7,1
+4342,Jeremy Niven,7,1
+4343,Troy Lee,7,1
+4344,Sahar Harati,7,1
+4345,Adi Shraibman,7,1
+4346,Pedro Martins,7,1
+4347,Trung T. Pham,7,1
+4348,Edmond Jonckheere,7,1
+4349,Sriram Vishwanath,7,1
+4350,Rui F. Caseiro,7,1
+4351,Dmitri Chklovskii,7,1
+4352,Xiaojing Ye,7,1
+4353,Jorge Batista,7,1
+4354,Hanie Sedghi,7,1
+4355,Maren Westkott,7,1
+4356,Alex K. Susemihl,7,2
+4357,Daniel Alexander,7,1
+4358,Cengiz Pehlevan,7,1
+4359,Ian Stevenson,7,2
+4360,Leonid Boytsov,7,1
+4361,James McInerney,7,1
+4362,Bilegsaikhan Naidan,7,1
+4363,Angela Eigenstetter,7,1
+4364,Paul Rivera,6,1
+4365,Bruce G. Cumming,6,1
+4366,Ralf M. Haefner,6,1
+4367,K. Y. Michael Wong,6,3
+4368,Devansh Arpit,6,1
+4369,Tiberio Caetano,6,1
+4370,Vicente Lopez,6,1
+4371,Kirill Trapeznikov,6,1
+4372,Andreas Kaltenbrunner,6,1
+4373,Joseph Lehec,6,1
+4374,Vicencc Gomez,6,1
+4375,Karim Filali,6,1
+4376,Luminita Vese,6,1
+4377,Rajiv Khanna,6,1
+4378,Matthew Lai,6,1
+4379,Tatsunori Hashimoto,6,1
+4380,Kai Wei,6,1
+4381,Xaq Pitkow,6,3
+4382,Giorgio Patrini,6,1
+4383,Shengjie Wang,6,1
+4384,Alan Lee,6,1
+4385,Tungyou Lin,6,1
+4386,Amir Hesam Salavati,6,1
+4387,Amin Shokrollahi,6,1
+4388,Daniel Stefankovic,6,1
+4389,Bahadir Ozdemir,6,1
+4390,Gilbert Leung,6,1
+4391,Kostas Tsioutsiouliklis,6,1
+4392,Yonatan Amit,6,1
+4393,Greg Shakhnarovich,6,2
+4394,Wenruo Bai,6,1
+4395,Gautam Sargur,6,1
+4396,Chiara Bartolozzi,6,1
+4397,Ifeoma Nwogu,6,1
+4398,David Sussillo,6,1
+4399,Yuzong Liu,6,1
+4400,Mohit Sharma,6,1
+4401,Charles Gaona,6,1
+4402,Jonathan Vacher,6,1
+4403,Jonathan Breshears,6,1
+4404,Jarod Roland,6,1
+4405,Zachary Freudenburg,6,1
+4406,Eric Leuthardt,6,1
+4407,Adam Kohn,6,1
+4408,Yang Ning,6,1
+4409,Andrew Isaac Meso,6,1
+4410,Jean-Baptiste SCHIRATTI,6,1
+4411,Stephen Giguere,6,1
+4412,William C. Dabney,6,1
+4413,Khashayar Rohanimanesh,6,1
+4414,Daniel Vainsencher,6,2
+4415,Nilesh Dalvi,6,1
+4416,Hongbo Zhou,6,1
+4417,Guy Shani,6,1
+4418,Aditya Parameswaran,6,1
+4419,Vibhor Rastogi,6,1
+4420,Pinar Yanardag,6,1
+4421,Yunchen Pu,6,1
+4422,Bo Xin,6,1
+4423,Joao Semedo,6,1
+4424,Vibhav Vineet,6,1
+4425,Madalina Fiterau,6,1
+4426,Ramin Raziperchikolaei,6,2
+4427,Andrew Stevens,6,1
+4428,Stephanie ALLASSONNIERE,6,1
+4429,Yizhou Wang,6,1
+4430,JunYoung Gwak,6,1
+4431,Anurag Ajay,6,1
+4432,Tuomas Haarnoja,6,1
+4433,Baoyuan Wang,6,1
+4434,Manmohan Chandraker,6,1
+4435,Stanley DURRLEMAN,6,1
+4436,Christopher B. Choy,6,1
+4437,Josef Urban,6,1
+4438,Erich Kummerfeld,6,1
+4439,Tivadar Papai,6,1
+4440,Francois Chollet,6,1
+4441,S.V.N. Vishwanathan,6,1
+4442,Wen Gao,6,2
+4443,Laurent U. Perrinet,6,1
+4444,Amin Zandvakili,6,1
+4445,Aron Yu,6,1
+4446,Steve N. MacEachern,6,1
+4447,Eiji Uchibe,6,1
+4448,Roni Khardon,6,1
+4449,Pramod Kaushik Mudrakarta,6,1
+4450,Volodymyr Kuleshov,6,1
+4451,Ozan Sener,6,1
+4452,Alexander Kirillov,6,2
+4453,Aswin Raghavan,6,1
+4454,Jiaqi Zhang,6,1
+4455,Junichiro Yoshimoto,6,1
+4456,Julian Laub,6,1
+4457,Ashish Khetan,6,2
+4458,Kenji Doya,6,1
+4459,Matt J. Kusner,6,2
+4460,Geoffrey Irving,6,1
+4461,Rina Foygel Barber,6,2
+4462,Grani Adiwena Hanasusanto,6,1
+4463,Alexander A. Alemi,6,1
+4464,Jean-Bastien Grill,6,2
+4465,Niklas Een,6,1
+4466,Stephen Baccus,6,1
+4467,Hongyi Zhang,6,1
+4468,Daniel J. Mankowitz,6,1
+4469,Guillaume P. Dehaene,6,1
+4470,Gautam Kunapuli,6,1
+4471,John J. Hopfield,6,1
+4472,Nicolai Meinshausen,6,2
+4473,Harsh H. Pareek,6,1
+4474,Dmitry Krotov,6,1
+4475,Yiwen Guo,6,1
+4476,Yuanyuan Mi,6,2
+4477,Iain Melvin,6,1
+4478,Anbang Yao,6,1
+4479,Wei Ji Ma,6,1
+4480,Wenlin Chen,6,1
+4481,John G. Oberlin,6,1
+4482,Yue Wu,6,1
+4483,Richard Maclin,6,1
+4484,Dmytro Shlezinger,6,1
+4485,Yurong Chen,6,1
+4486,Jude W. Shavlik,6,1
+4487,John-mark M. Agosta,6,1
+4488,Brian J. Fischer,6,1
+4489,Shubhendu Trivedi,6,1
+4490,Li Zhang,6,1
+4491,Niru Maheswaranathan,6,1
+4492,Lane McIntosh,6,1
+4493,Luigi Acerbi,6,1
+4494,David Mcallester,6,1
+4495,Simon Barthelme,6,1
+4496,Abhradeep Thakurta,6,1
+4497,Omar Z. Khan,6,1
+4498,Walter Dempsey,6,1
+4499,Kunal Talwar,6,1
+4500,Pascal Frossard,6,1
+4501,Christoph Feichtenhofer,6,1
+4502,Aran Nayebi,6,1
+4503,Emre Neftci,6,1
+4504,Andrew Forney,6,1
+4505,Benjamin Moseley,6,1
+4506,Pedro Felzenszwalb,6,1
+4507,Adam Mamelak,6,1
+4508,Jim Wielaard,6,1
+4509,Meelis Kull,6,1
+4510,Ian Ross,6,1
+4511,Axel Pinz,6,1
+4512,Richard Wildes,6,1
+4513,Seyed-Mohsen Moosavi-Dezfooli,6,1
+4514,Shengxuan Ye,6,1
+4515,Peter Flach,6,1
+4516,Anqi Wu,6,2
+4517,Alhussein Fawzi,6,1
+4518,Joseph Francis,5,1
+4519,Amr Ahmed,5,1
+4520,Vamsi K. Ithapu,5,2
+4521,Guang Dai,5,1
+4522,John Choi,5,1
+4523,Mulugeta Semework,5,1
+4524,Jose Principe,5,1
+4525,Austin Brockmeier,5,1
+4526,Huining Hu,5,1
+4527,Farbod Roosta-Khorasani,5,1
+4528,Emilie Morvant,5,1
+4529,Zhentao Li,5,1
+4530,Sterling C. Johnson,5,2
+4531,William R. Vega-Brown,5,1
+4532,Peng Xu,5,2
+4533,Joshua T. Vogelstein,5,2
+4534,Cristian Brotto,5,1
+4535,Jiyan Yang,5,2
+4536,Alfredo Kalaitzis,5,1
+4537,Alexander Huk,5,1
+4538,Noam Brown,5,1
+4539,Jon Krohn,5,1
+4540,Adam Klivans,5,1
+4541,Danfeng Qin,5,1
+4542,Marc Niethammer,5,1
+4543,Sujith Ravi,5,1
+4544,Chansoo Lee,5,2
+4545,Alessandro Antonucci,5,1
+4546,Neville Mehta,5,1
+4547,Dominik Rothenhausler,5,1
+4548,Dharmashankar Subramanian,5,1
+4549,Dmitry Pidan,5,1
+4550,John S. Shawe-Taylor,5,1
+4551,Dongho Kim,5,1
+4552,Georges A. Goetz,5,1
+4553,Kun He,5,1
+4554,Jacob Yates,5,1
+4555,Adrian R. Vetta,5,1
+4556,Yan Wang,5,1
+4557,Gilad Lerman,5,1
+4558,Matthew Coudron,5,1
+4559,Jasper De Bock,5,1
+4560,Daniel Cavagnaro,5,1
+4561,Jay Myung,5,1
+4562,Catalin Ionescu,5,1
+4563,Guillermo D. Canas,5,1
+4564,Remi Gribonval,5,1
+4565,Weili Lin,5,1
+4566,Louis Theran,5,1
+4567,C. C. Alan Fung,5,1
+4568,Franz Kiraly,5,1
+4569,Arun Tejasvi Chaganty,5,2
+4570,Roland Kwitt,5,1
+4571,Stefan Huber,5,1
+4572,Sohan Seth,5,1
+4573,Ulrich Bauer,5,1
+4574,Christina Heinze,5,1
+4575,Arkadi S. Nemirovski,5,2
+4576,Bhargav Avasarala,5,1
+4577,David Arathorn,5,1
+4578,Pierre Machart,5,1
+4579,Matthieu Kowalski,5,1
+4580,Charles Kervrann,5,1
+4581,Adil Paul,5,1
+4582,Park Il,5,1
+4583,Hongyu Su,5,1
+4584,Joscha Schmiedt,5,1
+4585,Tuan-Anh Le,5,1
+4586,Kentaro Katahira,5,2
+4587,Jooseuk Kim,5,1
+4588,Michael Brudno,5,1
+4589,Quaid D. Morris,5,1
+4590,Thomas Naselaris,5,1
+4591,Kendrick Kay,5,1
+4592,Pinhas Nisnevitch,5,1
+4593,Jack Gallant,5,1
+4594,Lee-Ad Gottlieb,5,1
+4595,Philip Sterne,5,1
+4596,Frank Meinecke,5,1
+4597,David G. Barrett,5,1
+4598,Abdul-saboor Sheikh,5,1
+4599,Shariq A. Mobin,5,1
+4600,Jiangwen Sun,5,2
+4601,Yariv D. Mizrahi,5,1
+4602,Jinbo Bi,5,2
+4603,James A. Arnemann,5,1
+4604,Kei Wakabayashi,5,1
+4605,Ayan Chakrabarti,5,3
+4606,Cem Subakan,5,1
+4607,Andrej Risteski,5,4
+4608,Kazuo Okanoya,5,2
+4609,Timothy Hughes,5,1
+4610,Leonidas Lampropoulos,5,1
+4611,Sebastian Riedel,5,1
+4612,Alexandre Passos,5,1
+4613,David Belanger,5,1
+4614,Johannes Traa,5,1
+4615,Madeleine Udell,5,1
+4616,Melanie Rey,5,1
+4617,Brent Edmunds,5,1
+4618,Xuanli Chen,5,1
+4619,Aditya Nori,5,1
+4620,Marek Doniec,5,1
+4621,Sinead Williamson,5,1
+4622,Adam Ponzi,5,1
+4623,Jeff Wickens,5,1
+4624,zhiyuan li,5,2
+4625,Damek Davis,5,1
+4626,Yani Ioannou,5,1
+4627,Osbert Bastani,5,1
+4628,Gerald Quon,5,1
+4629,Matthieu Guillaumin,5,1
+4630,Esther Chan,5,1
+4631,Tom Rainforth,5,1
+4632,Dimitrios Vytiniotis,5,1
+4633,Mark A. Pitt,5,1
+4634,Thibaut Horel,5,1
+4635,Juho Rousu,5,1
+4636,Paul Mckeigue,5,1
+4637,Haefner Ralf,5,1
+4638,L Abbott,5,1
+4639,Kanaka Rajan,5,1
+4640,Wei Ping,5,2
+4641,Amaury Habrard,5,2
+4642,Huan Gui,5,1
+4643,Toke Hansen,5,1
+4644,Thomas Unterthiner,5,1
+4645,Yasuo Kuniyoshi,5,1
+4646,Abbas Edalat,5,1
+4647,Anand D. Sarwate,5,1
+4648,Sepp Hochreiter,5,1
+4649,Tatsuya Harada,5,1
+4650,mladen kolar,5,1
+4651,Yusuf Aytar,5,1
+4652,Junya Honda,5,1
+4653,Stefan Falkner,5,1
+4654,Junpei Komiyama,5,1
+4655,Takao Miura,5,1
+4656,Ersin Yumer,5,1
+4657,Evgeniya Ustinova,5,1
+4658,Ian Fasel,5,1
+4659,Amir Dezfouli,5,1
+4660,Yijie Guo,5,1
+4661,Nicholas G. Roy,5,1
+4662,Benjamin Link,5,1
+4663,Djork-Arne Clevert,5,1
+4664,Siqi Sun,5,1
+4665,Jan-Willem van de Meent,5,1
+4666,Andreas Mayr,5,1
+4667,Michael Perrot,5,2
+4668,Odalric-Ambrym Maillard,4,1
+4669,Manuela Veloso,4,1
+4670,Tao Wu,4,1
+4671,Felipe Trevizan,4,1
+4672,Tal Rosenwein,4,1
+4673,Ognjen Arandjelovic,4,1
+4674,Leonard White,4,1
+4675,Qiang Qiu,4,1
+4676,Kai-min Chang,4,1
+4677,Yali Wan,4,2
+4678,Daniel Khashabi,4,1
+4679,Ruoyu Sun,4,1
+4680,Jiaji Huang,4,1
+4681,Christopher Yau,4,1
+4682,Timothy Kopp,4,1
+4683,Rakesh Shivanna,4,2
+4684,Maximilian Lam,4,1
+4685,Stephen Tu,4,1
+4686,Kent Quanrud,4,1
+4687,Oren Tadmor,4,1
+4688,Sung-phil Kim,4,1
+4689,Thomas Powers,4,1
+4690,Siddhartha Banerjee,4,1
+4691,Michael Hanke,4,1
+4692,Laiwan Chan,4,1
+4693,Peter Li,4,1
+4694,Jianfeng Gao,4,1
+4695,Xinying Song,4,1
+4696,Tolga Tasdizen,4,1
+4697,Zhitang Chen,4,1
+4698,Assane Gueye,4,1
+4699,Zhangyang Wang,4,1
+4700,Yingzhen Yang,4,1
+4701,Jana S. Borg,4,1
+4702,Wenzhao Lian,4,1
+4703,Tieyan Liu,4,3
+4704,Ramesh Johari,4,2
+4705,Zhao Song,4,2
+4706,Umut Guclu,4,1
+4707,Michal Januszewski,4,1
+4708,Jeremy B. Maitin-Shepard,4,1
+4709,Yelong Shen,4,1
+4710,Hastagiri P. Vanchinathan,4,1
+4711,Yexiang Xue,4,1
+4712,Thomas Serre,4,2
+4713,Ahmad Qamar,4,1
+4714,Sarah Woolley,4,1
+4715,David M. Schneider,4,1
+4716,Greg Zelinsky,4,2
+4717,Mehdi Sajjadi,4,1
+4718,Ji He,4,1
+4719,Mehran Javanmardi,4,1
+4720,Alan F. Murray,4,1
+4721,Zhijun Yang,4,1
+4722,Juan Huo,4,1
+4723,Jianshu Chen,4,1
+4724,Xiao-Ming Wu,4,1
+4725,Jordy Thielen,4,1
+4726,Klaus Wimmer,4,1
+4727,Sung-Soo Ahn,4,2
+4728,Marcel van Gerven,4,1
+4729,Jascha Sohl-dickstein,4,1
+4730,Adams Wei Yu,4,1
+4731,Wanli Ma,4,1
+4732,Peter Lofgren,4,1
+4733,Siamak Ravanbakhsh,4,2
+4734,Misha Chertkov,4,1
+4735,Andrew E. Gelfand,4,1
+4736,Leo Karkkainen,4,1
+4737,Akos Vetek,4,1
+4738,Juha T. Karhunen,4,1
+4739,Cobi Cario,4,1
+4740,Vladimir Vovk,4,1
+4741,Eva Tardos,4,2
+4742,Ivan Petej,4,1
+4743,Valentina Fedorova,4,1
+4744,Yaoliang Yu,4,2
+4745,Upamanyu Madhow,4,1
+4746,Dinesh Ramasamy,4,1
+4747,Jonathan Le Roux,4,1
+4748,Marcel A. J. van Gerven,4,1
+4749,Marcel Stimberg,4,1
+4750,Robert Martin,4,1
+4751,Les Atlas,4,1
+4752,Yuanahao Chen,4,1
+4753,Lars Schwabe,4,1
+4754,John Hershey,4,1
+4755,Hongseok Namkoong,4,1
+4756,Scott Wisdom,4,1
+4757,Jialei Wang,4,1
+4758,Jorge Marino,4,1
+4759,James Schummers,4,1
+4760,David C. Lyon,4,1
+4761,Mriganka Sur,4,1
+4762,Xiaodong He,4,1
+4763,Matthias Kaschube,4,1
+4764,Chen-Ping Yu,4,1
+4765,Alex Wong,4,1
+4766,Anastasia Pentina,4,2
+4767,Jack Rae,4,1
+4768,Qinyuan Sun,4,1
+4769,Audrunas Gruslys,4,1
+4770,Rashish Tandon,4,1
+4771,Niranjan Subrahmanya,4,2
+4772,Jonathan J. Hunt,4,1
+4773,Sina Tootoonian,4,1
+4774,Timothy Harley,4,1
+4775,Andrew W. Senior,4,1
+4776,Michael Shindler,4,1
+4777,Vaibhav Srivastava,4,1
+4778,Martin Mevissen,4,1
+4779,Michael Shvartsman,4,1
+4780,Emanuele Ragnoli,4,1
+4781,Keiji Miura,4,1
+4782,Shiau Hong Lim,4,2
+4783,Adam W. Meyerson,4,1
+4784,Taylan Cemgil,4,1
+4785,Isik B. Fidaner,4,1
+4786,Georgios Exarchakis,4,1
+4787,Matthias S. Keil,4,1
+4788,Zhenwen Dai,4,1
+4789,Jakob Verbeek,4,1
+4790,Davood Hajinezhad,4,1
+4791,Yuening Hu,4,1
+4792,Z. Irene Ying,4,1
+4793,Shreyas Saxena,4,1
+4794,Hong Ge,4,1
+4795,Aude Genevay,4,1
+4796,Warren Powell,4,1
+4797,Lauren Hannah,4,1
+4798,Kamiya Motwani,4,1
+4799,Nagesh Adluru,4,1
+4800,Arunava Banerjee,4,1
+4801,Nicholas Fisher,4,1
+4802,Keenon Werling,4,1
+4803,Bethany Lusch,4,1
+4804,hongsheng Li,4,1
+4805,Wanli Ouyang,4,1
+4806,Balazs B. Ujfalussy,4,1
+4807,Xiao Chu,4,1
+4808,Calvin McCarter,4,1
+4809,Parikshit Shah,4,1
+4810,Tue Herlau,4,1
+4811,Mikkel N. Schmidt,4,1
+4812,Gongguo Tang,4,1
+4813,Rahul Kidambi,4,1
+4814,Jianxu Chen,4,1
+4815,Hidekazu Oiwa,4,1
+4816,Felipe Gerhard,4,1
+4817,ozgur Simsek,4,1
+4818,Lin Yang,4,1
+4819,Marcus Buckmann,4,1
+4820,Fatma K. Karzan,4,1
+4821,Boris T. Polyak,4,1
+4822,Koosha Khalvati,4,2
+4823,Mark Alber,4,1
+4824,Regis Vert,4,1
+4825,Danny Z. Chen,4,1
+4826,Adrien Wohrer,4,1
+4827,Bhaswar Bhattacharya,4,1
+4828,Andrew Alexander,4,1
+4829,Nilesh Tripuraneni,4,1
+4830,Jia Yuan Yu,4,1
+4831,Shantanu J. Jain,4,1
+4832,Jason M. Eisner,4,1
+4833,Loc X. Bui,4,1
+4834,Ni Lao,4,1
+4835,Alexander Riordan,4,1
+4836,Robert Aguilar,4,1
+4837,Liu Xinwang,4,1
+4838,Brigham S. Anderson,4,1
+4839,Yandong Liu,4,1
+4840,Changwei Hu,4,1
+4841,Moses Charikar,4,1
+4842,Predrag Radivojac,4,1
+4843,Jan Homann,4,1
+4844,Santosh Vempala,4,1
+4845,Motonobu Kanagawa,4,1
+4846,Will Perkins,4,1
+4847,Yi Gu,4,1
+4848,David Tank,4,1
+4849,Noah Apthorpe,4,1
+4850,Yuancheng Zhu,4,2
+4851,Tatsuto Murayama,4,1
+4852,Yu-ming Chang,4,1
+4853,Wen-Yu Hua,4,1
+4854,Nikos Karampatziakis,4,1
+4855,Leonid Karlinsky,4,1
+4856,Bo Waggoner,4,1
+4857,Jacob Gardner,4,1
+4858,Hanshen Huang,4,1
+4859,Dennis Barbour,4,1
+4860,Peter Davis,4,1
+4861,Michael Dinerstein,4,1
+4862,Himabindu Lakkaraju,4,1
+4863,Yuh-jye Lee,4,1
+4864,Shimon Ullman,4,1
+4865,Chun-nan Hsu,4,1
+4866,Hanjun Dai,3,1
+4867,Jason Hartline,3,1
+4868,Yao Xie,3,1
+4869,Yen-Chi Chen,3,2
+4870,Achintya Kundu,3,1
+4871,Vikram Tankasali,3,1
+4872,Patrick Lucey,3,1
+4873,Ruben Moreno-Bote,3,1
+4874,Paul Lagree,3,1
+4875,David Harwath,3,1
+4876,Alain Durmus,3,1
+4877,Krysta Svore,3,1
+4878,Kenneth Hild,3,1
+4879,Roland Badeau,3,1
+4880,Wooseok Ha,3,1
+4881,Chang Liu,3,2
+4882,Renato Negrinho,3,1
+4883,Bozidar Radunovic,3,1
+4884,Chongjie Zhang,3,1
+4885,Lennart Svensson,3,1
+4886,Di He,3,1
+4887,Yingce Xia,3,1
+4888,Han Guo,3,1
+4889,Namrata Vaswani,3,1
+4890,Nathan Wiebe,3,1
+4891,Zhenming Liu,3,1
+4892,Wei-Ying Ma,3,1
+4893,Jason Pacheco,3,1
+4894,Lee H. Dicker,3,2
+4895,Dong Dai,3,1
+4896,Gael RICHARD,3,1
+4897,Antonino Freno,3,1
+4898,Nishant Mehta,3,1
+4899,Stephen Voinea,3,1
+4900,Nikhil Devanur,3,1
+4901,Zhan Wei Lim,3,1
+4902,Yao Ma,3,1
+4903,Jonah G. Cader,3,1
+4904,Quoc Phong Nguyen,3,1
+4905,Sven Eberhardt,3,1
+4906,David Kappel,3,1
+4907,Ryan M. Rogers,3,2
+4908,Arild Nokland,3,1
+4909,Brian Caffo,3,1
+4910,Naoki Masuda,3,1
+4911,Kenneth W. Latimer,3,1
+4912,Dane S. Corneil,3,1
+4913,Jun Nishikawa,3,1
+4914,Shipra Agrawal,3,1
+4915,Max Vladymyrov,3,1
+4916,Tomoya Sakai,3,1
+4917,Minija Tamosiunaite,3,2
+4918,Marthinus Christoffel du Plessis,3,1
+4919,Huitong Qiu,3,1
+4920,Renjie Liao,3,1
+4921,Bryan Kian Hsiang Low,3,1
+4922,Robert Legenstein,3,1
+4923,Ankit Singh Rawat,3,1
+4924,He Wang,3,2
+4925,Kritika Muralidharan,3,1
+4926,Claire Vernade,3,1
+4927,Johannes Friedrich,3,1
+4928,Marc Tommasi,3,1
+4929,Jan Drugowitsch,3,1
+4930,Mathew Monfort,3,1
+4931,Jun-ichiro Hirayama,3,1
+4932,James Glass,3,1
+4933,Yu-Ying Liu,3,1
+4934,Kaushik Patnaik,3,1
+4935,Yoav S. Freund,3,1
+4936,Arya Mazumdar,3,1
+4937,James M. Rehg,3,1
+4938,Yang Yuan,3,1
+4939,Seungjin Choi,3,3
+4940,Simon Lyons,3,1
+4941,Fred Rieke,3,1
+4942,Wen-Hao Zhang,3,2
+4943,Simo Sarkka,3,1
+4944,Anand Singh,3,1
+4945,Christopher R. Dance,3,1
+4946,Pierre Magistretti,3,1
+4947,Patrick Putzky,3,1
+4948,Chen-hsiang Yeang,3,1
+4949,Luis Perez-breva,3,1
+4950,Ofir David,3,1
+4951,Shay Moran,3,1
+4952,Amir Yehudayoff,3,1
+4953,Philip N. Sabes,3,1
+4954,Hendrik Blockeel,3,1
+4955,Nima Taghipour,3,1
+4956,Giacomo Bassetto,3,1
+4957,Ricky Der,3,1
+4958,Divyanshu Vats,3,1
+4959,Bruno Weber,3,1
+4960,Tal Wagner,3,1
+4961,firdaus janoos,3,1
+4962,Conghui Tan,3,1
+4963,Yu-Hong Dai,3,1
+4964,Huseyin Denli,3,1
+4965,Yuqiu Qian,3,1
+4966,Artur Garcez,3,1
+4967,Luis C. Lamb,3,1
+4968,Remi Flamary,3,2
+4969,Dov M. Gabbay,3,1
+4970,Behzad Golshan,3,1
+4971,John Byers,3,1
+4972,Nicolas Courty,3,2
+4973,Florian Franzen,3,1
+4974,Vince Calhoun,3,2
+4975,Armando Solar-Lezama,3,2
+4976,Fan Yang,3,1
+4977,Jianchao Yang,3,1
+4978,Andrey Lokhov,3,2
+4979,Yiu M. Lam,3,1
+4980,Emma Cohen,3,1
+4981,Sidhant Misra,3,1
+4982,Marc Vuffray,3,1
+4983,Simon Rubinstein-Salzedo,3,1
+4984,Susan Holmes,3,1
+4985,Reihaneh Rabbany,3,1
+4986,Eric Schulz,3,1
+4987,Christof Seiler,3,1
+4988,Cynthia Freeman,3,1
+4989,Maarten Speekenbrink,3,1
+4990,Bernd Gartner,3,1
+4991,Minh Tan Nguyen,3,1
+4992,Ankit B. Patel,3,1
+4993,Christopher Berlind,3,1
+4994,Tatsuya Hongo,3,1
+4995,Sejun Park,3,1
+4996,Hemant Tyagi,3,1
+4997,Sergey Plis,3,1
+4998,Maja Rudolph,3,1
+4999,Sara Magliacane,3,1
+5000,Jie Liu,3,1
+5001,Pieter Adriaans,3,1
+5002,Evimaria Terzi,3,1
+5003,Nina Mishra,3,1
+5004,Christopher H. Stock,3,1
+5005,Shi-jie Lin,3,1
+5006,Yi-da Wu,3,1
+5007,David Crandall,3,1
+5008,Dehua Cheng,3,1
+5009,Kevin Ellis,3,2
+5010,Richard Peng,3,1
+5011,Onur Teymur,3,1
+5012,Mohammad Saberian,3,2
+5013,Ioakeim Perros,3,1
+5014,Gunwoong Park,3,1
+5015,Shigeyuki Oba,3,1
+5016,Shin Ishii,3,1
+5017,Joseph G. Makin,3,1
+5018,Clayton T. Morrison,3,1
+5019,Wenming Zheng,3,1
+5020,Marco Fraccaro,3,1
+5021,Matteo Hessel,3,1
+5022,Jarmo Hurri,3,1
+5023,Andre Martins,3,1
+5024,Tie-Yan Liu,3,1
+5025,Shan-Wei Lin,3,1
+5026,Daniel K. Hewlett,3,1
+5027,Bo Thiesson,3,1
+5028,Jose M. Alvarez,3,1
+5029,Thomas J. Walsh,3,1
+5030,Sylvain Chevallier,3,1
+5031,Helene Paugam-moisy,3,1
+5032,Farzan Farnia,3,2
+5033,David Tse,3,2
+5034,Kostas Zygalakis,3,1
+5035,Stefan Lee,3,1
+5036,Senthil Purushwalkam Shiva Prakash,3,1
+5037,Michele Sebag,3,1
+5038,Michael Cogswell,3,1
+5039,Hsin Chen,3,1
+5040,Viresh Ranjan,3,1
+5041,Dongqu Chen,2,1
+5042,Ian Kash,2,1
+5043,Nathan Intrator,2,1
+5044,Weiwei Liu,2,1
+5045,Pietro Vertechi,2,1
+5046,Ofer Pasternak,2,1
+5047,Ivor Tsang,2,1
+5048,J. Zico Kolter,2,1
+5049,Balamurugan Palaniappan,2,1
+5050,Alnur Ali,2,1
+5051,Brenda Betancourt,2,1
+5052,Zongben Xu,2,1
+5053,Atsushi Shibagaki,2,1
+5054,Jiecao Chen,2,1
+5055,Teemu Roos,2,1
+5056,Bryant Chen,2,1
+5057,Sunita Sarawagi,2,1
+5058,Xiaotong Yuan,2,2
+5059,Kapil Thadani,2,1
+5060,Yingbo Song,2,1
+5061,Paolo D. Giudice,2,1
+5062,Qin Zhang,2,1
+5063,Nir Sochen,2,1
+5064,yan yang,2,1
+5065,Huibin Li,2,1
+5066,Pratik Jawanpuria,2,1
+5067,Zafer Barutcuoglu,2,1
+5068,Sundar Vishwanathan,2,1
+5069,Naoto Ohsaka,2,1
+5070,He Sun,2,1
+5071,Suriya Gunasekar,2,2
+5072,Yaniv Assaf,2,1
+5073,Umut Acar,2,1
+5074,Vittorio Dante,2,1
+5075,Yu Liu,2,1
+5076,Kevin Chen,2,1
+5077,Sorin Lerner,2,1
+5078,Zhe Liu,2,1
+5079,Diane Hu,2,1
+5080,Michael Schmitt,2,1
+5081,Ramgopal R. Mettu,2,1
+5082,ABHISEK KUNDU,2,1
+5083,Pinyan Lu,2,1
+5084,Nir Rosenfeld,2,1
+5085,Ozgur Sumer,2,1
+5086,Michal Derezinski,2,1
+5087,Jimin Song,2,1
+5088,Fu Li,2,1
+5089,Abdul-Saboor Sheikh,2,1
+5090,Stephen Pasteris,2,3
+5091,Wei Hu,2,1
+5092,Inna Weiner,2,1
+5093,Ming Lin,2,1
+5094,Saurabh Paul,2,1
+5095,Tomer Hertz,2,1
+5096,Shinsuke Koyama,2,1
+5097,Israel Nelken,2,1
+5098,Davide Badoni,2,1
+5099,Boris Belousov,2,1
+5100,Mario Pannunzi,2,1
+5101,Massimiliano Giulioni,2,1
+5102,Olivier Bachem,2,1
+5103,Petri Myllymaki,2,1
+5104,Giacomo Zanella,2,1
+5105,Igor Colin,2,1
+5106,Laura Martignon,2,1
+5107,Abbas Zaidi,2,1
+5108,Beka Steorts,2,1
+5109,Henry Tirri,2,1
+5110,Amir Najmi,2,1
+5111,Finnian Lattimore,2,1
+5112,Hiroshi Morioka,2,1
+5113,Yuval Harel,2,1
+5114,Nick Chamandy,2,1
+5115,Constantin A. Rothkopf,2,1
+5116,Chen Change Loy,2,1
+5117,Chen Huang,2,1
+5118,Yuanjun Xiong,2,1
+5119,Omkar Muralidharan,2,1
+5120,Hanna Wallach,2,2
+5121,Jasmina Bogojeska,2,1
+5122,Hesham Mostafa,2,1
+5123,Shantanu Chakrabartty,2,1
+5124,Yujia Li,2,1
+5125,Jiajing Xu,2,1
+5126,Bibaswan K. Chatterjee,2,1
+5127,Kevin Jing,2,1
+5128,Jason M. Samonds,2,1
+5129,Raman Sankaran,2,1
+5130,Zhe Li,2,1
+5131,Jennifer Iglesias,2,1
+5132,Dan Alistarh,2,1
+5133,Theodore Bluche,2,1
+5134,Ruth Urner,2,2
+5135,Amit Gore,2,1
+5136,Diana Cai,2,1
+5137,Moontae Lee,2,2
+5138,Shandian Zhe,2,1
+5139,David Mimno,2,2
+5140,Jan Benda,2,1
+5141,Pengyuan Wang,2,1
+5142,Daniel M. Steinberg,2,1
+5143,Jan Grewe,2,1
+5144,Seyed Mehran Kazemi,2,1
+5145,Yi Zhou,2,1
+5146,Ji Xu,2,1
+5147,Christian R. Shelton,2,1
+5148,Horace Pan,2,1
+5149,Antoine Desir,2,1
+5150,Angelika Kimmig,2,1
+5151,Christian Igel,2,1
+5152,Stephan Clemencon,2,3
+5153,Aurelien Bellet,2,3
+5154,Kumar Dubey,2,1
+5155,Haim Cohen,2,1
+5156,Scott Yang,2,3
+5157,Jonathan Kadmon,2,1
+5158,Yang Xu,2,1
+5159,Felix Berkenkamp,2,1
+5160,Oswin Krause,2,1
+5161,Didac Rodriguez Arbones,2,1
+5162,Matteo Turchetta,2,1
+5163,Hanxiao Liu,2,1
+5164,Kenneth Latimer,2,1
+5165,Miro Dudik,2,1
+5166,Abir De,2,1
+5167,Keerthiram Murugesan,2,1
+5168,Niloy Ganguly,2,1
+5169,Xiao Li,2,1
+5170,Danny Segev,2,1
+5171,Ashok Cutkosky,2,1
+5172,Yunsong Huang,2,1
+5173,B. Keith Jenkins,2,1
+5174,Vineet Goyal,2,1
+5175,Lorenz. K. Mueller,2,1
+5176,Wesley Huie,2,1
+5177,Zelda E. Mariet,2,1
+5178,Kin F. Kan,2,1
+5179,Tatiana Shpakova,2,1
+5180,Eui Chul Shin,2,1
+5181,Robin Evans,2,1
+5182,Tofigh Naghibi Mohamadpoor,2,1
+5183,Jonathan Ullman,2,1
+5184,Salil Vadhan,2,1
+5185,Beat Pfister,2,1
+5186,Frank Park,2,1
+5187,George Papamakarios,2,1
+5188,Xue-Xin Wei,2,1
+5189,Kiarash Shaloudegi,2,1
+5190,Yu Cheng,2,2
+5191,Chao Xu,2,1
+5192,Ibrahim M. Alabdulmohsin,2,1
+5193,Ran Gilad-Bachrach,2,1
+5194,Clay J. Stanek,2,1
+5195,Costas J. Spanos,2,1
+5196,Yuxun Zhou,2,1
+5197,Christoph Kolodziejski,2,1
+5198,Shan You,2,1
+5199,Chang Xu,2,1
+5200,Mingcheng Chen,2,1
+5201,Yunhe Wang,2,1
+5202,Jong K. Kim,2,1
+5203,Xinyun Chen,2,1
+5204,Ola Svensson,2,1
+5205,Gleb Gusev,2,2
+5206,Hiroko Kobayashi,2,1
+5207,David Poole,2,1
+5208,Anna Stockl,2,1
+5209,Ross Lippert,2,1
+5210,Masakazu Ishihata,2,1
+5211,Ryan Rifkin,2,1
+5212,Ji Hyun Bak,2,1
+5213,Akinori Fujino,2,1
+5214,Mehrdad Ghadiri,2,1
+5215,Mathieu Blondel,2,1
+5216,Yoshiki Suzuki,2,1
+5217,Wilsun Xu,2,1
+5218,Matjaz Jogan,2,1
+5219,Gautam Dasarathy,2,2
+5220,Athena Akrami,2,1
+5221,Ilana Witten,2,1
+5222,Simon Ashton,2,1
+5223,Jung Choi,2,1
+5224,Jisu KIM,2,1
+5225,Fabian Sinz,2,1
+5226,Andrew Miller,1,1
+5227,Daniele Durante,1,1
+5228,Stefano Favaro,1,1
+5229,Maria Lomeli,1,1
+5230,Bruno Scarpa,1,1
+5231,Qing Sun,1,1
+5232,Daniel Ritchie,1,1
+5233,Farzaneh Mirzazadeh,1,1
+5234,Michail Kontitsis,1,1
+5235,Akiko Takeda,1,1
+5236,Jeremie Knusel,1,1
+5237,Hau Chan,1,1
+5238,S. Derin Babacan,1,1
+5239,Shuyang Gao,1,1
+5240,Yingxue Wang,1,1
+5241,Anuj Mahajan,1,1
+5242,Xavier Boix,1,1
+5243,Shafin Rahman,1,1
+5244,David Saad,1,1
+5245,Eugene Belilovsky,1,1
+5246,Mithun Chakraborty,1,1
+5247,Matthew B. Blaschko,1,1
+5248,Dennis Wei,1,1
+5249,Anna Thomas,1,1
+5250,Julien Audiffren,1,1
+5251,Pat Hanrahan,1,1
+5252,Zhuo Gao,1,1
+5253,Denis Sheynikhovich,1,1
+5254,Mark Kozdoba,1,1
+5255,Albert Wu,1,1
+5256,Aman Sinha,1,1
+5257,Jedediah M. Singer,1,1
+5258,Luke O'Connor,1,1
+5259,Soheil Feizi,1,1
+5260,Cheston Tan,1,1
+5261,Qi Meng,1,1
+5262,Marin Kobilarov,1,1
+5263,Salomon Diether,1,1
+5264,Kristin Branson,1,1
+5265,Qingqing Huang,1,1
+5266,David Moore,1,1
+5267,Arun Rajkumar,1,2
+5268,Edouard Pauwels,1,1
+5269,Jean B. Lasserre,1,1
+5270,Oren Anava,1,3
+5271,peter j. bickel,1,1
+5272,Pingfan Tang,1,1
+5273,Hadi Mohasel Afshar,1,1
+5274,Jeff M. Phillips,1,1
+5275,David Bindel,1,1
+5276,Gemma Roig,1,1
+5277,Yan Yan,1,1
+5278,Yi Xu,1,1
+5279,Albert S. Berahas,1,1
+5280,Shuangfei Zhai,1,1
+5281,Shaona Ghosh,1,1
+5282,Michele Rucci,1,1
+5283,Zhongfei (Mark) Zhang,1,1
+5284,Weining Lu,1,1
+5285,Jianbo Yang,1,1
+5286,David Sheinberg,1,1
+5287,Ronald Berezney,1,1
+5288,Hu Ding,1,1
+5289,Tara Hamilton,1,1
+5290,Valentin Emiya,1,1
+5291,Jeff Regier,1,1
+5292,Jon McAuliffe,1,1
+5293,Diane Bouchacourt,1,1
+5294,Zequn Jie,1,1
+5295,Xiaodan Liang,1,1
+5296,Xiaojie Jin,1,1
+5297,Wen Lu,1,1
+5298,Wentao Huang,1,1
+5299,Raphael Fonteneau,1,1
+5300,Licheng Jiao,1,1
+5301,Shan Tan,1,1
+5302,Maoguo Gong,1,1
+5303,Craig Jin,1,1
+5304,Tatyana Sharpee,1,1
+5305,Richard Reeve,1,1
+5306,Andre V. Schaik,1,1
+5307,Mr. Prabhat,1,1
+5308,David Schlegel,1,1
+5309,George Mohler,1,1
+5310,Minhua Chen,1,1
+5311,Michael Ross,1,1
+5312,Andrew Cohen,1,1
+5313,Zhi-Ming Ma,1,1
+5314,Qiwei Ye,1,1
+5315,Taifeng Wang,1,1
+5316,Guolin Ke,1,1
+5317,Tian Gao,1,1
+5318,Dylan Festa,1,1
+5319,Mohammad Mahdian,1,1
+5320,William T. Stephenson,1,1
+5321,Matteo Carandini,1,1
+5322,Pavel Serdyukov,1,1
+5323,Ruiyu Li,1,1
+5324,Sathya Narayanan Ravi,1,1
+5325,Hao Zhou,1,1
+5326,Christopher Lynn,1,1
+5327,Yang You,1,1
+5328,James Demmel,1,1
+5329,Weihao Gao,1,1
+5330,Michael P. Friedlander,1,1
+5331,Thodoris Lykouris,1,1
+5332,Gabriel Goh,1,1
+5333,Tyler B. Johnson,1,1
+5334,Feng Nan,1,1
+5335,Yujia Shen,1,2
+5336,Eunice Yuh-Jie Chen,1,1
+5337,Ekaterina Gladkikh,1,1
+5338,Ilia Shishkov,1,1
+5339,Alexey Drutsa,1,1
+5340,Arulkumar Subramaniam,1,1
+5341,Zhuoran Yang,1,2
+5342,Wei-Shou Hsu,1,1
+5343,Justin T. Khim,1,1
+5344,Varun Jog,1,1
+5345,Anurag Mittal,1,1
+5346,Moitreya Chatterjee,1,1
+5347,Trung Le,1,1
+5348,Shanshan Wu,1,2
+5349,Tu Nguyen,1,1
+5350,Vu Nguyen,1,1
+5351,Panagiotis Toulis,1,1
+5352,Zhiting Hu,1,1
+5353,Alexander Shishkin,1,1
+5354,Anastasia Bezzubtseva,1,1
+5355,Sebastian Pokutta,1,1
+5356,Aurko Roy,1,1
+5357,Justin Eldridge,1,1
+5358,Yanyao Shen,1,1
+5359,Andrei M. Raigorodskii,1,1
+5360,Aleksey Tikhonov,1,1
+5361,Maksim Zhukovskii,1,1
+5362,Alexander Braunstein,1,1
+5363,Zhi Wei,1,1
+5364,Shane T. Jensen,1,1
+5365,Rajkumar Vasudeva Raju,1,1
+5366,Ellen Vitercik,1,1
+5367,Qixing Huang,1,1
+5368,Seok Hyun Jin,1,1
+5369,Nicolo Colombo,1,1
+5370,Ming Bo Cai,1,1
+5371,Nicolas W. Schuck,1,1
+5372,Tamara Fernandez,1,1
+5373,Yurii Nesterov,1,1
+5374,Sanghamitra Dutta,1,1
+5375,Dmitry Ostrovsky,1,1
+5376,Dogyoon Song,1,1
+5377,Bonnie Kirkpatrick,1,1
+5378,Dean Bodenham,1,1
+5379,Felipe Llinares-Lopez,1,1
+5380,Laetitia Papaxanthos,1,1
+5381,Bo Tang,1,1
+5382,Yihua Li,1,1
+5383,Tara Javidi,1,1
+5384,Alexander Gasnikov,1,1
+5385,Songbai Yan,1,1
+5386,Pulkit Grover,1,1
+5387,Viveck Cadambe,1,1
+5388,Ruihao Zhu,1,1
+5389,Lev Bogolubsky,1,1
+5390,Pavel Dvurechensky,1,1
+5391,Kenneth D. Harris,1,1
+5392,Shabnam N. Kadir,1,1
+5393,Xiangru Huang,1,1
+5394,Nicholas A. Steinmetz,1,1
+5395,Ekaterina Tikhoncheva,1,1
+5396,Michal Feldman,1,1
+5397,Aviv Zohar,1,1
+5398,Stefano Leonardi,1,1
+5399,Jason Pazis,1,1
+5400,Luozheng Li,1,1
+5401,Jakub Lacki,1,1
+5402,Ronald E. Parr,1,2
+5403,Aris Anagnostopoulos,1,1
+5404,Dahui Wang,1,1
+5405,Dan Goodman,1,1
+5406,Romain Brette,1,1
+5407,Sergei Vassilvitskii,1,1
+5408,Rishi Gupta,1,1
+5409,sabyasachi chatterjee,1,1
+5410,Artsiom Sanakoyeu,1,1
+5411,Yihua Chen,1,1
+5412,Miguel A. Bautista,1,1
+5413,Hayato Kobayashi,1,1
+5414,Demis Hassabis,1,1
+5415,James Kirkpatrick,1,1
+5416,Kieran Milan,1,1
+5417,Florence d'Alche-Buc,1,1
+5418,Maxime Sangnier,1,1
+5419,Heishiro Kanagawa,1,1
+5420,Nobuyuki Shimizu,1,1
+5421,Thomas Vanck,1,1
+5422,Yukihiro Tagami,1,1
+5423,Tengyao Wang,1,1
+5424,Quentin Berthet,1,1
+5425,Yaniv Plan,1,1
+5426,Uwe Dick,1,1
+5427,Peter Haider,1,1
+5428,Mathias Niepert,1,1
+5429,Brian W. Dolhansky,1,1
+5430,Peter Jones,1,1
+5431,Bang Cong Vu,1,1
+5432,Yong Ren,1,2
+5433,Kevin Canini,1,2
+5434,Ahmed M. Alaa,1,1
+5435,Mihaela van der Schaar,1,1
+5436,Charles Schaff,1,1
+5437,Miguel Eckstein,1,1
+5438,Arturo Deza,1,1
+5439,Yucen Luo,1,1
+5440,Wojciech Kotlowski,1,1
+5441,Robert A. Jacobs,1,1
+5442,Emin Orhan,1,1
+5443,Matthew A. Kayala,1,1
+5444,Ken D. Miller,1,1
+5445,Yashar Ahmadian,1,1
+5446,Jialian Li,1,1
+5447,Georgios Arvanitidis,1,1
+5448,Reza Eghbali,1,1
+5449,Lancelot F. James,1,1
+5450,Stephen Ragain,1,1
+5451,Aryan Mokhtari,1,1
+5452,Hadi Daneshmand,1,1
+5453,Alejandro Ribeiro,1,1
+5454,Jonathan Huggins,1,1
+5455,Quentin Cormier,1,1
+5456,Juho Lee,1,2
+5457,Hongyang Zhang,1,1
+5458,Eli Gutin,1,1
+5459,Jian Wu,1,1
+5460,Hao Wu,1,1
+5461,Frank Noe,1,1
+5462,Bowei Yan,1,1
+5463,Yang Song,1,2
+5464,Nicolas Rivera,1,1
+5465,Matthew Weiden,1,1
+5466,Tsuyoshi Ueno,1,1
+5467,Jennifer Hobbs,1,1
+5468,Steven Z. Wu,1,1
+5469,Todd K. Leen,1,1
+5470,Jeffrey Kaye,1,1
+5471,Jing Xu,1,1
+5472,Pierre-Louis Giscard,1,1
+5473,Richard Wilson,1,1
+5474,Martin A. Zinkevich,1,1
+5475,Antoine Gautier,1,1
+5476,Quynh N. Nguyen,1,1
+5477,Mengdi Wang,1,1
+5478,Ethan Fang,1,1
+5479,Shirley Ho,1,1
+5480,Yannic Kilcher,1,1
+5481,Kejun Huang,1,1
+5482,Xiao Fu,1,1
+5483,Nikolaos D. Sidiropoulos,1,1
+5484,Yang Liu,1,1
+5485,Yiling Chen,1,2
+5486,Bei Chen,1,1
+5487,Alexandre Lacoste,1,1
+5488,Gediminas Luksys,1,2
+5489,Carmen Sandi,1,2
+5490,Gergo Bohner,1,1
+5491,Stephane Marchand-Maillet,1,1
+5492,Ke Sun,1,1
+5493,Shahin Jabbari,1,1
+5494,Stephan Zheng,1,1
+5495,Theodoros Tsiligkaridis,1,1
+5496,Christopher Lo,1,1
+5497,ming yuan,1,1
+5498,Kwang-Sung Jun,1,1
+5499,Tae-Hyun Oh,1,1
+5500,Yasuyuki Matsushita,1,1
+5501,In Kweon,1,1
+5502,Firdaus Janoos,1,1
+5503,Weichang Li,1,1
+5504,Istvan Morocz,1,1
+5505,William Wells,1,1
+5506,Tianyang Li,1,1
+5507,Stefan Kiebel,1,1
+5508,Victor Picheny,1,1
+5509,Sebastian Bitzer,1,1
+5510,Ankani Chattoraj,1,1
+5511,Fredrik D. Johansson,1,1
+5512,Robert B. Gramacy,1,1
+5513,Stefan Wild,1,1
+5514,Sebastien Le Digabel,1,1
+5515,Sekhar C. Tatikonda,1,1
+5516,De Wen Soh,1,1
+5517,David B. Smith,1,1
+5518,Takashi Takenouchi,1,1
+5519,Artem Sokolov,1,1
+5520,Julia Kreutzer,1,1
+5521,Stefan Riezler,1,1
+5522,Keith Forsythe,1,1
+5523,Nils M. Kriege,1,1
+5524,Ana Maria Tome,1,1
+5525,Erfan Yazdandoost Hamedani,1,1
+5526,Luis Seabra Lopes,1,1
+5527,Seyed Hamidreza Kasaei,1,1
+5528,Rodrigo Nogueira,1,1
+5529,Necdet Serhat Aybat,1,1
+5530,Ruohan Zhang,1,1
+5531,David Cox,0,1
+5532,Ragupathyraj Valluvan,0,1
+5533,Robert A. Vandermeulen,0,1
+5534,Guannan Liang,0,1
+5535,Jin Lu,0,1
+5536,Ruichen Qian,0,1
+5537,Andrew M. Saxe,0,1
+5538,Karthik Ramani,0,1
+5539,Ayan Sinha,0,1
+5540,Yu-Xiong Wang,0,1
+5541,Aviad Rubinstein,0,1
+5542,Shrinu Kushagra,0,1
+5543,Hassan Ashtiani,0,1
+5544,Junjie Zhu,0,1
+5545,Yun Fu,0,1
+5546,Yin Cheng Ng,0,1
+5547,Pawel M. Chilinski,0,1
+5548,Bo Wang,0,1
+5549,Armin Pourshafeie,0,1
+5550,Hakan Bilen,0,1
+5551,Xinwei Sun,0,1
+5552,Gheorghe Comanici,0,1
+5553,Nuno Nvasconcelos,0,1
+5554,Erik Lindgren,0,1
+5555,Can Xu,0,1
+5556,Xinan Wang,0,1
+5557,Madhu Advani,0,1
+5558,Yuan Yao,0,1
+5559,Jiechao Xiong,0,1
+5560,Chendi Huang,0,1
+5561,Jiseong Park,0,1
+5562,Chuan-Yung Tsai,0,1
+5563,Hassan A. Kingravi,0,1
+5564,Harshal R. Maske,0,1
+5565,Girish Chowdhary,0,1
+5566,Yuan Zhao,0,1
+5567,Eric Balkanski,0,1
+5568,Anshul Kundaje,0,1
+5569,Oana Ursu,0,1
+5570,Jana Schaich Borg,0,1
+5571,Ilija Bogunovic,0,2
+5572,Matey Neykov,0,1
+5573,Michael Zibulevsky,0,1
+5574,Mark K. Ho,0,1
+5575,Marcin J. Skwark,0,1
+5576,Aditya Grover,0,1
+5577,Boris Ginsburg,0,1
+5578,Antonij Golkov,0,1
+5579,Jens Meiler,0,1
+5580,Vianney Perchet,0,1
+5581,Remy Degenne,0,1
+5582,Daniel Cremers,0,1
+5583,James MacGlashan,0,1
+5584,Ken Takiyama,0,1
+5585,Charles Kalish,0,1
+5586,Alexander Shekhovtsov,0,1
+5587,Qi Lei,0,1
+5588,Xinran He,0,1
+5589,Ke Xu,0,1
+5590,Valentin Zhigulin,0,1
+5591,Kevin Degraux,0,1
+5592,Michael Littman,0,1
+5593,Fiery Cushman,0,1
+5594,Chi-Jen Lu,0,1
+5595,Eric Shea-Brown,0,1
+5596,Jonathan Scarlett,0,1
+5597,Pekka Parviainen,0,1
+5598,Junfeng Wen,0,1
+5599,Ilya Shpitser,0,2
+5600,Janne H. Korhonen,0,1
+5601,Oleg Grinchuk,0,1
+5602,Vadim Lebedev,0,1
+5603,Vignesh Ganapathiraman,0,1
+5604,Elad Richardson,0,1
+5605,Vladimir Golkov,0,1
+5606,Chengtao Li,0,1
+5607,Stefan Mihalas,0,1
+5608,Kameron D. Harris,0,1
+5609,Rom Herskovitz,0,1
+5610,Forrest W. Crawford,0,1
+5611,Lin Chen,0,1
+5612,Tarun Kathuria,0,1
+5613,Amit Deshpande,0,1
+5614,Prakash Panangaden,0,1
+5615,Jose Costa Pereira,0,1
+5616,Yi-Te Hong,0,1
+5617,Matei Zaharia,0,1
+5618,Shizhong Han,0,1
+5619,Firas Abuzaid,0,1
+5620,Feynman T. Liang,0,1
+5621,Andrew Feng,0,1
+5622,Lee Yang,0,1
+5623,Zibo Meng,0,1
+5624,AHMED-SHEHAB KHAN,0,1
+5625,Yan Tong,0,1
+5626,Ameet S. Talwalkar,0,1
+5627,Su-In Lee,0,1
+5628,Enze Zhou,0,1
+5629,Aaron Schein,0,1
+5630,Mark Davenport,0,1
+5631,Liangbei Xu,0,1
+5632,Ivan Herreros,0,1
+5633,Daniel N. Holtmann-Rice,0,1
+5634,Shengjia Zhao,0,1
+5635,Ruitong Huang,0,1
+5636,Pedro A. Ortega,0,1
+5637,Seyed Mohammad Javad Hosseini,0,1
+5638,Chen-Yu Wei,0,1
+5639,Lin Tian,0,1
+5640,Ariel Rokem,0,1
+5641,Charles Y. Zheng,0,1
+5642,Zohar Karnin,0,1
+5643,Yash H. Malviya,0,1
+5644,Pulkit Tandon,0,1
+5645,Qilong Gu,0,1
+5646,Guoqiang Yu,0,1
+5647,Cheng Soon Ong,0,1
+5648,Yue Wang,0,1
+5649,Arash Amini,0,1
+5650,Kira Poskanzer,0,1
+5651,Nathan F. Lepora,0,1
+5652,Reza B. Zadeh,0,1
+5653,David J. Miller,0,1
+5654,James Newling,0,1
+5655,Bipin Rajendran,0,1
+5656,Sheeraz Ahmad,0,1
+5657,Yizhi Wang,0,1
+5658,Xerxes Arsiwalla,0,1
+5659,Paul Verschure,0,1
+5660,Chris Junchi Li,0,1
+5661,Frederic Chazal,0,1
+5662,Xiaohui Shen,0,1
+5663,Scott Cohen,0,1
+5664,Brian Price,0,1
+5665,Simon O'Callaghan,0,1
+5666,Dino Oglic,0,1
+5667,Jaehyung Lee,0,1
+5668,Chandra Dhir,0,1
+5669,Ruth Heller,0,1
+5670,Ilaria Giulini,0,1
+5671,Stefano Panzeri,0,1
+5672,Brian Bullins,0,1
+5673,Bertrand Michel,0,1
+5674,Juan Fuentes,0,1
+5675,Luis Salamanca,0,1
+5676,Pablo M. Olmos,0,1
+5677,Yair Heller,0,1
+5678,Minhyung Cho,0,1
+5679,Jan Pfeifer,0,1
+5680,Peng Wang,0,1
+5681,Ransalu Senanayake,0,1
+5682,Fang Chen,0,1
+5683,Claire Tomlin,0,1
+5684,HItomi Arai,0,1
+5685,Gasper Tkacik,0,2
+5686,Shinji Ito,0,1
+5687,Junbo Jake Zhao,0,1
+5688,Olivier Marre,0,1
+5689,Matthew Chalk,0,1
+5690,Daniel Neil,0,1
+5691,Omer Weissbrod,0,1
+5692,Feras Saad,0,1
+5693,William Hoiles,0,1
+5694,David H. Wolpert,0,1
+5695,Karen Willcox,0,1
+5696,Remi Lam,0,1
+5697,matt zhang,0,1
+5698,Peng Lin,0,1
+5699,Ting Guo,0,1
+5700,Maximilian Balandat,0,1
+5701,Laurent Jacques,0,1
+5702,Amin Jalali,0,1
+5703,David Kempe,0,1
+5704,Xin Li,0,1
+5705,Yongbo Li,0,1
+5706,Mikhail Yurochkin,0,1
+5707,Weisheng Dong,0,1
+5708,Xuemei Xie,0,1
+5709,Ye Wang,0,1
+5710,Yicong Meng,0,1
+5711,GUANGMING Shi,0,1
+5712,JUN HAN,0,1
+5713,Donglai Xu,0,1
+5714,Rizal Fathony,0,1
+5715,Steven Cheng-Xian Li,0,1
+5716,Farshad Lahouti,0,1
+5717,Devon Hjelm,0,1
+5718,Kumar Avinava Dubey,0,1
+5719,Siddharth Ancha,0,1
+5720,Chien-Ju Ho,0,1
+5721,Sougata Chaudhuri,0,1
+5722,Kevin Leyton-Brown,0,1
+5723,Yaniv Tenzer,0,1
+5724,Michel Gendreau,0,1
+5725,Jason S. Hartford,0,1
+5726,Sebastien Gerchinovitz,0,1
+5727,Shan-Hung Wu,0,1
+5728,Pan Zhang,0,1
+5729,Ronggang Wang,0,1
+5730,Elvis DOHMATOB,0,1
+5731,Arthur Mensch,0,1
+5732,xiongtao Chen,0,1
+5733,Wenmin Wang,0,1
+5734,Georgios Theocharous,0,1
+5735,Jinzhuo Wang,0,1
+5736,Hong Chen,0,1
+5737,Adam Scibior,0,1
+5738,Carl-Johann Simon-Gabriel,0,1
+5739,Nicholas Barry,0,1
+5740,David Salinas,0,1
+5741,Franco Pestilli,0,1
+5742,Weidong Cai,0,1
+5743,Valentin Flunkert,0,1
+5744,Haifeng Xia,0,1
+5745,James R. Wright,0,1
+5746,Pan Xu,0,1
+5747,Travis Monk,0,1
+5748,Zijun Wei,0,1
+5749,Maia Fraser,0,1
+5750,Ioana Dumitriu,0,1
+5751,Wing Hung Wong,0,1
+5752,Munther Dahleh,0,1
+5753,Kun Yang,0,1
+5754,Shreya Saxena,0,1
+5755,Dangna Li,0,1
+5756,Damien Scieur,0,1
+5757,Hossein Adeli,0,1
+5758,Uygar Sumbul,0,1
+5759,Jose L. Torrecilla,0,1
+5760,Moein Falahatgar,0,1
+5761,Mesrob I. Ohannessian,0,1
+5762,Gao Huang,0,1
+5763,Chuan Guo,0,1
+5764,Yu Sun,0,1
+5765,Minh Hoai,0,1
+5766,Alex Flint,0,1
+5767,David J. Schwab,0,1
+5768,Pedro Ortega,0,1
+5769,Fei Chen,0,1
+5770,Byunghan Lee,0,1
+5771,Tal Yarkoni,0,1
+5772,Rafal Jozefowicz,0,1
+5773,Daniel Haas,0,1
+5774,Alex Beatson,0,1
+5775,Jian Xu,0,1
+5776,Anh Tuan Nguyen,0,1
+5777,Taesup Moon,0,1
+5778,Seonwoo Min,0,1
+5779,Sungroh Yoon,0,1
+5780,Douglas Roossien,0,1
+5781,Edwin Stoudenmire,0,1
+5782,Guillaume Papa,0,2
+5783,Daniel Braun,0,1
+5784,Tim Genewein,0,1
+5785,Chaoyue Liu,0,1
+5786,Timothy Rubin,0,1
+5787,Jordi Grau-moya,0,1
+5788,Dawen Cai,0,1
+5789,Kang-Jun Liu,0,1
+5790,xinyang gong,0,1
+5791,Guiguan Lin,0,1
+5792,Xiang Li,0,1
+5793,D. Phoenix,0,1
+5794,Bhaskara Marthi,0,1
+5795,CC Laan,0,1
+5796,Marc Sebban,0,1
+5797,Qingshan Liu,0,1
+5798,Wolfgang Lehrach,0,1
+5799,Kentaro Minami,0,1
+5800,Junier B. Oliva,0,1
+5801,Jian Yang,0,1
+5802,Remi Emonet,0,1
+5803,Aditya Ramesh,0,1
+5804,Giulia DeSalvo,0,1
+5805,Subhashini Krishnasamy,0,1
+5806,Ken Kansky,0,1
+5807,Ching-An Cheng,0,1
+5808,Sargur N. Srihari,0,1
+5809,Wen Dong,0,1
+5810,Zhen Xu,0,1
+5811,Dileep George,0,1
+5812,Valentina Zantedeschi,0,1
+5813,Ting-Yu Cheng,0,1
+5814,Pamela A. Abshire,0,1
+5815,Qiyang Han,0,1
+5816,Haixuan Yang,0,1
+5817,Jean-Claude Dreher,0,1
+5818,Seongmin A. Park,0,1
+5819,Prashant Doshi,0,1
+5820,ALEXANDROS GEORGOGIANNIS,0,1
+5821,Maruan Al-Shedivat,0,1
+5822,Xia Qu,0,1
+5823,Timothy K. Horiuchi,0,1
+5824,Mandar D. Dixit,0,1
+5825,Zane T. Smith,0,1
+5826,Facundo Memoli,0,1
+5827,Samir Chowdhury,0,1
+5828,Varun Gupta,0,1
+5829,Ming Yu,0,1
+5830,Saleema Amershi,0,1
+5831,Ara Vartanian,0,1
+5832,Mohammad T. Irfan,0,1
+5833,Carlo Ciliberto,0,1
+5834,Rong Zhu,0,1
+5835,Pedro Mercado,0,1
+5836,Elissa Aminoff,0,1
+5837,Vu C. Dinh,0,1
+5838,Lam S. Ho,0,1
+5839,Binh Nguyen,0,1
+5840,Han-Jia Ye,0,1
+5841,Duy Nguyen,0,1
+5842,Kass E. Robert,0,1
+5843,Kaito Fujii,0,1
+5844,Michael Tarr,0,1
+5845,Ying Yang,0,1
+5846,Francesco Tudisco,0,1
+5847,Junhong Lin,0,1
+5848,Jingyu Shao,0,1
+5849,Kevin Winner,0,1
+5850,Dominique Joncas,0,1
+5851,James McQueen,0,1
+5852,Sanjay Shakkottai,0,1
+5853,Edward Boyden,0,1
+5854,Simon S. Du,0,1
+5855,De-Chuan Zhan,0,1
+5856,Daniel M. Wolpert,0,1
+5857,Daniel McNamee,0,1
+5858,Marwa El Halabi,0,1
+5859,Michael Mitzenmacher,0,1
+5860,Victor Soto,0,1
+5861,Nitish Korula,0,1
+5862,Hossein Esfandiari,0,1
+5863,Martin Paulus,0,1
+5864,Alberto Suarez,0,2
+5865,Gonzalo Martinez-Munoz,0,1
+5866,Rajat Sen,0,1
+5867,Siddartha Y. Ramamohan,0,1
+5868,Nguyen Cuong,0,1
+5869,Yuan Jiang,0,1
+5870,He Huang,0,2
+5871,Longyin Wen,0,1
+5872,Wataru Kumagai,0,1
+5873,Xue-Min Si,0,1
+5874,Ashkan Norouzi-Fard,0,1
+5875,Abbas Bazzi,0,1
+5876,Guillaume Rabusseau,0,1
