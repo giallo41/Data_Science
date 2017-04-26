@@ -1,0 +1,152 @@
+Hashing with Graphs
+Efficient Sparse Modeling with Automatic Feature Grouping
+Multi-Label Classification on Tree- and DAG-Structured Hierarchies
+A Graph-based Framework for Multi-Task Multi-View Learning
+GoDec Randomized Low-rank Sparse Matrix Decomposition in Noisy Case
+Unimodal Bandits
+Learning Output Kernels with Block Coordinate Descent
+Vector-valued Manifold Regularization
+On Information-Maximization Clustering Tuning Parameter Selection and Analytic Solution
+On tracking portfolios with certainty equivalents on  a generalization of Markowitz model the Fool the Wise and the Adaptive
+Multiple Instance Learning with Manifold Bags
+Eigenvalue Sensitive Feature Selection
+Large Scale Text Classification using  Semi-supervised Multinomial Naive Bayes
+Enhanced Gradient and Adaptive Learning Rate for Training Restricted Boltzmann Machines
+Dynamic Tree Block Coordinate Ascent
+Implementing regularization implicitly via approximate eigenvector computation
+Parsing Natural Scenes and Natural Language with Recursive Neural Networks
+Conjugate Markov Decision Processes
+Learning Mallows Models with Pairwise Preferences
+Surrogate losses and regret bounds for cost-sensitive classification with example-dependent costs
+Efficient Rule Ensemble Learning using Hierarchical Kernels
+An Augmented Lagrangian Approach to Constrained MAP Inference
+Mean-Variance Optimization in Markov Decision Processes
+Time Series Clustering Complex is Simpler
+Max-margin Learning for Lower Linear Envelope Potentials in Binary Markov Random Fields
+Inference of Inversion Transduction Grammars
+BCDNPKL Scalable Non-Parametric Kernel Learning Using Block Coordinate Descent
+Learning Discriminative Fisher Kernels
+Pruning nearest neighbor cluster trees
+Online AUC Maximization
+Beat the Mean Bandit
+Ultra-Fast Optimization Algorithm for Sparse Multi Kernel Learning
+Estimating the Bayes Point Using Linear Knapsack Problems
+On optimization methods for deep learning
+Multiclass Classification with Bandit Feedback using Adaptive Regularization
+On the Necessity of Irrelevant Variables
+ABC-EP Expectation Propagation for Likelihood-free Bayesian Computation
+A PAC-Bayes Sample-compression Approach to Kernel Methods
+Integrating Partial Model Knowledge in Model Free RL Algorithms
+Fast Newton-type Methods for Total Variation Regularization
+Parallel Coordinate Descent for L1-Regularized Loss Minimization
+Large-Scale Convex Minimization with a Low-Rank Constraint
+Approximate Dynamic Programming for Storage Problems
+Online Submodular Minimization for Combinatorial Structures
+Minimal Loss Hashing for Compact Binary Codes
+The Hierarchical Beta Process for Convolutional Factor Analysis and Deep Learning
+Simultaneous Learning and Covering with Adversarial Noise
+Topic Modeling with Nonparametric Markov Tree
+Relational Active Learning for Joint Collective Classification Models
+A Co-training Approach for Multi-view Spectral Clustering
+Learning from Multiple Outlooks
+Adaptive Kernel Approximation for Large-Scale Non-Linear SVM Prediction
+Risk-Based Generalizations of f-divergences
+Learning Multi-View Neighborhood Preserving Projections
+Better Algorithms for Selective Sampling
+Minimax Learning Rates for Bipartite Ranking and Plug-in Rules
+Task Space Retrieval Using Inverse Feedback Control
+Bayesian CCA via Group Sparsity
+PILCO A Model-Based and Data-Efficient Approach to Policy Search
+Suboptimal Solution Path Algorithm for Support Vector Machine
+Incremental Basis Construction from Temporal Difference Error
+Predicting Legislative Roll Calls from Text
+On Bayesian PCA Automatic Dimensionality Selection and Analytic Solution
+Learning Linear Functions with Quadratic and Linear Multiplicative Updates
+Domain Adaptation for Large-Scale Sentiment Classification A Deep Learning Approach
+Learning with Whom to Share in Multi-task Feature Learning
+Boosting on a Budget Sampling for Feature-Efficient Prediction
+Speeding-Up Hoeffding-Based Regression Trees With Options 
+Linear Regression under Fixed-Rank Constraints A Riemannian Approach
+Cauchy Graph Embedding
+Uncovering the Temporal Dynamics of Diffusion Networks
+Multiclass Boosting with Hinge Loss based on Output Coding
+Approximation Bounds for Inference using Cooperative Cuts
+Brier Curves a New Cost-Based Visualisation of Classifier Performance
+Semi-supervised Penalized Output Kernel Regression for Link Prediction
+A New Bayesian Rating System for Team Competitions
+OptiML An Implicitly Parallel Domain-Specific Language for Machine Learning
+Infinite SVM a Dirichlet Process Mixture of Large-margin Kernel Machines
+On the Integration of Topic Modeling and Dictionary Learning
+Piecewise Bounds for Estimating Bernoulli-Logistic Latent Gaussian Models
+Access to Unlabeled Data can Speed up Prediction Time
+From PAC-Bayes Bounds to Quadratic Programs for Majority Votes
+A Coherent Interpretation of AUC as a Measure of Aggregated Classification Performance
+Support Vector Machines as Probabilistic Models
+Adaptively Learning the Crowd Kernel
+Bayesian Learning via Stochastic Gradient Langevin Dynamics
+Multimodal Deep Learning
+On the Robustness of Kernel Density M-Estimators
+Beam Search based MAP Estimates for the Indian Buffet Process
+Optimal Distributed Online Prediction
+Message Passing Algorithms for the Dirichlet Diffusion Tree
+Convex Max-Product over Compact Sets for Protein Folding
+Structure Learning in Ergodic Factored MDPs without Knowledge of the Transition Function's In-Degree
+Clusterpath an Algorithm for Clustering using Convex Fusion Penalties
+Tree preserving embedding
+Clustering by Left-Stochastic Matrix Factorization 
+The Infinite Regionalized Policy Representation
+SampleRank Training Factor Graphs with Atomic Gradients
+Tree-Structured Infinite Sparse Factor Model
+Preserving Personalized Pagerank in Subgraphs
+Hierarchical Classification via Orthogonal Transfer
+A Three-Way Model for Collective Learning on Multi-Relational Data
+Variational Inference for Policy Search in changing situations
+Learning Scoring Functions with Order-Preserving Losses and Standardized Supervision
+Contractive Auto-Encoders Explicit Invariance During Feature Extraction
+Variational Heteroscedastic Gaussian Process Regression
+Bounding the Partition Function using Holder's Inequality
+Dynamic Egocentric Models for Citation Networks
+The Constrained Weight Space SVM Learning with Ranked Features
+Robust Matrix Completion and Corrupted Columns
+Online Discovery of Feature Dependencies
+Variational Inference for Stick-Breaking Beta Process Priors
+Apprenticeship Learning About Multiple Intentions
+Minimum Probability Flow Learning
+Infinite Dynamic Bayesian Networks
+The Importance of Encoding Versus Training with Sparse Coding and Vector Quantization
+Fast Global Alignment Kernels
+Learning attentional policies for tracking and recognition in video with deep networks
+Large-Scale Learning of Embeddings with Reconstruction Sampling
+Automatic Feature Decomposition for Single View Co-training
+Mapping kernels for trees
+Stochastic Low-Rank Kernel Learning for Regression
+Size-constrained Submodular Minimization through Minimum Norm Base
+Locally Linear Support Vector Machines
+Functional Regularized Least Squares Classification with Operator-valued Kernels
+Clustering Partially Observed Graphs via Convex Optimization
+On the Use of Variational Inference for Learning Discrete Graphical Models
+Generating Text with Recurrent Neural Networks
+Probabilistic Matrix Addition
+Learning Recurrent Neural Networks with Hessian-Free Optimization
+Sparse Additive Generative Models of Text
+Classification-based Policy Iteration with a Critic
+Submodular meets Spectral Greedy Algorithms for Subset Selection Sparse Approximation and Dictionary Selection
+A Spectral Algorithm for Latent Tree Graphical Models
+A Unified Probabilistic Model for Global and Local Unsupervised Feature Selection
+Towards Making Unlabeled Data Never Hurt
+On Random Weights and Unsupervised Feature Learning
+Doubly Robust Policy Evaluation and Learning
+Learning Deep Energy Models
+Bipartite Ranking through Minimization of Univariate Loss
+Manifold Identification of Dual Averaging Methods for Regularized Stochastic Online Learning
+Noisy matrix decomposition via convex relaxation Optimal rates in high dimensions
+Bundle Selling by Online Estimation of Valuation Functions
+Unsupervised Models of Images by Spike-and-Slab RBMs
+Approximating Correlated Equilibria using Relaxations on the Marginal Polytope
+Active Learning from Crowds
+Computational Rationalization The Inverse Equilibrium Problem
+Finite-Sample Analysis of Lasso-TD
+Generalized Value Functions for Large Action Sets
+k-DPPs Fixed-Size Determinantal Point Processes
+On Autoencoders and Score Matching for Energy Based Models
+Generalized Boosting Algorithms for Convex Optimization
