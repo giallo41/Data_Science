@@ -13,17 +13,17 @@ test truth (gender_submission.csv)
 
 <b>Data Dictionary</b> <br>
 
-Variable	Definition	Key <br>
-survival	Survival	0 = No, 1 = Yes <br>
-pclass	Ticket class	1 = 1st, 2 = 2nd, 3 = 3rd <br>
-sex	Sex	<br>
-Age	Age in years	<br>
-sibsp	# of siblings / spouses aboard the Titanic	<br>
-parch	# of parents / children aboard the Titanic	<br>
-ticket	Ticket number	<br>
-fare	Passenger fare	<br>
-cabin	Cabin number	<br>
-embarked	 [ Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton ] <br>
+*Variable	Definition	Key <br>
+*survival	Survival	0 = No, 1 = Yes <br>
+*pclass	Ticket class	1 = 1st, 2 = 2nd, 3 = 3rd <br>
+*sex	Sex	<br>
+*Age	Age in years	<br>
+*sibsp	# of siblings / spouses aboard the Titanic	<br>
+*parch	# of parents / children aboard the Titanic	<br>
+*ticket	Ticket number	<br>
+*fare	Passenger fare	<br>
+*cabin	Cabin number	<br>
+*embarked	 [ Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton ] <br>
 
 Pre-processed data from the reference <br>
 
@@ -64,14 +64,14 @@ Name: Fare, dtype: float64 <br>
 <b> Feature in Use </b>
 
 train_col_name=[ 'Age', 'Fare', 'Parch', 'Pclass', 'SibSp', 'nCabin_deck', 'nTitle', 'nSex']<br>
-Age = numeric <br>
-Fare = numeric <br>
-Parch = numeric <br>
-Pclass = numeric <br>
-Sibsp = numeric <br>
-nCabin_deck = Category<br>
-nTitle = Category<br>
-nSex = Category<br><br>
++ Age = numeric <br>
++ Fare = numeric <br>
++ Parch = numeric <br>
++ Pclass = numeric <br>
++ Sibsp = numeric <br>
++ nCabin_deck = Category<br>
++ nTitle = Category<br>
++ nSex = Category<br><br>
 
 originally (nEmbark', 'Cabin_count') featured <br>
 but after examining the feature_importaces_ (very small or zero ) <br>
