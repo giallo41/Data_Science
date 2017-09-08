@@ -78,17 +78,17 @@ but after examining the feature_importaces_ (very small or zero ) <br>
 
 Using Sklearn Library <br><br>
 
-#### Random Forest Classifier ####<br>
+#### Random Forest Classifier<br>
 --- Est Value is : 14.000<br>
 Train Score : 97.419%<br>
 Test Score : 83.254%<br>
 
-#### SVM kernel Classifier ####<br>
+#### SVM kernel Classifier<br>
 --- C Value is : 100.000 Gamma value is : 0.200<br>
 Train Score : 88.440%<br>
 Test Score : 87.321%<br>
 
-#### MLP Classifier ####<br>
+#### MLP Classifier<br>
 ----- Layer :  [30, 10]<br>
 Train Score : 90.797%<br>
 Test Score : 85.167%<br>
