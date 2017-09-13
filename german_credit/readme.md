@@ -25,7 +25,7 @@ Datasets Source : https://www.openml.org/d/31
 
 > Selected Features 
 
-![Selected Features](./images/features_0913.png) 
+![Selected Features](./image/features_0913.png) 
 
 > Cross Validation Result 
 
