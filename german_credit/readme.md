@@ -31,7 +31,7 @@ Datasets Source : https://www.openml.org/d/31
 > Cross Validation Result<br>
 using RandomForest Classifier 
 
-{'criterion': 'gini', 'max_depth': 7, 'max_features': 3, 'n_estimators': 100}
+{'criterion': 'gini', 'max_depth': 7, 'max_features': 3, 'n_estimators': 100}<br>
 best cross score : 0.765<br>
 test score : 0.755<br>
 Much reduced variance (train & test score)<br>
