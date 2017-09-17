@@ -11,11 +11,14 @@ Datasets Source : https://www.openml.org/d/31
 * Target : Good / Bad (70%/30%) 
 
  : Base Accuracy rate should be above 70% (random choice)
+<br>
+<br>
 
 
 
 —
 2nd Edition (09/17)
+-------------
 
 > Feture Engineering 
 => Set Small size sample of features -> consolidate & resizing 
@@ -41,6 +44,7 @@ but still has a lot of room to improve "Bias"<br>
 
 —
 1st Edition (09/13)
+-------------
 
 > Feature Selection from 
 
