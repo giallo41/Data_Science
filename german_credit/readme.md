@@ -36,11 +36,30 @@ best cross score : 0.765<br>
 test score : 0.755<br>
 Much reduced variance (train & test score)<br>
 but still has a lot of room to improve "Bias"<br>
+<br>
+
+> Confustion Matrix <br>
+[157,  83], <br>
+[  5, 555]  <br>
+
+FN - 5, FP - 83 <br> 
+one of the sample data that recoginize the FP is <br><br>
+
+index 331 - FP <Br>
+index 324 - PP <br>
+ 
+<br>
+2 sample's are same feature after feature engineering expect Credit Amount and Age <br>
+
+original featrue <br>
+331 - purpose : 'education', 	savings_statu : '100<=X<500' <br>
+324 - purpose : 'new car', 	savings_statu : 'X<100' <br>
 
 
 
 
 
+<Br><br><br>
 
 —
 1st Edition (09/13)
