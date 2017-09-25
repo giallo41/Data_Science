@@ -1,5 +1,4 @@
 Fashion MNIST Datasets recognition
-
 ============
 Datasets Source : https://www.kaggle.com/zalando-research/fashionmnist/data
 
@@ -23,7 +22,9 @@ CLASSES = { <br>
     '9': 'Ankle boot'<br>
 }<br>
 <br>
+
 ![sample image](./images/pullover.png) 
+
 <br>
 Label : Pullover <br>
 
@@ -52,4 +53,4 @@ Epoch 27: Cost - 0.3100 Train Acc - 88.41 Test Acc - 86.24<br>
 Epoch 28: Cost - 0.3082 Train Acc - 88.45 Test Acc - 86.49<Br>
 Epoch 29: Cost - 0.3064 Train Acc - 89.09 Test Acc - 86.78<br>
 <br>
-![cost & accurary ](./images/0925.png) 
+![cost & accurary](./images/0925.png) 
