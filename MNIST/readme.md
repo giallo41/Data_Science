@@ -31,8 +31,9 @@ Label : Pullover <br>
 
 
 —
-1st Edition (09/25)
+1st Edition (09/25) 
 -------------
+ㅇFile : fashion_mnist_tensorflow.ipynb 
 
 > Using Tensorflow 
 : Layers = [ 784, 100, 100, 10 ] 
