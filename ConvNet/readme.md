@@ -13,7 +13,6 @@ Resized to 200x200 <br>
 https://github.com/giallo41/Data_Science/blob/master/ConvNet/tf_rgb_cnn_pooling_test.ipynb
 
 <br>
-* For Deep Understanding follow the link <br>
-
-- Karpathy Stanford Univ cs231n Lecture <br>
+- For Deep Understanding follow the link <br>
+: Karpathy Stanford Univ cs231n Lecture <br>
 http://cs231n.github.io/convolutional-networks/
