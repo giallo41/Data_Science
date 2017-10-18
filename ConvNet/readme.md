@@ -14,5 +14,6 @@ https://github.com/giallo41/Data_Science/blob/master/ConvNet/tf_rgb_cnn_pooling_
 
 <br>
 * For Deep Understanding follow the link <br>
+
 - Karpathy Stanford Univ cs231n Lecture <br>
 http://cs231n.github.io/convolutional-networks/
