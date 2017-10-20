@@ -1,7 +1,7 @@
 ConvNet Architectures and Examples 
 ============
 <br><br>
-# 1. Sample Testing for Convolution and Maxpooling layer
+## 1. Sample Testing for Convolution and Maxpooling layer
 
 Datasets Source : https://pixabay.com/p-300572/?no_redirect 
 
@@ -22,15 +22,15 @@ https://github.com/giallo41/Data_Science/blob/master/ConvNet/tf_rgb_cnn_pooling_
 http://cs231n.github.io/convolutional-networks/
 
 <br><br><br>
-# 2. MNIST dataset Classification using CNN
+## 2. MNIST dataset Classification using CNN
 
-* Datasets Sources : 
+* Datasets Sources : https://www.kaggle.com/c/digit-recognizer/data
 
 
 
 * Jupyter File : https://github.com/giallo41/Data_Science/blob/master/ConvNet/tf_cnn_mnist_1020.ipynb
 
-# Tensor Graph <br>
+### Tensor Graph <br>
 <Br>
 
 <b>Layer Structure</b> <br>
@@ -47,3 +47,8 @@ http://cs231n.github.io/convolutional-networks/
 * Cost & Accuracy Result 
 
 ![sample image](./image/cnn_mnist_cost.png) 
+
+<br>
+<br>
+<br>
+
