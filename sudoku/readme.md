@@ -6,17 +6,22 @@ Sudoku Problem solving using neural networks
 Datasets Source : https://www.kaggle.com/bryanpark/sudoku
 
 
+* How to play the game
+
+http://www.sudoku.com/ 
+
+<br>
+
+
 <br><br>
 
 * Sudoku Problem Sample
 
 ![sample image](./images/input_array.png) 
 
+: fill the 0 with the right number 
 <br>
-fill the 0 with the right number 
-<br>
-* play the game <br>
-http://www.sudoku.com/ 
+
 
 * Target Array (Solutions) 
 
