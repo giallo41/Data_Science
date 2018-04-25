@@ -18,3 +18,6 @@
 
 
 
+### Medical & Healthcare
+
+(1) Dermatologist-level classification of skin cancer with deep neural networks [[pdf]](https://www.nature.com/articles/nature21056)
