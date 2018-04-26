@@ -19,6 +19,8 @@
 
 (2) Deep Fragment Embeddings for Bidirectional ImageSentence Mapping [[pdf]](https://arxiv.org/abs/1406.5679.pdf)
 
+(3) Embodied Question Answering [[pdf]](https://arxiv.org/abs/1711.11543.pdf)
+
 
 ---------------------
 
