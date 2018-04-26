@@ -19,7 +19,7 @@
 
 (2) Deep Fragment Embeddings for Bidirectional ImageSentence Mapping [[pdf]](https://arxiv.org/abs/1406.5679.pdf)
 
-(3) Embodied Question Answering [[pdf]](https://arxiv.org/abs/1711.11543.pdf)
+(3) Embodied Question Answering (2018) [[pdf]](https://arxiv.org/abs/1711.11543.pdf)
 
 
 ---------------------
@@ -28,7 +28,9 @@
 
 ### Medical & Healthcare
 
-(1) Dermatologist-level classification of skin cancer with deep neural networks [[pdf]](https://www.nature.com/articles/nature21056)
+(1) Dermatologist-level classification of skin cancer with deep neural networks (2017) [[pdf]](https://www.nature.com/articles/nature21056)
+
+(2) Learning Normalized Inputs for Iterative Estimation in Medical Image Segmentation (2017) [[pdf]](https://arxiv.org/abs/1702.05174.pdf)
 
 
 ---------------------
