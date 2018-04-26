@@ -13,6 +13,26 @@
 ---------------------
 
 
+
+### Medical & Healthcare
+
+(1) Dermatologist-level classification of skin cancer with deep neural networks (2017) [[pdf]](https://www.nature.com/articles/nature21056)
+
+(2) Learning Normalized Inputs for Iterative Estimation in Medical Image Segmentation (2017) [[pdf]](https://arxiv.org/abs/1702.05174.pdf)
+
+
+---------------------
+
+
+
+### Natural Language Processing 
+
+(1) Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement (2018, ICLR) [[pdf]](https://arxiv.org/pdf/1802.06901.pdf)
+
+
+---------------------
+
+
 ### Grounding 
 
 (1) Grounded Compositional Semantics for Finding and Describing Images with Sentences [[pdf]](http://www.aclweb.org/anthology/Q14-1017)
@@ -25,12 +45,3 @@
 ---------------------
 
 
-
-### Medical & Healthcare
-
-(1) Dermatologist-level classification of skin cancer with deep neural networks (2017) [[pdf]](https://www.nature.com/articles/nature21056)
-
-(2) Learning Normalized Inputs for Iterative Estimation in Medical Image Segmentation (2017) [[pdf]](https://arxiv.org/abs/1702.05174.pdf)
-
-
----------------------
