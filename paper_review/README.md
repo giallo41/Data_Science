@@ -11,6 +11,8 @@
 
 (3) Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting [[pdf]](https://arxiv.org/abs/1707.01926.pdf)
 
+(4) DeepTransport: Learning Spatial-Temporal Dependency for Traffic Condition Forecasting [[pdf]](https://arxiv.org/abs/1709.09585.pdf)
+
 
 ---------------------
 
