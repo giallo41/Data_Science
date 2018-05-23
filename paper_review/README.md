@@ -9,7 +9,7 @@
 
 (2) The Simpler The Better- A Unified Approach to Predicting Original Taxi Demands based on Large-Scale Online Platforms [[pdf]](https://www.semanticscholar.org/paper/The-Simpler-The-Better%3A-A-Unified-Approach-to-Taxi-Tong-Chen/6e578d6e9531dbf0d948081fe109df9b254ad4c4)
 
-(3) Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting [[pdf]](https://arxiv.org/abs/1707.01926.pdf)
+(3) Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting (2018, ICLR) [[pdf]](https://arxiv.org/abs/1707.01926.pdf)
 
 (4) DeepTransport: Learning Spatial-Temporal Dependency for Traffic Condition Forecasting [[pdf]](https://arxiv.org/abs/1709.09585.pdf)
 
