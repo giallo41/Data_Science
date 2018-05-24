@@ -45,6 +45,10 @@
 
 (3) Embodied Question Answering (2018) [[pdf]](https://arxiv.org/abs/1711.11543.pdf)
 
+(4) Recent Advance in Content-based Image Retrieval: A Literature Survey (2017) [[pdf]](https://arxiv.org/pdf/1706.06064.pdf)
+
+
+
 
 ---------------------
 
