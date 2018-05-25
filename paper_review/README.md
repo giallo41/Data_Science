@@ -39,7 +39,7 @@
 ### Computer Vision 
 
 (1) Taking a Deeper Look at Pedestrians (2015, CVPR) [[pdf]](https://arxiv.org/pdf/1501.05790.pdf)
-
+(2) Compact Convolutional Neural Network Cascade for Face Detection (2015, CVPR) [[pdf]](https://arxiv.org/pdf/1508.01292.pdf)
 
 ---------------------
 
