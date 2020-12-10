@@ -7,8 +7,15 @@ logging.basicConfig(level = logging.INFO,
 def main():
 
     empty_list = []
-    for i in range(10000000):
+    for i in range(100):
         empty_list.append(i)
+
+    try :
+        print (empty_list[101])
+    except IndexError as e:
+        logging.error(e)
+
+
 
 if __name__=="__main__":
     start_prog_tm = time.time()
